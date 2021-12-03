@@ -1,0 +1,22 @@
+INDEX VERSION 1.3+D:\javalx\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2853953208.index
+1410089352.index
+420630296.index
+827673510.index
+1379612202.index
+478776477.index
+1502922298.index
+1498204503.index
+285417207.index
+451677842.index
+2982705913.index
+3481326100.index
+3480754939.index
+1988025817.index
+3947012148.index
+1254969608.index
+1269016195.index
+31482805.index
+2630309627.index
+2489268459.index
+1359434550.index

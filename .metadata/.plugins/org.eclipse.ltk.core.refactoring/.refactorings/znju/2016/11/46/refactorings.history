@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将资源“znju/src/客户端控制.lua”重命名为“服务器带触控代码.lua”" description="重命名资源“客户端控制.lua”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/客户端控制.lua" name="服务器带触控代码.lua" stamp="1478572720921" updateReferences="true"/>
+</session>

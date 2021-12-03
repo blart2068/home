@@ -1,0 +1,206 @@
+
+<!-- saved from url=(0043)/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="stylesheet" type="text/css" href="css.css">
+<title>南通海上传奇</title>
+
+
+
+
+
+<script >
+            function toVaild(){//判读11位电话号码
+            	var temp = document.getElementById("ff").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+            
+            function toVaild2(){//判读11位电话号码
+            	var temp = document.getElementById("f2").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！!");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+            
+    </script>
+
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="">
+<div style="text-align: center;">
+<!--  //标题
+<div align="center" class="sz"><img src="img/index_1.jpg" width="1000" height="77" alt=""></div>
+-->
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+	<tbody><tr>
+		<td colspan="3">
+			<img src="../imges/hscq2/01.jpg" width="1000"  border="0" usemap="#Map"></td>
+	</tr>
+	
+	
+	<tr>
+		<td colspan="3">
+			<img src="../imges/xyszhgy/02.jpg" width="1000" border="0"></td>
+			
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="../imges/xyszhgy/03.jpg" width="1000" ></td>
+			
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="../imges/xyszhgy/04.jpg" width="1000" ></td>
+			
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="../imges/xyszhgy/05.jpg" width="1000" ></td>
+			
+	</tr>
+	</table>
+	
+	<div  style="text-align: center; border:solid 2px red; width: 1000px;">
+        
+
+       <br><br>
+  		<form action="/ldcd/xyshgy.jsp" method="post" target="my" onsubmit="return toVaild()">
+            <input type="text" required="required" placeholder="姓名:" name="uid"></input>  
+			<br>	<br>
+            <input type="text" required="required" placeholder="电话:" name="upwd" id='ff' ></input> 
+            <input id="xm" type='hidden'name='xm'  value=""/><script src="/ldcd/xmmc.js"></script>  
+            <br>	<br>
+
+            <button class="but" type="submit" >24小时团购报名</button>  
+            <p align="center">(活动)团购预约，即享团购价</p>
+             </form> 
+      		 <img src="../imges/xyszhgy/weixing.jpg" width="300" ><br><br>
+    </div>  
+    
+	
+	
+	<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+	<tr>
+		<td colspan="3">
+			<img src="../imges/xyszhgy/a.jpg" width="1004" ></td>
+			
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="../imges/xyszhgy/b.jpg" alt="" width="1004" ></td>
+			
+	</tr>
+	
+	<tr>
+		<td colspan="3">
+			<img src="../imges/xyszhgy/12.jpg" alt="" width="1004"></td>
+			
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="../imges/xyszhgy/09.jpg" alt="" width="1004"></td>
+			
+	</tr>
+	
+</tbody>
+
+</table>
+<h1 style="font-size: 50px;color: red;"id="tgbm">24小时团购报名</h1>
+	
+	</div>
+
+		
+        <div style="text-align: center;">
+        
+
+       
+  		<form action="/ldcd/xyshgy.jsp" method="post" target="my" onsubmit="return toVaild2()">
+            <input type="text" required="required" placeholder="姓名:" name="uid"></input>  
+			<br>	<br>
+            <input type="text" required="required" placeholder="电话:" name="upwd" id='f2' ></input> 
+            <input id="xm1" type='hidden'name='xm'  value=""/><script  src="/ldcd/xmmc1.js"></script> 
+            <br>	<br>
+
+            <button class="but" type="submit" >24小时团购报名</button>  
+            <p align="center">(活动)团购预约，即享团购价</p>
+             </form> 
+      		<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+    </div>  
+    
+    
+   
+	
+	
+			
+	
+   
+    
+    <!-- 底板菜单  -->
+    <div class="nav" id="show" >
+		<ul >
+			<li style="background: red; "><a href="tel:02151877608" ><span><img src="./hqxydc_files/lpxq.jpg"
+						width="80px"></span><span style="color: white;">电话咨询</span></a></li>
+			<li style="background: yellow;"><a href="#tgbm"><span><img
+						src="./hqxydc_files/sy.jpg" width="80px"></span><span style="color: blue;">团购报名</span></a></li>
+			
+		</ul>
+	</div>
+   
+	
+	
+	
+	
+		
+			<div>
+			  <div align="center">
+			    <p class="STYLE2">&nbsp;</p>
+			    <p class="STYLE3"><a href="#">首页</a> / <a href="gywm.html">关于我们</a> / <a href="#">联系我们</a></p>
+			   <br><br><br><br><br><br>
+			  </div>
+			</div>
+	
+	
+
+<!-- End ImageReady Slices -->
+
+
+<!--hongbaoend-->
+
+
+
+</body>
+<script type="text/javascript">
+
+var system ={  
+		win : false,  
+		mac : false,  
+		xll : false  
+		};  
+		var p = navigator.platform;  
+		system.win = p.indexOf("Win") == 0;  
+		system.mac = p.indexOf("Mac") == 0;  
+		system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);  
+		if(system.win||system.mac||system.xll){  
+		
+			//document.getElementById('img').setAttribute("src","../imges/xyszhgy/14.jpg"); 
+			document.getElementById( "show").style.display= "none";
+		    	
+		} 
+    
+    </script>
+
+</html>

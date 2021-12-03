@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="将资源“weChatDemo/WebContent/index.html”重命名为“qmyx.html”" description="重命名资源“index.html”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/index.html" name="qmyx.html" stamp="1518949224123" updateReferences="true"/>&#x0A;<refactoring accessors="true" comment="Delete element from 项目“weChatDemo”&#x0D;&#x0A;－ 原始项目：“weChatDemo”&#x0D;&#x0A;－ 原始元素：“weChatDemo/src/my”" description="删除元素" element1="/src&lt;my" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1518960763423" subPackages="false" version="1.0"/>
+</session>

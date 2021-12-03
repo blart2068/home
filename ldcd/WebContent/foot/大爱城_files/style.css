@@ -1,0 +1,425 @@
+﻿@charset "utf-8";
+
+@font-face{font-family:'iconfont';src:url('//at.alicdn.com/t/font_1432720974_1547027.eot');src:url('//at.alicdn.com/t/font_1432720974_1547027.eot?#iefix') format('embedded-opentype'),url('//at.alicdn.com/t/font_1432720974_1547027.woff') format('woff'),url('//at.alicdn.com/t/font_1432720974_1547027.ttf') format('truetype'),url('//at.alicdn.com/t/font_1432720974_1547027.svg#iconfont') format('svg')}
+@font-face{font-family:'Pacifico';font-style:normal;font-weight:400;src:local('Pacifico Regular'),local('Pacifico-Regular'),url(http://fonts.gstatic.com/s/pacifico/v7/Q_Z9mv4hySLTMoMjnk_rCfesZW2xOQ-xsNqO47m55DA.woff2) format('woff2')}
+.fa{display:inline-block;font-family:"iconfont";font-size:20px;font-style:normal;font-weight:400;line-height:1;-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:0.2px;-moz-osx-font-smoothing:grayscale}
+.fa-icon-qq:before{content:"\e604"}
+.fa-icon-weibo:before{content:"\e600"}
+.fa-icon-weixin:before{content:"\e605"}
+.fa-icon-zaixianzixun:before{content:"\e608"}
+body{font-family:"微软雅黑"}
+.glyphicon{top:0 !important}
+.no-margin{margin:0 !important}
+.overflow{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+a{text-decoration:none !important;cursor:pointer !important}
+.container-fluid{max-width:1230px !important}
+.tr{transition:all 0.3s;}
+.tr3{transition:all 1s;}
+.sizeCover{ background-position: 50% 50%; background-size: cover; }
+.border-1{ height: 1px; background-color: #ddd; }
+input{ padding:0px; margin:0px; list-style:none;}
+p{ padding:0px; margin:0px;}
+
+.main-2{ position:relative; margin-bottom: 25px; padding: 5px 4px; }
+.main-2:last-child{ margin-bottom: 0; }
+.main-2 .kuang_t,.main-2 .kuang_b{ position: absolute; left:63px; z-index: 1; width: calc(100% - 126px); height: 5px; background-repeat: repeat-x; }
+.main-2 .kuang_t{ top: 0; background-image: url(../images/biankuang_t.png); }
+.main-2 .kuang_b{ bottom: 0; background-image: url(../images/biankuang_b.png); }
+.main-2 .kuang_l,.main-2 .kuang_r{ position: absolute; top:64px; z-index: 1; width:4px; height: calc(100% - 128px); background-repeat: repeat-y; }
+.main-2 .kuang_l{ left: 0; background-image: url(../images/biankuang_l.png); }
+.main-2 .kuang_r{ right: 0; background-image: url(../images/biankuang_r.png); }
+.main-2 .kuang_t:before,.main-2 .kuang_t:after,.main-2 .kuang_b:before,.main-2 .kuang_b:after{ content: ""; position: absolute; z-index: 1; width: 63px; height: 64px; background-repeat: no-repeat; }
+.main-2 .kuang_t:before{ left:-63px; top:0; background-image: url(../images/biankuang_lt_wk.png); }
+.main-2 .kuang_t:after{ right:-63px; top: 0; background-image: url(../images/biankuang_rt_wk.png); }
+.main-2 .kuang_b:before{ left:-63px; bottom: 0; background-image: url(../images/biankuang_lb_wk.png); }
+.main-2 .kuang_b:after{ right:-63px; bottom: 0; background-image: url(../images/biankuang_rb_wk.png); }
+.main-2 .box{ position:relative; padding:15px 50px 70px; min-height: 142px; background-color: #f5f4ed; }
+.main-2 .box .kuang_lt,.main-2 .box .kuang_rt,.main-2 .box .kuang_lb,.main-2 .box .kuang_rb{ position: absolute; z-index: 1; width: 61px; height: 71px; background-repeat: no-repeat; }
+.main-2 .box .kuang_lt{ left: 0; top: 0; background-image: url(../images/biankuang_lt.png); }
+.main-2 .box .kuang_rt{ right: 0; top: 0; background-image: url(../images/biankuang_rt.png); }
+.main-2 .box .kuang_lb{ left: 0; bottom: 0; background-image: url(../images/biankuang_lb.png); }
+.main-2 .box .kuang_rb{ right: 0; bottom: 0; background-image: url(../images/biankuang_rb.png); }
+.main-2.active{ padding-bottom: 0; }
+.main-2.active .kuang_b,.main-2.active .box .kuang_lb,.main-2.active .box .kuang_rb{ display: none; }
+.main-2.active .kuang_l,.main-2.active .kuang_r{ height: calc(100% - 64px) }
+.main-2.active .box{ padding-bottom: 140px; }
+
+.main-pad-1{ padding:30px 0;}
+.main-pad-2{ padding:60px 0;}
+.main-Background-1{ background:url(../images/bg_03.png) repeat;}
+.main-Background-2{ background-image: url(../images/text4_bg.png); background-color: #c1182a; }
+.main-Background-3{ background-color: #ece2ce; }
+
+header{ position: relative;z-index: 21474836;border-top: solid 5px #c1182a;}
+header .logo a{ display: block; font-size: 0;  line-height: 84px; }
+header .tel{ margin-top: 18px; padding-left: 50px; background: url(../images/tel.png) no-repeat left; }
+header .tel .biaoti{ color: #505050; line-height: 24px; }
+header .tel .shuzi{ font-family:Impact; font-size: 24px;color: #c1182a; line-height: 24px; }
+header .menu{ margin-right:80px; }
+header .menu ul li{ margin-left: 30px; }
+header .menu ul li:first-child{ margin-left:0; }
+header .menu ul li a{ display: block; width:100px; font-size: 18px;color: #333; line-height: 84px; }
+header .menu ul li.active a{ color: #fff; background: #c1182a; }
+
+.banner{ position:relative; overflow:hidden;}
+.banner .box .maxbiaoti{ margin-bottom: 20px; font-size: 48px; color: #fff; font-weight: bold; line-height: 52px; }
+.banner .box .minbiaoti{ margin-bottom: 100px; font-size: 36px; color: #fff; line-height: 40px; }
+.banner .box .search{ margin:0 auto; padding: 20px; max-width: 900px; background: rgba(0,0,0,0.44); border-radius: 10px; }
+.banner .box .search .biaoti{ margin-bottom: 15px; }
+.banner .box .search .biaoti ul li{ margin-right: 10px; }
+.banner .box .search .biaoti ul li a{ display: block; width: 95px; height: 37px; font-size:16px; color: #dedede; line-height: 35px; border:solid 1px rgba(255,255,255,0.36); border-radius: 10px; }
+.banner .box .search .biaoti ul li.active a{ color: #fff; border:solid 1px #fff; }
+.banner .box .search .formbox form{ display:none; }
+.banner .box .search .formbox .hang input{ padding: 0 62px 0 20px; width: calc(100% - 134px); height: 60px; color: #acabab; line-height: 60px; background-color: #fff; background-image: url(../images/fdj.png); background-repeat: no-repeat; background-position:98% 50%; border:none; border-radius: 10px 0 0 10px; }
+.banner .box .search .formbox .hang button{ width: 134px; height: 60px; font-size: 18px;color: #fff; line-height: 60px; background-color: #c1182a; border:none; border-radius: 0 10px 10px 0; }
+.banner .textbox{ padding: 165px 0 130px; }
+.banner .textbox .cn{ font-size: 30px;color: #fff; font-weight: bold; line-height: 34px; }
+.banner .textbox .en{ font-size: 48px;color: rgba(255,255,255,0.2); line-height:54px;}
+
+.cpbanner .maxbiaoti{ height: 115px; font-size: 36px;color: #fae4af; font-weight: bold; line-height: 100px; background: url(../images/cpbanner_1.png) no-repeat center; }
+
+.title-1{ margin-bottom: 27px; overflow: hidden; }
+.title-1 .left{ position:relative; }
+.title-1 .left .cn{ margin-bottom: 3px; font-size: 30px;color: #c1182a; line-height: 34px; }
+.title-1 .left .en{ color: #cacaca; line-height: 16px; }
+.title-1 .left .kuai{ position: absolute; right: -15px; top: 27px; z-index: 1; width: 7px; height: 6px; background-color: #c1182a; }
+.title-1 .left .kuai:before,.title-1 .left .kuai:after{ content: ""; position: absolute; bottom: 0; z-index: 1; width: 7px; height: 6px; }
+.title-1 .left .kuai:before{ left: 11px; background-color: #e08b94; }
+.title-1 .left .kuai:after{ left: 22px; background-color: #f3d1d4; }
+.title-1 .left:before{ content: ""; position: absolute; left: calc(100% + 15px); bottom:3px; z-index: 1; width: 2000px; height: 3px; background-color: #e2e2e2; }
+.title-1 .right{ padding-top: 10px; font-size: 16px; color: #777; line-height: 24px; }
+.title-2{ margin-bottom: 20px; font-size: 30px;color: #fff; line-height: 34px; }
+.title-3{ margin-bottom: 20px; font-size: 0; }
+.title-3 .biaoti{ margin:3px 0; height:30px; line-height:30px; font-size:28px; font-weight:bold; color:#c1182a}
+
+.text-1{ margin:0 auto; max-width: 920px; }
+.text-1 ul{ margin:0 -10px; }
+.text-1 ul li{ margin-bottom: 20px; padding: 0 10px; width:calc(100% / 3); }
+.text-1 ul li .hang{ border:solid 1px #fff; }
+.text-1 ul li .hang .mc{ width: 63px; font-size: 16px;color: #fff; line-height: 37px; text-align: center;}
+.text-1 ul li .hang input{ padding-right: 10px; width: calc(100% - 63px); height: 37px; font-size: 14px;color: #fff; line-height: 37px; background: none; border:none; }
+.text-1 button{ display: block; margin:0 auto; width: 140px; height: 40px; font-size: 18px;color: #fff; font-weight: bold; line-height: 40px; background: #c1182a; border-radius: 20px; border:none; }
+.text-2{ width: 128px; border-right: solid 1px #cfcfcf; }
+.text-2 .cn{ margin-bottom: 10px; font-size:24px;color: #3b3b3b; line-height: 26px; }
+.text-2 .maxen{ font-size: 48px; color: #c1182a; line-height: 44px; }
+.text-2 .minen{ font-size: 20px; color: #a3a3a3; line-height: 20px; }
+.text-2 .more{ padding-top: 120px; line-height:16px;border-right: solid 4px #cfcfcf; }
+.text-2 .more a{ color: #676767; }
+.text-3{ font-size: 16px;color: #585858; line-height: 30px; }
+.text-4{ font-size: 0; }
+.text-4 .box{ display: inline-block; vertical-align: top; color: #fae4af; line-height: 93px; }
+.text-4 .box .biaoti{ margin:0 10px; font-size: 18px; }
+.text-4 .box .shuzi{ font-family: Impact; font-size:30px; }
+.text-5 .biaoti{ font-size: 30px; color: #c1182a; line-height: 40px; }
+.text-5 .textbox{ font-size: 18px; color: #534c30;line-height:30px; }
+.text-6{ padding-left: 10px; width: 50%; font-size: 18px; color: #63523b; font-weight: bold; line-height: 30px; }
+.text-7{ font-size: 0; }
+.text-7 .text{ display: inline-block; vertical-align: top; padding-left:67px; font-size: 30px;color: #c1182a; font-weight: bold; line-height: 40px; background: url(../images/text7_jiantou.png) no-repeat left bottom; }
+
+.backhome{ position:fixed; left: 0; bottom: 140px; z-index: 999; width: 100%; padding-right:10px; text-align:right;}
+
+.text-8{ position:fixed; left: 0; bottom: 0; z-index: 999; width: 100%; }
+.text-8 .biankuang{ height: 16px; background: url(../images/text8_bian_02.png); }
+.text-8 .box{ background: #c1182a; }
+.text-8 .box .textbox{ padding:20px 0; width: 320px; color: #ffecaa; }
+.text-8 .box .textbox .mc{ margin-bottom: 10px; }
+.text-8 .box .textbox .mc .biaoti{ font-size: 24px; font-weight: bold; line-height:26px; }
+.text-8 .box .textbox .mc .qita{ margin-left:10px; padding-top:7px; font-size: 20px; line-height: 20px; }
+.text-8 .box .textbox .jieshao{ font-size: 18px; font-weight: bold; line-height:20px; }
+.text-8 .box .biaodan{ padding: 28px 0 0; width: calc(100% - 320px); }
+.text-8 .box .biaodan form{ display: block; }
+.text-8 .box .biaodan form .hang{ padding-right: 20px; width: calc((100% - 155px) / 2);}
+.text-8 .box .biaodan form .hang .mc{ width: 45px; font-size: 16px;color: #fff; line-height:40px;}
+.text-8 .box .biaodan form .hang input{ padding: 0 15px; width: calc(100% - 45px); height: 40px; color: #fff; line-height: 38px; background: none; border:solid 1px #d6d5ce; }
+.text-8 .box .biaodan form button{ width: 155px; height: 40px; font-size: 16px; color: #333; line-height: 40px; font-weight: bold; background: #ffc600; border:none; border-radius: 5px; }
+
+.pictrue-1 ul{ margin:0 -15px; }
+.pictrue-1 ul li{ padding: 0 15px; width: 25%; }
+.pictrue-1 ul li a{ display: block; }
+.pictrue-1 ul li a .imgbox{ margin:0 auto 15px; width: 120px; height: 120px; font-size: 0; line-height: 120px; background-color: #f6f6f6; border-radius: 50%; }
+.pictrue-1 ul li a .textbox .biaoti{ margin-bottom: 5px; font-size: 18px; color: #333; line-height: 24px; }
+.pictrue-1 ul li a .textbox .jieshao{ color: #8b8b8b; line-height: 24px; }
+.pictrue-2 ul{ margin:0 -13px; }
+.pictrue-2 ul li{ margin-bottom: 20px; padding: 0 13px; width: 50%; }
+.pictrue-2 ul li a{ display: block; position: relative; }
+.pictrue-2 ul li a .imgbox{ font-size: 0; overflow: hidden; }
+.pictrue-2 ul li a .imgbox span{ display: block; }
+.pictrue-2 ul li a .textbox{ position: absolute; left: 0; bottom: 0; z-index: 1; width: 100%; background-color: rgba(0,0,0,0.7); }
+.pictrue-2 ul li a .textbox .mc{ padding: 0 20px; width: calc(100% - 190px); font-size: 18px;color: #fff; line-height: 50px; }
+.pictrue-2 ul li a .textbox .jiage{ width: 190px; font-size: 16px;color: #fff; font-weight: bold; line-height: 50px; background-color: #c1182a; }
+.pictrue-2 ul li a .textbox .jiage span.shuzi{ font-family: Impact; font-size:24px; font-weight: normal; }
+.pictrue-2 ul li a .textbox .jiage span.pingfang{ font-size: 16px; }
+.pictrue-3{ margin-bottom: -20px; }
+.pictrue-3 ul{ margin:0 -10px; }
+.pictrue-3 ul li{ padding: 0 10px; margin-bottom: 20px; width: 25%; }
+.pictrue-3 ul li a{ display: block; }
+.pictrue-3 ul li a .imgbox{ margin-bottom:5px; border:solid 3px #fff; font-size: 0; overflow: hidden; box-shadow: 0 0 5px rgba(0,0,0,0.3); }
+.pictrue-3 ul li a .imgbox span{ display: block; }
+.pictrue-3 ul li a .textbox{ border-bottom: solid 1px #dbdbdb; }
+.pictrue-3 ul li a .textbox .mc{ padding-right: 10px; width: calc(100% - 120px); font-size: 18px;color: #454545; line-height: 50px; }
+.pictrue-3 ul li a .textbox .jiage{ width: 120px; font-size: 18px;color: #969696; line-height: 50px; }
+.pictrue-3 ul li a .textbox .jiage span.shuzi{ font-size: 20px; color: #c1182a; letter-spacing:-2px; }
+.pictrue-4{ padding-left: 30px; width: calc(100% - 128px); }
+.pictrue-4 ul{ margin:0 -10px; }
+.pictrue-4 ul li{ padding: 0 10px; width: calc(100% / 3); }
+.pictrue-4 ul li a{ display: block; }
+.pictrue-4 ul li a .imgbox{ margin-bottom:7px; overflow: hidden; font-size: 0; }
+.pictrue-4 ul li a .imgbox span{ display: block; }
+.pictrue-4 ul li a .textbox .biaoti{ font-size: 16px;color: #333; line-height: 22px; }
+.pictrue-4 ul li a .textbox .jiage{ font-size: 12px;color: #c1182a; line-height: 22px; }
+.pictrue-5{ font-size: 0; }
+.pictrue-6{ margin-bottom: -30px; }
+.pictrue-6 ul{ margin:0 -15px; }
+.pictrue-6 ul li{ padding: 0 15px; margin-bottom: 30px; width: calc(100% / 3); }
+.pictrue-6 ul li a{ display: block; padding: 15px; border:solid 1px #d6d6d6; box-shadow: 0 3px 0 #e4e4e4; }
+.pictrue-6 ul li a .imgbox{ font-size: 0; overflow: hidden; }
+.pictrue-6 ul li a .imgbox span{ display: block; }
+.pictrue-6 ul li a .textbox .biaoti{ margin-bottom: 15px; font-size: 18px;color: #333; text-align: center; line-height: 56px; border-bottom: solid 1px #e8e8e8; }
+.pictrue-6 ul li a .textbox .qita .dizhi{ width: calc(100% - 130px); color: #5f5e5e; line-height: 20px; }
+.pictrue-6 ul li a .textbox .qita .jiage{ width: 130px; color: #444; line-height: 20px; }
+.pictrue-6 ul li a .textbox .qita .jiage span.shuzi{ font-size: 20px; color: #f96f24; letter-spacing:-2px;}
+.pictrue-7 ul li{ margin:0 -10px; margin-bottom: 60px; }
+.pictrue-7 ul li:last-child{ margin-bottom: 0; }
+.pictrue-7 ul li .li-list{ padding: 0 10px; width:50%; }
+.pictrue-7 ul li .imgbox{ font-size: 0; }
+.pictrue-7 ul li .textbox{ font-size: 18px;color: #534c31; line-height: 30px; }
+.pictrue-7 ul li:nth-child(odd) .li-list:first-child{ float:left; }
+.pictrue-7 ul li:nth-child(odd) .li-list:last-child{ float:right; }
+.pictrue-7 ul li:nth-child(even) .li-list:first-child{ float:right; }
+.pictrue-7 ul li:nth-child(even) .li-list:last-child{ float:left; }
+.pictrue-8 ul{ margin:0 -5px; }
+.pictrue-8 ul li{ padding: 0 5px; width:25%; }
+.pictrue-8 ul li a{ display: block; }
+.pictrue-8 ul li a .imgbox{ border:solid 3px #c0bdaf; overflow: hidden; }
+.pictrue-8 ul li a .imgbox span{ display: block; font-size: 0; }
+.pictrue-9{ overflow: hidden; }
+.pictrue-9 ul{ margin:0 -50px; }
+.pictrue-9 ul li{ padding: 0 50px; width: 50%; }
+.pictrue-9 ul li .imgbox{ margin-bottom: 30px; border:solid 3px #b1a37c; overflow: hidden; }
+.pictrue-9 ul li .imgbox span{ display: block; }
+.pictrue-9 ul li .textbox .biaoti{ margin-bottom: 10px; font-size: 24px; color: #c1182a; line-height: 30px; }
+.pictrue-9 ul li .textbox .jieshao{ font-size: 15px; color: #c1182a; line-height: 30px; font-weight: bold; }
+.pictrue-10{ margin-bottom: -36px; overflow: hidden; }
+.pictrue-10 ul{ margin:0 -18px; }
+.pictrue-10 ul li{ padding: 0 18px; margin-bottom: 36px; }
+.pictrue-10 ul li .imgbox{ font-size: 0; }
+.pictrue-10 ul li:nth-child(1),.pictrue-10 ul li:nth-child(2),.pictrue-10 ul li:nth-child(3){ width: calc(100% / 3); }
+.pictrue-10 ul li:nth-child(4){ width: 50%; }
+.pictrue-10 ul li:nth-child(5){ width: 50%; }
+.pictrue-11{ padding-right: 10px; width: 50%; font-size: 0; }
+
+footer{ background: #c1182a; }
+footer .tops{ padding: 40px 0 27px; border-bottom: solid 1px rgba(255,255,255,0.18); }
+footer .tops .menu ul li{ margin-right: 70px; line-height: 36px; }
+footer .tops .menu ul li:last-child{ margin-right: 0; }
+footer .tops .menu ul li a{ font-size: 16px;color:rgba(255,255,255,0.8); }
+footer .tops .tel{ width: calc(100% - 305px - 305px); font-size: 0; }
+footer .tops .tel .box{ display: inline-block; vertical-align: top; padding-left: 43px; font-family: Impact; font-size: 24px;color:#fff; line-height: 36px;background: url(../images/footer_tel.png) no-repeat left; }
+footer .tops .fenxiang .mc{ font-size: 15px;color:rgba(255,255,255,0.57); line-height: 36px; }
+footer .tops .fenxiang ul li{ margin-right: 20px; }
+footer .tops .fenxiang ul li:last-child{ margin-right: 0; }
+
+
+
+footer .tops .fenxiang ul li a{ display: block; width: 36px; height: 36px; font-size: 0; line-height: 34px; border:solid 1px #d8d6dd; border-radius: 50%; text-align: center; }
+footer .bots{ padding:30px 0; }
+footer .bots .copyright{ font-size:12px; color: rgba(255,255,255,0.45); line-height: 24px; }
+footer .bots .jishuzhichi{ font-size:12px; color: rgba(255,255,255,0.45); line-height: 24px; }
+footer .bots .jishuzhichi a{ color: rgba(255,255,255,0.45); }
+
+@media (min-width:992px){
+	header{ position: relative; left: 0; top: 0; width: 100%; background: #fff; box-shadow: 0 3px 5px rgba(0,0,0,0.3); }
+	header .menu ul li:hover a{ color: #fff; background: #c1182a; }
+	.banner .box{padding-top: 250px; height:700px; }
+	.pictrue-4 ul li a .imgbox span{ height:185px; }
+}
+
+@media (max-width:1199px){
+	header .logo a img{ width: 250px; }
+	header .menu{ margin-right: 50px; }
+	header .menu ul li a{ width: 80px; }
+}
+
+@media (max-width:991px){
+	.main-2 .box{ padding-bottom: 30px; }
+	.main-2.active .box{ padding-bottom: 120px; }
+	.main-pad-1{ padding: 20px 0; }
+	.main-pad-2{ padding: 20px 0; }
+	header{ border-bottom: solid 2px #9f9f9f;}
+	header .logo a{ line-height: 73px; }
+	header .yddtel{ margin-left:50px; font-size: 0; line-height: 73px; }
+	header .yddtel img{ width:150px; }
+	.banner .box{ padding-top: 100px; }
+	.banner .box .maxbiaoti{ font-size: 30px; line-height:32px; }
+	.banner .box .minbiaoti{ font-size: 26px; line-height:30px; }
+	.banner .box .search{ margin:0 -15px; border-radius: 0; }
+	.banner .box .search .biaoti ul li a{ width: 85px; height:30px; font-size: 14px; line-height: 28px; }
+	.banner .box .search .formbox .hang input{ padding: 0 42px 0 10px; width: calc(100% - 100px);height:40px; line-height: 40px; background-size: 20px auto; }
+	.banner .box .search .formbox .hang button{ width: 100px; height: 40px; font-size: 14px; line-height: 40px; }
+	.cpbanner .maxbiaoti{ height: 80px; font-size: 20px; line-height: 70px; background-size: auto 100%; }
+	.cpbanner .wangyue img{ width: 300px; }
+	.title-1 .left .cn{ font-size: 25px; }
+	.title-1 .left .en{ font-size: 12px; }
+	.title-1 .left .kuai{ right: -22px; }
+	.title-2{ font-size: 24px; line-height: 30px; }
+	.title-4 img{ width: 200px !important; }
+	.text-1 ul li .hang .mc{ font-size: 14px; }
+	.text-1 button{ font-size: 16px; }
+	.text-3{ font-size: 14px; }
+	.text-3.active{ margin-bottom:20px; }
+	.text-4 .box{ line-height: 70px; }
+	.text-5 .biaoti{ font-size: 18px; line-height: 30px; }
+	.text-5 .textbox{ font-size: 14px; line-height: 26px; }
+	.text-6{ padding-left: 0; width: 100%; font-size: 14px; line-height: 26px; }
+	.text-7 .text{ font-size: 20px; line-height: 30px; }
+	.text-8 .box .textbox{ padding: 10px 0; width: 100%; }
+	.text-8 .box .textbox .mc{ float: left; margin-bottom: 0; }
+	.text-8 .box .textbox .mc .biaoti{ font-size: 18px; line-height: 20px; }
+	.text-8 .box .textbox .mc .qita{ padding-top: 4px; font-size: 14px; line-height: 16px; }
+	.text-8 .box .textbox .jieshao{ float: left; margin-left: 10px; padding-top: 4px;font-size: 14px; line-height: 16px; }
+	.text-8 .box .biaodan{ padding: 0 0 10px; width: 100%; }
+	.text-8 .box .biaodan form .hang .mc{ font-size: 14px; line-height: 30px; }
+	.text-8 .box .biaodan form .hang input{ height: 30px; font-size:12px; line-height: 28px; }
+	.text-8 .box .biaodan form button{ height: 30px; font-size: 14px; line-height: 30px; }
+	.pictrue-1{ margin-bottom: -20px; }
+	.pictrue-1 ul li{ margin-bottom: 20px; width: 50%; }
+	.pictrue-1 ul li a .imgbox{ float: left; margin-bottom: 0; }
+	.pictrue-1 ul li a .textbox{ float: left; padding-top: 33px; padding-left:20px; width: calc(100% - 120px); text-align: left; }
+	.pictrue-1 ul li a .textbox .biaoti{ font-size: 14px; }
+	.pictrue-1 ul li a .textbox .jieshao{ font-size: 12px; }
+	.pictrue-2 ul li{ width: 100%; }
+	.pictrue-2 ul li a .textbox .mc{ font-size: 16px; }
+	.pictrue-2 ul li a .textbox .jiage{ font-size: 14px; }
+	.pictrue-2 ul li a .textbox .jiage span.shuzi{ font-size: 20px; }
+	.pictrue-3 ul li{ width: 50%; }
+	.pictrue-3 ul li a .textbox .mc{ font-size: 16px; }
+	.pictrue-3 ul li a .textbox .jiage{ font-size: 16px; }
+	.pictrue-3 ul li a .textbox .jiage span.shuzi{ font-size: 24px; }
+	.pictrue-6{ margin-bottom: -20px; }
+	.pictrue-6 ul{ margin:0 -10px; }
+	.pictrue-6 ul li{ padding: 0 10px; margin-bottom: 20px; width: 50%; }
+	.pictrue-7 ul li{ margin-bottom: 20px; }
+	.pictrue-7 ul li .li-list{ width: 100%;}
+	.pictrue-7 ul li .imgbox{ margin-bottom: 20px; }
+	.pictrue-7 ul li .textbox{ font-size: 14px; }
+	.pictrue-8{ margin-bottom: -10px; }
+	.pictrue-8 ul li{ margin-bottom:10px; width: 50%; }
+	.pictrue-9 ul{ margin:0 -15px; }
+	.pictrue-9 ul li{ padding: 0 15px; }
+	.pictrue-9 ul li .imgbox{ margin-bottom: 20px; }
+	.pictrue-9 ul li .textbox .biaoti{ font-size: 16px; line-height: 24px; }
+	.pictrue-9 ul li .textbox .jieshao{ font-size: 12px; line-height:26px; }
+	.pictrue-10{ margin-bottom: -20px; }
+	.pictrue-10 ul{ margin:0 -10px; }
+	.pictrue-10 ul li{ margin-bottom: 20px; padding: 0 10px; }
+	.pictrue-11{ margin-bottom: 20px; padding-right: 0; width: 100%; }
+	footer .tops{ padding:20px 0; }
+	footer .tops .menu ul li{ margin-right:30px; }
+	footer .tops .menu ul li a{ font-size: 14px; }
+	footer .tops .tel{ float: right !important; width: auto; }
+	footer .bots{ padding:20px 0; }
+	footer .bots .copyright{ width: 100%; text-align: center; }
+}
+
+@media (max-width:767px){
+	header .logo a{ line-height: 53px; }
+	header .logo a img{ width: 200px; }
+	header .yddtel{ margin-left:20px; line-height: 53px; }
+	header .yddtel img{ width: 120px; }
+	.banner .box{ padding-top: 50px; }
+	.banner .box .maxbiaoti{ font-size: 24px; line-height: 30px; }
+	.banner .box .minbiaoti{ margin-bottom: 50px; font-size: 22px; line-height:30px; }
+	.banner .box .search{ padding: 15px; }
+	.banner .textbox{ padding:80px 0; }
+	.banner .textbox .cn{ font-size: 24px; line-height: 30px }
+	.banner .textbox .en{ font-size: 38px; line-height: 40px; }
+	.text-1 ul li{ width: 100%; }
+	.text-3{ font-size: 12px; line-height: 24px; }
+	.text-4 .box .icon img{ width: 25px }
+	.text-4 .box .biaoti{ font-size: 16px; }
+	.text-4 .box .shuzi{ font-size: 24px; }
+	.text-5 .biaoti{ font-size: 16px; }
+	.text-5 .textbox{ font-size: 12px; }
+	.text-6{ font-size: 12px; }
+	.text-7 .text{ font-size: 16px; line-height: 24px; }
+	.text-8 .box .biaodan form button{ width: 100px; }
+	.text-8 .box .biaodan form .hang{ width: calc((100% - 100px) / 2) }
+	.text-8 .box .biaodan form .hang input{ padding: 0 5px; }
+	.text-8 .biankuang{ height: 10px; background-size: auto 10px; }
+	.pictrue-1 ul{ margin:0 -10px; }
+	.pictrue-1 ul li{ padding: 0 10px; }
+	.pictrue-1 ul li a .imgbox{ width: 100px; height: 100px; line-height: 100px; }
+	.pictrue-1 ul li a .imgbox img{ max-width:80%; max-height:80%; }
+	.pictrue-1 ul li a .textbox{ padding-top: 26px; width: calc(100% - 100px); }
+	.pictrue-1 ul li a .textbox .biaoti{ margin-bottom: 0; }
+	.pictrue-6 ul li a{ padding:10px; }
+	.pictrue-6 ul li a .textbox .biaoti{ margin-bottom: 10px; font-size: 14px; line-height: 40px; }
+	.pictrue-6 ul li a .textbox .qita .dizhi{ width: calc(100% - 100px); font-size: 12px; }
+	.pictrue-6 ul li a .textbox .qita .jiage{ width: 100px; font-size: 12px; }
+	.pictrue-6 ul li a .textbox .qita .jiage span.shuzi{ font-size: 12px; }
+	.pictrue-7 ul li .textbox{ font-size: 12px; }
+	.pictrue-10{ margin-bottom: -10px; }
+	.pictrue-10 ul{ margin:0 -5px; }
+	.pictrue-10 ul li{ margin-bottom: 10px; padding: 0 5px; }
+}
+
+@media (max-width:479px){
+	.main-2 .box{ padding:15px 20px; }
+	.main-2 .box .kuang_lt, .main-2 .box .kuang_rt, .main-2 .box .kuang_lb, .main-2 .box .kuang_rb{ width: 30px; height: 35px; background-size: 100% auto; }
+	.main-2.active .box{ padding-bottom: 150px; }
+	header .logo a img{ width: 180px; }
+	header .yddtel{ margin-left:10px; }
+	header .yddtel img{ width: 100px; }
+	.banner .box{ padding-top: 30px; }
+	.banner .box .maxbiaoti{ font-size: 18px; line-height: 24px; }
+	.banner .box .minbiaoti{ margin-bottom: 30px; font-size: 14px; line-height:24px; }
+	.banner .box .search .biaoti ul li a{ width: 60px; height: 24px; font-size: 12px; line-height: 22px; }
+	.banner .box .search .formbox .hang input{ width: calc(100% - 70px); font-size: 12px; }
+	.banner .box .search .formbox .hang button{ width: 70px; font-size: 12px; }
+	.banner .textbox{ padding:50px 0; }
+	.banner .textbox .cn{ font-size: 18px; line-height: 24px }
+	.banner .textbox .en{ font-size: 28px; line-height: 30px; }
+	.cpbanner .maxbiaoti{ height: 60px; font-size: 18px; line-height: 54px; }
+	.cpbanner .wangyue img{ width: 200px; }
+	.title-1{ margin-bottom: 20px; }
+	.title-2{ font-size: 18px; line-height: 24px; }
+	.title-3 .top_bg img{ height: 25px; }
+	.title-3 .biaoti img{ height: 20px; }	
+	.title-3 .bot_bg img{ max-width: 80%; }
+	.text-1 ul li .hang .mc{ font-size: 12px; }
+	.text-1 ul li .hang input{ font-size: 12px; }
+	.text-1 button{ font-size: 14px; }
+	.text-4 .box .biaoti{ font-size: 14px; }
+	.text-4 .box .shuzi{ font-size: 18px; }
+	.text-5 .biaoti{ font-size: 14px; line-height: 26px; }
+	.text-7 .text{ padding-left:0; background:none; }
+	.text-8 .box .textbox .mc .biaoti{ font-size: 14px; }
+	.text-8 .box .textbox .mc .qita{ padding-top: 2px; font-size: 12px; }
+	.text-8 .box .textbox .jieshao{ padding-top: 0; margin-left:0; width: 100%; font-size: 12px; }
+	.text-8 .box .biaodan form{ margin:0 -10px; }
+	.text-8 .box .biaodan form .hang{ padding:0 10px; width: 50%; }
+	.text-8 .box .biaodan form .hang .mc{ width:35px; font-size: 12px; line-height: 24px; }
+	.text-8 .box .biaodan form .hang input{ width: calc(100% - 35px); height: 24px; font-size: 12px; line-height: 22px; }
+	.text-8 .box .biaodan form button{ margin:10px 10px 0; width:calc(100% - 20px); font-size: 12px; }
+	.pictrue-1{ margin-bottom: -10px; }
+	.pictrue-1 ul li{ margin-bottom: 10px; width: 100%;}
+	.pictrue-2 ul li a .textbox .mc{ padding: 0 10px; width: calc(100% - 120px); font-size: 14px; line-height: 30px; }
+	.pictrue-2 ul li a .textbox .jiage{ width: 120px; font-size: 12px; line-height:30px; }
+	.pictrue-2 ul li a .textbox .jiage span.shuzi{ font-size: 12px; }
+	.pictrue-3 ul li a .textbox .mc{ width: calc(100% - 50px); font-size: 12px; line-height: 30px; }
+	.pictrue-3 ul li a .textbox .jiage{ width: 50px; font-size: 12px; line-height: 30px; }
+	.pictrue-3 ul li a .textbox .jiage span.shuzi{ font-size: 12px; }
+	.pictrue-6 ul li a .textbox .biaoti{ font-size: 12px; }
+	.pictrue-6 ul li a .textbox .qita .dizhi{ width: 100%; text-align: center; }
+	.pictrue-6 ul li a .textbox .qita .jiage{ width: 100%; text-align: center; }
+	.pictrue-7 ul li .textbox{ line-height: 26px; }
+	.pictrue-9 ul li{ margin-bottom: 20px; width: 100%; }
+	.pictrue-9 ul li:last-child{ margin-bottom: 0; }
+	.pictrue-9 ul li .imgbox{ margin-bottom: 10px; }
+	.pictrue-9 ul li .textbox .biaoti{ margin-bottom: 0; font-size: 14px; }
+	footer .tops{ padding: 15px 0; }
+	footer .tops .menu{ width: 100%; }
+	footer .tops .menu ul li{ margin-right:0; width: calc(100% / 3); text-align: center; }
+	footer .tops .tel{ width: 100%;}
+	footer .bots{ padding: 15px 0; }
+}

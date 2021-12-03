@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<!-- saved from url=(0081)https://isite.baidu.com/site/jundiweilin.com/19a7b2ee-efe4-430d-9ef0-60171a050b67 -->
+<html mip="" class="mip-i-android-scroll"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style mip-extension="mip-bsml-followbar">.bsml-follow-bar{font-size:28px;position:fixed;left:0;top:0;overflow:hidden;padding-bottom:15px;background:#fff;width:100%;z-index:9}.bsml-follow-bar .bsml-follow-bar-logo{float:left;margin-left:15px;margin-top:15px;height:37px;width:37px;border-radius:100%;overflow:hidden}.bsml-follow-bar .bsml-follow-bar-logo img{width:100%}.bsml-follow-bar .bsml-follow-bar-text{margin-top:15px;padding-left:14px;font-size:16px;line-height:37px;width:50%;color:#fff;float:left}.bsml-follow-bar .bsml-follow-bar-text .bsml-follow-bar-text-p{overflow:hidden;color:#555}.bsml-follow-bar .bsml-follow-bar-text .bsml-follow-bar-text-span{float:left;margin-top:3px;color:#999;height:18px;line-height:18px;font-size:13px;font-weight:normal;overflow:hidden}.bsml-follow-bar .bsml-follow-bar-text .bsml-follow-bar-text-b{width:14px;height:14px;margin-top:-3px;margin-left:3px;padding:0 3px;text-align:center;font-size:6px;color:#2b99ff;border:1px solid #b3d4f3}.bsml-follow-bar .follow-btn{background-color:#3d3d3d;color:#fff;float:right;font-size:13px;margin-top:20px;margin-right:15px;padding:5px 10px;border-radius:5px}.bsml-follow-bar .follow-btn-ed{background-color:#fff;color:#555;border:1px solid #555;float:right;font-size:13px;margin-top:20px;margin-right:17px;padding:5px 8px;border-radius:5px}.follow-tips{display:none;position:absolute;width:120px;height:rem(60);line-height:rem(60);text-align:center;font-size:rem(12);color:#fff;bottom:30%;left:50%;margin-left:-80px;z-index:999;border-radius:5px;background:rgba(0,0,0,0.3);white-space:nowrap;word-wrap:normal;overflow:hidden;text-overflow:ellipsis}.follow-tips-lay{width:100%;position:fixed;left:0;bottom:0;height:207px;z-index:99999;background:rgba(0,0,0,0.5)}.follow-tips-main{width:281px;position:fixed;left:50%;top:50%;height:145px;margin-top:-72.5px;margin-left:-140px;z-index:100;background:#fff;border-radius:6px}.follow-tips-btn{position:absolute;left:0;bottom:0;width:100%;height:42px;line-height:42px;text-align:center;border-top:1px solid #f1f1f1;color:#333;font-size:14px}.follow-tips-icon-1{display:inline-block;margin-top:19px;width:35px;height:35px;background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAYAAABVsFofAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NTc3MiwgMjAxNC8wMS8xMy0xOTo0NDowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoxZjJiY2VlMC1mMjljLTQ3N2ItYjUxNS0zMmU2ZTU0ZjZmOGEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RDNDMzI1MzM0NzgxMTFFN0I0MDlEN0I5NzBCNzAxMTUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RDNDMzI1MzI0NzgxMTFFN0I0MDlEN0I5NzBCNzAxMTUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozMDU0MGM0MC02Y2Q1LTQwNWMtOWZiYy05NmU4YTJlNGFmMmEiIHN0UmVmOmRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDo3Y2ZiYzg3Ny04MmQ2LTExN2EtYWRi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') 0 0 no-repeat;background-size:100%}.follow-tips-icon-2{display:inline-block;margin-top:19px;width:35px;height:35px;background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAYAAABxLuKEAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NTc3MiwgMjAxNC8wMS8xMy0xOTo0NDowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoxZjJiY2VlMC1mMjljLTQ3N2ItYjUxNS0zMmU2ZTU0ZjZmOGEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QjY0QzQ1MDU0ODBGMTFFN0E3QzFGOEQ3MkU5NTExMzQiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QjY0QzQ1MDQ0ODBGMTFFN0E3QzFGOEQ3MkU5NTExMzQiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozMDU0MGM0MC02Y2Q1LTQwNWMtOWZiYy05NmU4YTJlNGFmMmEiIHN0UmVmOmRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDo3Y2ZiYzg3Ny04MmQ2LTExN2EtYWRi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') 0 0 no-repeat;background-size:100%}.follow-tips-box{text-align:center}.follow-tips-txt{display:inline-block;font-size:14px;color:#333;margin-top:12px}</style><style mip-extension="mip-fixed">mip-fixed{position:fixed !important}</style><style mip-extension="mip-form">mip-form{position:relative}mip-form #mip-form-cross{position:absolute;display:block;padding:6px;width:20px;height:20px;right:0;background:url(//m.baidu.com/static/search/clear.png) no-repeat center;z-index:100;background-size:100% 100%;background-origin:content-box;-webkit-tap-highlight-color:rgba(0,0,0,0.4);tap-highlight-color:rgba(0,0,0,0.4)}mip-form input,mip-form textarea,mip-form select{border:1px solid #f1f1f1;padding:6px;display:block;box-sizing:border-box;-webkit-box-sizing:border-box;resize:none;font-size:16px}mip-form input[type='text'],mip-form input[type='input'],mip-form input[type='datetime'],mip-form input[type='email'],mip-form input[type='number'],mip-form input[type='tel'],mip-form input[type='url']{padding-right:30px}mip-form form{position:relative}mip-form input[type='radio']{display:inline}mip-form label{display:block}mip-form div{display:none;color:#ec1f5c;font-size:12px;text-align:left;padding:0 10% 0 3%}mip-form div[mip-mustache-rendered]{display:block}mip-form input[type='submit']{border:1px solid #f1f1f1;border-radius:5px;color:#333;background-color:#d8d7d7}mip-form [submit-success],mip-form [submit-error]{display:none}</style><style mip-extension="mip-bsml-form">ul,li{list-style:none}.bsml-form-list label{text-align:left;font-size:16px;display:block;margin-bottom:12px;padding:0 16px;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.bsml-form-list label span{white-space:nowrap;word-wrap:normal;overflow:hidden;line-height:38px;text-overflow:ellipsis;display:inline-block;-webkit-box-flex:1;-webkit-flex:1;flex:1}.bsml-input,.bsml-date{margin-left:16px;border:#f1f1f1 solid 1px;height:38px;line-height:38px;padding:0 17px;color:#999;font-size:16px}.bsml-singleselect{margin-left:16px;padding:0 17px;border:#f1f1f1 solid 1px;height:38px;line-height:38px;color:#999;font-size:16px;background:#fff;outline:none;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;-webkit-appearance:none}.bsml-multiselect{margin-left:16px;padding:0 17px;border:#f1f1f1 solid 1px;height:38px;line-height:38px;color:#999;font-size:16px;background:#fff;outline:none;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;-webkit-appearance:none}.bsml-form-list-box{padding:12px 16px 0 16px}.bsml-form-list-submit{height:38px;line-height:38px;text-align:center;font-size:18px;background:#ff6d39;color:#fff}.bsml-form-tips{display:none;position:absolute;width:120px;height:rem(60);line-height:rem(60);text-align:center;font-size:rem(12);color:#fff;bottom:30%;left:50%;margin-left:-80px;z-index:999;border-radius:5px;background:rgba(0,0,0,0.3);white-space:nowrap;word-wrap:normal;overflow:hidden;text-overflow:ellipsis}.bsml-form-tips-lay{width:100%;position:fixed;left:0;bottom:0;height:207px;z-index:99;background:rgba(0,0,0,0.5)}.bsml-form-tips-main{width:281px;position:fixed;left:50%;top:50%;height:145px;margin-top:-72.5px;margin-left:-140px;z-index:100;background:#fff;border-radius:6px}.bsml-form-tips-btn{position:absolute;left:0;bottom:0;width:100%;height:42px;line-height:42px;text-align:center;border-top:1px solid #f1f1f1;color:#333;font-size:14px}.bsml-form-tips-icon-1{display:inline-block;margin-top:19px;width:35px;height:35px;background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAABHCAYAAABVsFofAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NTc3MiwgMjAxNC8wMS8xMy0xOTo0NDowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoxZjJiY2VlMC1mMjljLTQ3N2ItYjUxNS0zMmU2ZTU0ZjZmOGEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RDNDMzI1MzM0NzgxMTFFN0I0MDlEN0I5NzBCNzAxMTUiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RDNDMzI1MzI0NzgxMTFFN0I0MDlEN0I5NzBCNzAxMTUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozMDU0MGM0MC02Y2Q1LTQwNWMtOWZiYy05NmU4YTJlNGFmMmEiIHN0UmVmOmRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDo3Y2ZiYzg3Ny04MmQ2LTExN2EtYWRi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') 0 0 no-repeat;background-size:100%}.bsml-form-tips-icon-2{display:inline-block;margin-top:19px;width:35px;height:35px;background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAYAAABxLuKEAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NTc3MiwgMjAxNC8wMS8xMy0xOTo0NDowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoxZjJiY2VlMC1mMjljLTQ3N2ItYjUxNS0zMmU2ZTU0ZjZmOGEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QjY0QzQ1MDU0ODBGMTFFN0E3QzFGOEQ3MkU5NTExMzQiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QjY0QzQ1MDQ0ODBGMTFFN0E3QzFGOEQ3MkU5NTExMzQiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozMDU0MGM0MC02Y2Q1LTQwNWMtOWZiYy05NmU4YTJlNGFmMmEiIHN0UmVmOmRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDo3Y2ZiYzg3Ny04MmQ2LTExN2EtYWRiMy05ZTYwNGM1ZTQxYzciLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6VX+vaAAAGjklEQVR42uxcXUwcVRS+u0VjLC1NrD9pbXigkaYxBktN+iAVMFRTedGIxppKY8JDKw9EHwiIT1ZIH0CNLSaSEKymxkrSF2xQtMXiA4mAxjS0mJJIqqYKDxWoMUqt3+l+05697G+ZmV12OMmX2b0zO3POt+fee+bOORMyPklpaekqbB4BHgaKic3AWiAfuJOH/gXMEReACWIMGBkdHb3qh74hj8m4F5vngCeAMpKwFJkFhoB+4DhI+mPZEAMy8rB5GtgH7ALyPNJ9AfgS6AFOgKSFrCQGhNyOTS3QCBQlOfxPdo/zwAy7zWXuWwesAdYDW9jlCpKcbxI4BHwIgv7JCmJAiJxjD9AGbIpz2G/AAPA1MAjlL6Z5DTlvBVAJVAEb4hwq520CjuEa1zJGDBR+AJsuYGeM3TKI9gJHgdNQ9D+XPDNMgvYCz6pBW8sZoA7X/MlXYugl+4F24I4Y3eQd4DAUm/F4cJfuVg80xOhufwOvAe/fiveEbkEZmVq7gRpr179AB9AKRWaNjwKdZLZrBl4FbrN2fwa8DJ3mPSMGCmzEpg8osXYNAq/g4uMmgwL9tmJzBCi3dv0AVEO/X1M9VziNi0owNmyRcpWDXWWmSRGhDpXUSQeCovMwbXDPY3hC8YqNqvmSdCco863JQoHOj7Ib3aeaxWPKofOFJRPD7iOecr9qln9mNy4w5ZIRD0kMwq+1OO+PLp23EJuTwFbV/AuwI1m3Cqcw0PZZpJwl61Mu/sFv0N1L+NmtrjXF8easahZb+mhb+sRwSu62xpRxjifTLnv+3XE+u0HONMedcWvM6aaNaXvMfmtKvsTuM22WmVDn3bTBkRramDoxjGjbrdmnxuXu4zc5UyRDz1bttDU5MXSvLiuibcnW2SdNcsSGFtUkNnbF6lKxPGaPde/zDe9cc0UO0SZHdtLm+MRw6aDNCvMPLPVONcu8Rmw5QNscaaPtcT2m1lo66MiGiNajCLlDNW2i7YuJ4cpbo3WX3GpyV1ppoyON5GCRx8hypF55e9fvu2SfvWaWyyOOFJGDRcTssxaZ3jO5L4dp6yIOwuxG95jIwrUjvV4vMmWJ14iNvappF7m44THyiEOv5n9kgiPa1jxycYOYJ9VOWbg+FSBiTtFmo7kI8wlhmdox4NbC9TLpTmLrgGoqE07EY7ab6CeEQfKWWDYLF9uFmG3WQacDSIxt8zYhplgHdek+DMuR7nTRCvaKbWImTHBlwiZGR7vnA0yMtr0obA28MwEmRtu+VojRi8JzASZG254vxKxWDZcDTIy2fXXYrEhMEWKuqO/rAsyFtv2KEKOzANYEmBht+7wQoxej1geYGG37rBAzqRq2BJgYbftk2I74AkxM1B2ATUwBEwEDJbS5wCZmzDquIoDeYts8JsSMWANwZQCJ0TYLFyNh5uYPqR1VTBkNSjcSW6tU05Bw4hDQr3ZsyIDXnIvz2S9v0QnV17lwngwcB95W3yW5+CsflXvdRPJyRd70mZi96vMCubiZgweX+txEkmtE5CFUYa4/W2ICteTNONnlJ2HzU869kiM96rMcWB+AIabeRKfc9+ibSEdOWFFwAzOuc9VbxLYGHe2Sg2hiWO+jE4Qk4Gn2UdEigY/cNFtB3SFd8xSylJPkGUkOdqJfSa4p8TJHhmleH5ubWU2fAC96mazE1HpJo3fqDuQpwWZd6xQVr3BHk2qSH3YmSvt0QcpNdKrXC2ZxLYDbf0SniS7GaLILwGIFcsdMpN7HkcdMdEKR23JXim1uSSNtcuQMbTYJiaEL16m4QuQgc/O9kH5OmY78bAWcbnqL2HBQNYmNdbG6bSjBSSSB74hqkuThHV7k+uJakg3+Er8e9SLJmnUFUhOhiy6klKgz1vGhJH3xUxOdHS6DcPlyyw4n8YMmuthCKlOejzfIh5KcMJ83mLqeQAoWKpcLOSRFshkeVM0yI5UlqnpLeBfNH1abSCmLI3KBQbpmtpNSSE/RpIgt1clKAZMuL7CuRxZydH2PuOSwhwOyWwPtsNV9rtuSSglgKI0LSZWb5JHo2iVZy2lh1HgtSwgJcUqW2WeV5SkVqVS3pUUML5qoWFRS689lmBTXikW9KC9+CwrM+UxIZsuLLXddKUhPoJg8i/nA+P8KgwoGhNn1CoMY3uPHSy9k3HjcLIeXXsRYslh5TUoCgmRB/RmStPJinTgkefUqpi9M5FVMv3ulu6fEWCSl8/KueZKgX971PfCdXy/v+l+AAQBR4FtAubyiFAAAAABJRU5ErkJggg==') 0 0 no-repeat;background-size:100%}.bsml-form-tips-box{text-align:center}.bsml-form-tips-txt{display:inline-block;font-size:14px;color:#333;margin-top:12px}</style>
+           
+           <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,user-scalable=no">
+           <title>.绿地长岛.</title>
+           <link rel="stylesheet" type="text/css" href="./lvcd2_files/mip.css">
+           <link rel="canonical" href="https://isite.baidu.com/site/jundiweilin.com/19a7b2ee-efe4-430d-9ef0-60171a050b67">
+             <style mip-custom="">
+               .only-text-text,.single-img-text{padding:.875rem .875rem .813rem}.double-img-box li img,.single-img-box img{width:100%}.article-multi .article-multi-t,.double-img-text-title{-webkit-box-orient:vertical;color:#333;text-overflow:ellipsis;-webkit-line-clamp:2;overflow:hidden}.single-img{background:#fff}.single-img-text-title{font-weight:700;font-size:1.125rem;line-height:1.75rem}.only-text{font-size:.875rem;color:#333;position:relative;background:#fff}.only-text-text-title{font-weight:700;font-size:1.125rem;line-height:1.75rem;padding-bottom:.563rem}.only-text-text-title:last-child{padding-bottom:0}.only-text-text-des{font-size:.875rem;line-height:1.25rem}.double-img{background:#fff}.double-img-box{display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex}.double-img-box li{list-style:none;-webkit-box-flex:1;-webkit-flex:1;flex:1;margin-right:.125rem}.double-img-box li:last-child{margin-right:0}.double-img-text{padding:.875rem}.double-img-text-title{font-size:.875rem;display:-webkit-box}html{-webkit-text-size-adjust:none}.article-multi{background:#fff;padding:1.125rem 1rem}.article-multi .artivle-multi-container{width:100%;height:5.875rem;display:-webkit-flex;display:flex;overflow:hidden}.article-multi .article-multi-t{-webkit-box-pack:center;box-pack:center;box-orient:vertical;font-size:1.125rem;height:3.125rem;margin-bottom:1.25rem;line-height:1.563rem;display:-webkit-box;-webkit-box-rient:vertical}.article-multi .article-multi-c{overflow:hidden}.article-multi .article-multi-c-img{margin-bottom:1.25rem;width:32%;float:left}.article-multi .article-multi-c-img img{width:100%;height:100%}.article-multi .article-multi-c-img:nth-child(2){margin-left:2%;margin-right:2%}.article-multi .article-multi-r-info{height:1.125rem;line-height:1.125rem;margin-top:.313rem;white-space:norwap;overflow:hidden}.article-multi .article-multi-r-info .article-multi-r-info-time{float:left;color:#999;font-size:.813rem;margin-right:.375rem}.article-multi .article-multi-r-info .article-multi-r-info-label{width:1.125rem;height:1.125rem;line-height:1.25rem;font-size:.813rem;float:left;border-radius:50%;background:#2b99ff;color:#fff;text-align:center;margin-right:.375rem}.article-multi .article-multi-r-info .article-multi-r-info-tags{font-size:.625rem;padding:0 .125rem;height:1rem;line-height:1.125rem;border:1px solid #b3d4f3;color:#2b99ff;float:left;margin-right:.375rem;text-align:center}.count-down-box,.count-down-box-sp{text-align:center;line-height:2.5rem}.count-down{background-color:#216dd5}.count-down-title{text-align:center;padding-top:1rem;font-size:1.875rem;color:#fff;font-weight:700;word-wrap:break-word}.count-down-box{margin-top:1.125rem;color:#fff;font-size:1.125rem;padding-bottom:1.875rem}.count-down-box-sp{display:inline-block;vertical-align:top;margin-right:.063rem;width:1.688rem;height:2.5rem;border-radius:.313rem;background-color:#fbfdfe;border:1px solid #d4ded4;font-size:1.438rem;color:#333}.count-down-box-sp:last-child{margin-right:0}@media screen and (max-width:330px) and (min-width:280px){.count-down-title{font-size:1.625rem}.count-down-box{margin-top:1rem;font-size:.875rem;line-height:2.188rem;padding-bottom:1.563rem}.count-down-box-sp{width:1.375rem;height:1.875rem;line-height:1.875rem;font-size:1.125rem}}@media screen and (max-width:281px){.count-down-title{font-size:1.375rem}.count-down-box{margin-top:.875rem;font-size:.875rem;line-height:1.875rem;padding-bottom:1.25rem}.count-down-box-sp{width:1.125rem;height:1.625rem;line-height:1.625rem;font-size:1rem}}.trans-form-blank{background-color:#fff}.trans-form-blank .bsml-form{padding-bottom:1rem}.trans-form-blank .bsml-form-title{text-align:left;padding:.875rem 0 .875rem .875rem;font-size:1.125rem;word-wrap:break-word}.trans-form-blank .bsml-form-count{padding-left:1rem;font-size:.75rem;padding-bottom:1.063rem;color:#666;word-wrap:break-word}.mip-bsml-fixed-bar .bsml-form-list label span,.mip-bsml-fixed-bar .bsml-form-tips,.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-list label span,.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-tips,.trans-form-blank .bsml-form-list label span,.trans-form-blank .bsml-form-tips,.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-tips{white-space:nowrap;word-wrap:normal;text-overflow:ellipsis}.trans-form-blank input.bsml-input-phonecode{width:60%;float:left}.trans-form-blank .bsml-form-list label span.bsml-input-phonecode-btn{width:34%;text-align:center;background:#fff;margin-left:5%;line-height:2.25rem;border:1px solid #f1f1f1;font-size:14px}.trans-form-blank .bsml-form-list label span.bsml-input-phonecode-n,.trans-form-blank .bsml-form-list label span.codeing{background:#f8f8f8}.trans-form-blank .bsml-input.bsml-input-phone-care{border:1px solid #c00;background:url(https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/template/template_yxy/tpl_udf_22294350_nishang_3337427805/resources/icon/bsml-form-care.png) 95% 7px no-repeat;background-size:24px 24px}.trans-form-blank .bsml-form-list label{text-align:left;font-size:1rem;margin-bottom:.75rem;padding:0 1rem;display:-webkit-flex;display:flex}.trans-form-blank .bsml-form-list label span{overflow:hidden;line-height:2.375rem;display:inline-block;-webkit-box-flex:2;-webkit-flex:2;flex:2}.bsml-form-list li{list-style:none}.trans-form-blank .form-input{padding:0;height:2.375rem;line-height:2.375rem;color:#999;font-size:1rem;-webkit-box-flex:8;-webkit-flex:8;flex:8;display:block}.trans-form-blank .form-input>div{display:block;padding:0;margin:0}.trans-form-blank .bsml-date,.trans-form-blank .bsml-input,.trans-form-blank .bsml-multiselect,.trans-form-blank .bsml-singleselect{margin:0}.trans-form-blank .bsml-date,.trans-form-blank .bsml-input{width:100%;border:1px solid #f1f1f1;height:38px;line-height:38px;padding:0 17px;-webkit-box-sizing:border-box;box-sizing:border-box;color:#999;font-size:14px}.trans-form-blank .bsml-multiselect,.trans-form-blank .bsml-singleselect{color:#999;font-size:1rem;background:#fff;outline:0;margin-left:0;-webkit-tap-highlight-color:transparent;-webkit-appearance:none;height:2.375rem;line-height:2.375rem}.trans-form-blank .bsml-singleselect{width:100%;padding:0 1.063rem;border:1px solid #f1f1f1;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.trans-form-blank .bsml-multiselect{padding:0;border:0;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.trans-form-blank .bsml-multiselect .bsml-multiselect{border:0}.trans-form-blank .bsml-date{margin-left:0}.trans-form-blank input[type=date]{width:100%!important;background:0 0!important;-webkit-tap-highlight-color:transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;padding:0 0 0 1.063rem}.trans-form-blank input[type=text]{-webkit-tap-highlight-color:transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;text-shadow:none;-webkit-appearance:none;-webkit-user-select:text;box-shadow:none;outline:transparent 0}.trans-form-blank .bsml-form-list-box{display:block;padding:.25rem 1rem 0}.trans-form-blank .bsml-form-list-submit{padding:0;display:block;height:2.375rem;line-height:2.375rem;text-align:center;font-size:.875rem;background-color:#ff6d39;color:#fff}.trans-form-blank .bsml-form-tips{display:none;position:absolute;width:120px;height:3.75rem;line-height:3.75rem;text-align:center;font-size:.75rem;color:#fff;bottom:30%;left:50%;margin-left:-80px;z-index:999;border-radius:5px;background:rgba(0,0,0,.3);overflow:hidden}.trans-form-blank .bsml-multiselect:before,.trans-form-blank .bsml-singleselect-container:before{content:'';top:50%;height:8px;width:8px;right:12px;margin-top:-8px;border-top:1px solid #999;border-right:1px solid #999}.trans-form-blank .bsml-singleselect-container{position:relative}.trans-form-blank .bsml-singleselect-container:before{position:absolute;-webkit-transform:rotate(135deg);-moz-transform:rotate(135deg);-ms-transform:rotate(135deg);-o-transform:rotate(135deg);transform:rotate(135deg)}.trans-form-blank .bsml-multiselect{position:relative}.trans-form-blank .bsml-multiselect:before{position:absolute;-webkit-transform:rotate(135deg);-moz-transform:rotate(135deg);-ms-transform:rotate(135deg);-o-transform:rotate(135deg);transform:rotate(135deg)}.trans-normal-bar-blank .mip-bsml-fixed-bar{width:100%}.trans-normal-bar-blank .mip-bsml-fixed-bar-box{background:rgba(255,255,255,.9);padding:.438rem 0;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;border-top:1px solid #f1f1f1}.trans-normal-bar-blank .mip-bsml-fixed-bar-box-appointment,.trans-normal-bar-blank .mip-bsml-fixed-bar-box-consult,.trans-normal-bar-blank .mip-bsml-fixed-bar-box-phone{display:block;-webkit-box-flex:1;-webkit-flex:1;flex:1;height:2.063rem;line-height:2.063rem;text-align:center;font-size:.875rem;margin-left:.625rem}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-count{padding-left:1rem;font-size:.75rem;padding-bottom:1.063rem;color:#666}.trans-normal-bar-blank .mip-bsml-fixed-bar-box-phone 
+               a{color:#fff;display:inline-block;width:100%;height:1.938rem;background-color:red}.trans-normal-bar-blank .mip-bsml-fixed-bar-box-consult{border:1px solid #e4e4e4;height:1.938rem}.trans-normal-bar-blank .mip-bsml-fixed-bar-box-consult:last-child,.trans-normal-bar-blank .mip-bsml-fixed-bar-box-phone:last-child{margin-right:.625rem}.trans-normal-bar-blank .mip-bsml-fixed-bar-box-consult a{display:inline-block;background-color:red;width:100%;height:1.938rem;color:#666}.trans-normal-bar-blank .mip-bsml-fixed-bar-box-appointment{background-color:#ff6d39;color:#fff;margin-right:.625rem}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-lay{display:none;position:fixed;top:0;left:0;z-index:99;width:100%;height:100%;background:rgba(0,0,0,.3)}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form{position:fixed;bottom:-50rem;left:0;z-index:999999;width:100%;background-color:#fff;padding-bottom:1.25rem;max-height:80%;overflow-y:auto}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-title{text-align:center;padding:1rem 0;font-size:1.125rem}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-close{position:absolute;background:url(https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/template/template_yxy/tpl_udf_22294350_nishang_3337427805/resources/icon/icon2.png) no-repeat;width:1rem;height:1rem;background-size:100%;right:1rem;top:.625rem}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-multiselect,.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-singleselect{height:2.375rem;line-height:2.375rem;font-size:1rem;background:#fff;outline:0;color:#999;margin-left:0;-webkit-tap-highlight-color:transparent;-webkit-appearance:none}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-list label{text-align:left;font-size:1rem;margin-bottom:.75rem;padding:0 1rem;display:-webkit-flex;display:flex}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-list label span{white-space:nowrap;word-wrap:normal;overflow:hidden;line-height:2.375rem;text-overflow:ellipsis;display:inline-block;-webkit-box-flex:2;-webkit-flex:2;flex:2}.trans-normal-bar-blank .mip-bsml-fixed-bar .form-input{padding:0;height:2.375rem;line-height:2.375rem;color:#999;font-size:1rem;-webkit-box-flex:8;-webkit-flex:8;flex:8;display:block}.trans-normal-bar-blank .mip-bsml-fixed-bar .form-input>div{display:block;padding:0;margin:0}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-date,.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-input,.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-multiselect,.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-singleselect{margin:0}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-singleselect{width:100%;padding:0 1.063rem;border:1px solid #f1f1f1;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-multiselect{padding:0;border:0;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-multiselect .bsml-multiselect{border:0}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-date,.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-input{width:100%;border:1px solid #f1f1f1;height:38px;line-height:38px;padding:0 17px;-webkit-box-sizing:border-box;box-sizing:border-box;color:#999;font-size:14px}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-date{margin-left:0}.trans-normal-bar-blank .mip-bsml-fixed-bar input[type=date]{width:100%!important;background:0 0!important;-webkit-tap-highlight-color:transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;padding:0 0 0 1.063rem}.trans-normal-bar-blank .mip-bsml-fixed-bar input[type=text]{-webkit-tap-highlight-color:transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;text-shadow:none;-webkit-appearance:none;-webkit-user-select:text;box-shadow:none;outline:transparent 0}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-list-box{display:block;padding:.625rem 1rem 0}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-list-submit{padding:0;display:block;height:2.375rem;line-height:2.375rem;text-align:center;font-size:.875rem;background-color:#ff6d39;color:#fff}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-tips{display:none;position:absolute;width:120px;height:3.75rem;line-height:3.75rem;text-align:center;font-size:.75rem;color:#fff;bottom:30%;left:50%;margin-left:-80px;z-index:999;border-radius:5px;background:rgba(0,0,0,.3);overflow:hidden}.flexbox,.trans-fixed-bar-blank .mip-bsml-fixed-bar-box{display:-webkit-box;display:-moz-box;display:-ms-flexbox}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-multiselect:before,.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-singleselect-container:before{content:'';top:50%;height:8px;width:8px;right:12px;margin-top:-8px;border-top:1px solid #999;border-right:1px solid #999}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-singleselect-container{position:relative}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-singleselect-container:before{position:absolute;-webkit-transform:rotate(135deg);-moz-transform:rotate(135deg);-ms-transform:rotate(135deg);-o-transform:rotate(135deg);transform:rotate(135deg)}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-multiselect{position:relative}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-multiselect:before{position:absolute;-webkit-transform:rotate(135deg);-moz-transform:rotate(135deg);-ms-transform:rotate(135deg);-o-transform:rotate(135deg);transform:rotate(135deg)}.trans-normal-bar-blank .mip-bsml-fixed-bar input.bsml-input-phonecode{width:60%;float:left}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-list label span.bsml-input-phonecode-btn{width:34%;text-align:center;background:#fff;margin-left:5%;line-height:2.25rem;border:1px solid #f1f1f1;padding-left:0;font-size:14px}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-list label span.bsml-input-phonecode-n,.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-form-list label span.codeing{background:#f8f8f8}.trans-normal-bar-blank .mip-bsml-fixed-bar .bsml-input.bsml-input-phone-care{border:1px solid #c00;background:url(https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/template/template_yxy/tpl_udf_22294350_nishang_3337427805/resources/icon/bsml-form-care.png) 95% 7px no-repeat;background-size:24px 24px}.trans-normal-bar-blank .bsml-input-select{-webkit-appearance:none;background:url(https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/template/template_yxy/tpl_udf_22294350_nishang_3337427805/resources/icon/downIcon.png) 95% 55% no-repeat #fff;background-size:.813rem .438rem;border-radius:0}.mip-bsml-fixed-bar input.bsml-input-phonecode{width:60%;float:left}.mip-bsml-fixed-bar .bsml-form-list label span.bsml-input-phonecode-btn{padding-left:0}.trans-fixed-bar-blank .mip-bsml-fixed-bar{width:100%}.trans-fixed-bar-blank .mip-bsml-fixed-bar-box{background:rgba(255,255,255,.9);padding:.438rem 0;display:-webkit-flex;display:flex;border-top:1px solid #f1f1f1}.trans-fixed-bar-blank .mip-bsml-fixed-bar-box-appointment,.trans-fixed-bar-blank .mip-bsml-fixed-bar-box-consult,.trans-fixed-bar-blank .mip-bsml-fixed-bar-box-phone{display:block;-webkit-box-flex:1;-webkit-flex:1;flex:1;height:2.063rem;line-height:2.063rem;text-align:center;font-size:.875rem;margin-left:.625rem}.trans-fixed-bar-blank .mip-bsml-fixed-bar-box-phone a{color:#fff;display:inline-block;width:100%;height:2.063rem;background-color:#fec73f}.trans-fixed-bar-blank .mip-bsml-fixed-bar-box-consult{border:1px solid #e4e4e4;height:1.938rem}.trans-fixed-bar-blank .mip-bsml-fixed-bar-box-consult:last-child,.trans-fixed-bar-blank .mip-bsml-fixed-bar-box-phone:last-child{margin-right:.625rem}.trans-fixed-bar-blank .mip-bsml-fixed-bar-box-consult a{display:inline-block;background-color:#fff;width:100%;height:1.938rem;color:#666}.trans-fixed-bar-blank .mip-bsml-fixed-bar-box-appointment{background-color:#ff6d39;color:#fff;margin-right:.625rem}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-lay{display:none;position:fixed;top:0;left:0;z-index:99;width:100%;height:100%;background:rgba(0,0,0,.3)}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form{position:fixed;bottom:-50rem;left:0;z-index:999999;width:100%;background-color:#fff;padding-bottom:1.25rem;max-height:80%;overflow-y:auto}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-title{text-align:center;padding:1rem 0;font-size:1.125rem}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-count{padding-left:1rem;font-size:.75rem;padding-bottom:1.063rem;color:#666}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-close{position:absolute;background:url(https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/template/template_yxy/tpl_udf_22294350_nishang_3337427805/resources/icon/icon2.png) no-repeat;width:1rem;height:1rem;background-size:100%;right:1rem;top:.625rem}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-list label{text-align:left;font-size:1rem;margin-bottom:.75rem;padding:0 1rem;display:-webkit-flex;display:flex}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-list label input.bsml-input-phonecode{width:60%;float:left}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-list label span.bsml-input-phonecode-btn{width:34%;text-align:center;background:#fff;margin-left:5%;line-height:2.25rem;border:1px solid #f1f1f1;font-size:14px}.mip-bsml-fixed-bar .bsml-form-list label span.bsml-input-phonecode-n,.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-list label span.codeing{background:#f8f8f8}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-input.bsml-input-phone-care{border:1px solid #c00;background:url(https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/template/template_yxy/tpl_udf_22294350_nishang_3337427805/resources/icon/bsml-form-care.png) 95% 7px no-repeat;background-size:24px 24px}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-multiselect,.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-singleselect{height:2.375rem;line-height:2.375rem;font-size:1rem;background:#fff;outline:0;color:#999;margin-left:0;-webkit-appearance:none;-webkit-tap-highlight-color:transparent}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-list label span{overflow:hidden;line-height:2.375rem;display:inline-block;-webkit-box-flex:2;-webkit-flex:2;flex:2}.trans-fixed-bar-blank .mip-bsml-fixed-bar .form-input{padding:0;height:2.375rem;line-height:2.375rem;color:#999;font-size:1rem;-webkit-box-flex:8;-webkit-flex:8;flex:8;display:block}.trans-fixed-bar-blank .mip-bsml-fixed-bar .form-input>div{display:block;padding:0;margin:0}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-date,.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-input,.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-multiselect,.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-singleselect{margin:0}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-singleselect{width:100%;padding:0 1.063rem;border:1px solid #f1f1f1;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-multiselect{padding:0;border:0;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-multiselect .bsml-multiselect{border:0}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-date,.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-input{width:100%;border:1px solid #f1f1f1;height:38px;line-height:38px;padding:0 17px;-webkit-box-sizing:border-box;box-sizing:border-box;color:#999;font-size:14px}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-date{margin-left:0}.trans-fixed-bar-blank .mip-bsml-fixed-bar input[type=date]{width:100%!important;background:0 0!important;-webkit-tap-highlight-color:transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;padding:0 0 0 1.063rem}.trans-fixed-bar-blank .mip-bsml-fixed-bar input[type=text]{-webkit-tap-highlight-color:transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;text-shadow:none;-webkit-appearance:none;-webkit-user-select:text;box-shadow:none;outline:transparent 0}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-list-box{display:block;padding:.625rem 1rem 0}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-list-submit{padding:0;display:block;height:2.375rem;line-height:2.375rem;text-align:center;font-size:.875rem;background-color:#ff6d39;color:#fff}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-form-tips{display:none;position:absolute;width:120px;height:3.75rem;line-height:3.75rem;text-align:center;font-size:.75rem;color:#fff;bottom:30%;left:50%;margin-left:-80px;z-index:999;border-radius:5px;background:rgba(0,0,0,.3);overflow:hidden}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-multiselect:before,.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-singleselect-container:before{content:'';top:50%;height:8px;width:8px;right:12px;margin-top:-8px;border-top:1px solid #999;border-right:1px solid #999}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-singleselect-container{position:relative}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-singleselect-container:before{position:absolute;-webkit-transform:rotate(135deg);-moz-transform:rotate(135deg);-ms-transform:rotate(135deg);-o-transform:rotate(135deg);transform:rotate(135deg)}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-multiselect{position:relative}.trans-fixed-bar-blank .mip-bsml-fixed-bar .bsml-multiselect:before{position:absolute;-webkit-transform:rotate(135deg);-moz-transform:rotate(135deg);-ms-transform:rotate(135deg);-o-transform:rotate(135deg);transform:rotate(135deg)}.trans-fixed-bar-blank .bsml-input-select{-webkit-appearance:none;background:url(https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/template/template_yxy/tpl_udf_22294350_nishang_3337427805/resources/icon/downIcon.png) 95% 55% no-repeat #fff;background-size:.813rem .438rem;border-radius:0}*{-webkit-tap-highlight-color:transparent}.body-wrapper{background-color:#f1f1f1!important;color:#333}a{color:#333;text-decoration:none}.top-bottom-1px{border-top:1px solid transparent;border-right:1px solid transparent;border-bottom:1px solid transparent;border-left:1px solid transparent}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-device-pixel-ratio:2){.top-bottom-1px{border:none;background-image:-webkit-linear-gradient(90deg,transparent,transparent 50%,transparent 50%),-webkit-linear-gradient(180deg,transparent,transparent 50%,transparent 50%),-webkit-linear-gradient(90deg,transparent,transparent 50%,transparent 50%),-webkit-linear-gradient(0,transparent,transparent 50%,transparent 50%);background-image:linear-gradient(180deg,transparent,transparent 50%,transparent 50%),linear-gradient(270deg,transparent,transparent 50%,transparent 50%),linear-gradient(0deg,transparent,transparent 50%,transparent 50%),linear-gradient(90deg,transparent,transparent 50%,transparent 50%);background-size:100% 1px,1px 100%,100% 1px,1px 100%;background-repeat:no-repeat;background-position:top,right top,bottom,left top}}.top-1px{border-top:1px solid transparent}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-device-pixel-ratio:2){.top-1px{border:none;background-image:-webkit-linear-gradient(90deg,transparent,transparent 50%,transparent 50%);background-image:linear-gradient(180deg,transparent,transparent 50%,transparent 50%);background-size:100% 1px;background-repeat:no-repeat;background-position:top}}.right-1px{border-right:1px solid transparent}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-device-pixel-ratio:2){.right-1px{border:none;background-image:-webkit-linear-gradient(180deg,transparent,transparent 50%,transparent 50%);background-image:linear-gradient(270deg,transparent,transparent 50%,transparent 50%);background-size:1px 100%;background-repeat:no-repeat;background-position:right}}.bottom-1px{border-bottom:1px solid transparent}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-device-pixel-ratio:2){.bottom-1px{border:none;background-image:-webkit-linear-gradient(90deg,transparent,transparent 50%,transparent 50%);background-image:linear-gradient(0deg,transparent,transparent 50%,transparent 50%);background-size:100% 1px;background-repeat:no-repeat;background-position:bottom}}.left-1px{border-left:1px solid transparent}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-device-pixel-ratio:2){.left-1px{border:none;background-image:-webkit-linear-gradient(0deg,transparent,transparent 50%,transparent 50%);background-image:linear-gradient(90deg,transparent,transparent 50%,transparent 50%);background-size:1px 100%;background-repeat:no-repeat;background-position:left}}.nuomi-tag{display:inline-block;padding:0 5px;box-sizing:border-box;line-height:21.3px;color:#fa4982;border-radius:2px;border:1px solid #fa4982;font-size:12px;transform:scale(.75);transform-origin:50% 50%;transform-origin:100% 0}.icon-triangle-down,.icon-triangle-up{width:0;height:0;overflow:hidden;border-left:1px dashed transparent;border-right:1px dashed transparent}.icon-arrow-down,.icon-triangle-up{border-bottom:1px solid transparent}.icon-arrow-left,.icon-arrow-right,.icon-arrow-up,.icon-triangle-down{border-top:1px solid transparent}.box-sizing{-webkit-box-sizing:content-box;box-sizing:content-box}.flexbox{display:-webkit-flex;display:flex}.flex{-webkit-box-flex:1;-webkit-flex:1;flex:1}.align-items{-webkit-align-items:center;align-items:center;-webkit-box-align:center;box-align:center}.justify-content{justify-content:center}.icon-arrow-down,.icon-arrow-left,.icon-arrow-up{width:8px;height:8px;border-left:1px solid transparent}.icon-arrow-right{width:8px;height:8px;border-right:1px solid transparent;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}.icon-arrow-down,.icon-arrow-left{-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg)}.icon-arrow-up{-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}.body-wrapper{padding-bottom:3.125rem}.mip-bsml-fixed-bar{width:100%}.mip-bsml-fixed-bar-box{background:rgba(255,255,255,.9);padding:.438rem 0;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;border-top:1px solid #f1f1f1}.mip-bsml-fixed-bar-box-appointment,.mip-bsml-fixed-bar-box-consult,.mip-bsml-fixed-bar-box-phone{display:block;-webkit-box-flex:1;-webkit-flex:1;flex:1;height:2.063rem;line-height:2.063rem;text-align:center;font-size:.875rem;margin-left:.625rem}.mip-bsml-fixed-bar-box-phone a{color:r;display:inline-block;width:100%;height:2.063rem;background-color:#fec73f}.mip-bsml-fixed-bar-box-consult{border:1px solid #e4e4e4;height:1.938rem}.mip-bsml-fixed-bar-box-consult:last-child,.mip-bsml-fixed-bar-box-phone:last-child{margin-right:.625rem}.mip-bsml-fixed-bar-box-consult a{display:inline-block;background-color:#fff;width:100%;height:1.938rem;color:#666}.mip-bsml-fixed-bar-box-appointment{background-color:#ff6d39;color:#fff;margin-right:.625rem}.mip-bsml-fixed-bar .bsml-form-lay{display:none;position:fixed;top:0;left:0;z-index:99;width:100%;height:100%;background:rgba(0,0,0,.3)}.mip-bsml-fixed-bar .bsml-form{position:fixed;bottom:-50rem;left:0;z-index:999999;width:100%;background-color:#fff;padding-bottom:1.25rem;max-height:80%;overflow-y:auto}.mip-bsml-fixed-bar .bsml-form-title{text-align:center;padding:1rem 0;font-size:1.125rem}.mip-bsml-fixed-bar .bsml-form-count{padding-left:1rem;font-size:.75rem;padding-bottom:1.063rem;color:#666}.mip-bsml-fixed-bar .bsml-form-close{position:absolute;background:url(https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/template/template_yxy/tpl_udf_22294350_nishang_3337427805/resources/icon/icon2.png) no-repeat;width:1rem;height:1rem;background-size:100%;right:1rem;top:.625rem}.mip-bsml-fixed-bar .bsml-form-list label{text-align:left;font-size:1rem;margin-bottom:.75rem;padding:0 1rem;display:-webkit-flex;display:flex}.mip-bsml-fixed-bar .bsml-form-list label input.bsml-input-phonecode{width:60%;float:left}.mip-bsml-fixed-bar .bsml-form-list label span.bsml-input-phonecode-btn{width:34%;text-align:center;background:#fff;margin-left:5%;line-height:2.25rem;border:1px solid #f1f1f1;font-size:14px}.mip-bsml-fixed-bar .bsml-form-list label span.bsml-input-phonecode-n,.mip-bsml-fixed-bar .bsml-form-list label span.codeing{background:#f8f8f8}.mip-bsml-fixed-bar .bsml-input.bsml-input-phone-care{border:1px solid #c00;background:url(https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/template/template_yxy/tpl_udf_22294350_nishang_3337427805/resources/icon/bsml-form-care.png) 95% 7px no-repeat;background-size:24px 24px}.mip-bsml-fixed-bar .bsml-multiselect,.mip-bsml-fixed-bar .bsml-singleselect{height:2.375rem;line-height:2.375rem;font-size:1rem;background:#fff;outline:0;color:#999;margin-left:0;-webkit-tap-highlight-color:transparent;-webkit-appearance:none}.mip-bsml-fixed-bar .bsml-form-list label span{overflow:hidden;line-height:2.375rem;display:inline-block;-webkit-box-flex:2;-webkit-flex:2;flex:2}.mip-bsml-fixed-bar .form-input{padding:0;height:2.375rem;line-height:2.375rem;color:#999;font-size:1rem;-webkit-box-flex:8;-webkit-flex:8;flex:8;display:block}.mip-bsml-fixed-bar .form-input>div{display:block;padding:0;margin:0}.mip-bsml-fixed-bar .bsml-date,.mip-bsml-fixed-bar .bsml-input,.mip-bsml-fixed-bar .bsml-multiselect,.mip-bsml-fixed-bar .bsml-singleselect{margin:0}.mip-bsml-fixed-bar .bsml-singleselect{width:100%;padding:0 1.063rem;border:1px solid #f1f1f1;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mip-bsml-fixed-bar .bsml-multiselect{padding:0;border:0;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mip-bsml-fixed-bar .bsml-multiselect .bsml-multiselect{border:0}.mip-bsml-fixed-bar .bsml-date,.mip-bsml-fixed-bar .bsml-input{width:100%;border:1px solid #f1f1f1;height:38px;line-height:38px;padding:0 17px;-webkit-box-sizing:border-box;box-sizing:border-box;color:#999;font-size:14px}.mip-bsml-fixed-bar .bsml-date{margin-left:0}.mip-bsml-fixed-bar input[type=date]{width:100%!important;background:0 0!important;-webkit-tap-highlight-color:transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;padding:0 0 0 1.063rem}.mip-bsml-fixed-bar input[type=text]{-webkit-tap-highlight-color:transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;text-shadow:none;-webkit-appearance:none;-webkit-user-select:text;box-shadow:none;outline:transparent 0}.mip-bsml-fixed-bar .bsml-form-list-box{display:block;padding:.625rem 1rem 0}.mip-bsml-fixed-bar .bsml-form-list-submit{padding:0;display:block;height:2.375rem;line-height:2.375rem;text-align:center;font-size:.875rem;background-color:#ff6d39;color:#fff}.mip-bsml-fixed-bar .bsml-form-tips{display:none;position:absolute;width:120px;height:3.75rem;line-height:3.75rem;text-align:center;font-size:.75rem;color:#fff;bottom:30%;left:50%;margin-left:-80px;z-index:999;border-radius:5px;background:rgba(0,0,0,.3);overflow:hidden}.mip-bsml-fixed-bar .bsml-multiselect:before,.mip-bsml-fixed-bar .bsml-singleselect-container:before{content:'';top:50%;height:8px;width:8px;right:12px;margin-top:-8px;border-top:1px solid #999;border-right:1px solid #999}.mip-bsml-fixed-bar .bsml-singleselect-container{position:relative}.mip-bsml-fixed-bar .bsml-singleselect-container:before{position:absolute;-webkit-transform:rotate(135deg);-moz-transform:rotate(135deg);-ms-transform:rotate(135deg);-o-transform:rotate(135deg);transform:rotate(135deg)}.mip-bsml-fixed-bar .bsml-multiselect{position:relative}.mip-bsml-fixed-bar .bsml-multiselect:before{position:absolute;-webkit-transform:rotate(135deg);-moz-transform:rotate(135deg);-ms-transform:rotate(135deg);-o-transform:rotate(135deg);transform:rotate(135deg)}.bsml-input-select{-webkit-appearance:none;background:url(https://ss0.bdstatic.com/-K94cT8a2gITlNq7m9vN2DJv/template/template_yxy/tpl_udf_22294350_nishang_3337427805/resources/icon/downIcon.png) 95% 55% no-repeat #fff;background-size:.813rem .438rem;border-radius:0}#bsmlStyle_comp_32,#bsmlStyle_comp_63{font-size:12px}#bsmlStyle_comp_33{color:#000;letter-spacing:1.42px;text-align:center;line-height:normal;font-size:12px}#bsmlStyle_comp_34,#bsmlStyle_comp_35,#bsmlStyle_comp_62{color:#000}#bsmlStyle_comp_122{color:rgba(10,123,235,1);border-color:rgba(10,123,235,1)}#bsmlStyle_comp_131{background-color:#216dd5}#bsmlStyle_comp_132,#bsmlStyle_comp_146,#bsmlStyle_comp_147{display:block;color:inherit;font-size:14px;padding:0}#bsmlStyle_comp_133{font-size:20px}#bsmlStyle_comp_141,#bsmlStyle_comp_151,#bsmlStyle_comp_161{background-color:#fff}#bsmlStyle_comp_143{height:35px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#f0f0f0;color:inherit}#bsmlStyle_comp_144{float:left;height:35px;width:290px;font-size:14px;font-weight:700;padding:0;display:block;color:inherit}#bsmlStyle_comp_145{padding:0;border:1px solid #f0f0f0;color:inherit}#bsmlStyle_comp_148{font-size:22px;color:#ed4431;font-weight:900;line-height:normal}#bsmlStyle_comp_149{background-color:rgba(208,29,2,1)}#bsmlStyle_comp_1410,#bsmlStyle_comp_1511,#bsmlStyle_comp_154,#bsmlStyle_comp_158,#bsmlStyle_comp_164{text-align:center;display:block;color:inherit;font-size:14px;padding:0}#bsmlStyle_comp_1411,#bsmlStyle_comp_1512,#bsmlStyle_comp_155,#bsmlStyle_comp_159,#bsmlStyle_comp_165{letter-spacing:1.42px;line-height:normal}#bsmlStyle_comp_1510,#bsmlStyle_comp_153{background-color:rgba(208,2,27,1)}#bsmlStyle_comp_157{background-color:#fec73f}#bsmlStyle_comp_163{background-color:rgba(57,93,255,1)}
+             </style>
+             
+         <style type="text/css">:root div[id$="2"] ~ #\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"],
+         
+         
+         
+           .title
+        {
+            font-weight: 500;
+            font-size: 24px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            margin-left: 10px;
+        }
+       
+        .rich_media_title
+        {
+            margin-bottom: 10px;
+            line-height: 1.4;
+            font-weight: 400;
+            font-size: 24px;
+            padding: 20px 15px 15px;
+        }
+        
+           input{   
+
+    width: 250px;   
+
+    height: 20px;   
+
+    margin-bottom: 10px;   
+
+    outline: none;   
+
+    padding: 10px;   
+
+    font-size: 13px;   
+
+    color:;   
+
+	background-color: #B2DFEE; 
+    text-shadow:1px 1px 1px;   
+
+    border-top: 1px solid #312E3D;   
+
+    border-left: 1px solid #312E3D;   
+
+    border-right: 1px solid #312E3D;   
+
+    border-bottom: 1px solid #56536A;   
+
+    border-radius: 4px;   
+
+   
+
+}   
+
+.but{   
+
+    width: 280px;   
+
+    min-height: 20px;   
+
+    display: block;   
+
+    background-color: red;   
+
+    border: 1px solid #3762bc;   
+
+    color: #fff;   
+
+    padding: 9px 14px;   
+
+    font-size: 15px;   
+
+     
+
+    border-radius: 5px;   
+
+   margin:auto;
+
+}  
+    	
+
+#login h1{   
+
+    color:#B22222 ;   
+
+    text-shadow:0 0 10px;   
+
+    letter-spacing: 1px;   
+
+    text-align: center;   
+
+} 
+         
+         
+         
+         
+         
+         
+:root div[data-ad],
+:root .wgt-ads,
+:root .wapAd,
+:root .v-s-tuiguang-wrap,
+:root .topBanner,
+:root .top-banner-ad-wrap,
+:root .top-ad-cont,
+:root .text-link-ads,
+:root .text-advertise,
+:root .tc-card[tpl="fc_before_fixads"],
+:root .spread-wrap,
+:root .spage-couplet-container,
+:root .slide-bner-adv-ret,
+:root .sfc-image-content-waterfall-item > div:not([class]) > .sfc-image-content-cell,
+:root .sfc-image-content-adtext,
+:root .sf-wrap > .c-back + div[id]:last-child,
+:root .search-aside-adWrap,
+:root .sam_iebrowser_banner,
+:root .s-news-special[data-url^="http://vip.baidu.com/"],
+:root .rightAd-skin,
+:root .qb-other-answer-wmad,
+:root .picad,
+:root .pageLeftFixedAD,
+:root .nav_ads,
+:root .manual-spread,
+:root .l-header-ad,
+:root .intro-adv,
+:root .gg-content,
+:root .ecomad-banner-loading,
+:root .ec_wise_ad,
+:root .ec_sma_im,
+:root .ec_im_container,
+:root .ec_ad,
+:root .ec-ad,
+:root .content-adv,
+:root .cbg-Ads,
+:root .bds-list-ads,
+:root .banner-cover,
+:root .afd-item,
+:root .adTopImg,
+:root .adLog,
+:root .ad-platform-tips,
+:root #wgt-left-promo,
+:root #video_push_box,
+:root #spage-top-banner,
+:root #sning3,
+:root #sning2,
+:root #sning1,
+:root #search_bottomad,
+:root #search-union-ad,
+:root #left-promotion,
+:root #j-ad-side,
+:root #j-ad-first,
+:root #index_right_top,
+:root #index_right_float,
+:root #index_banner_top,
+:root #gamePromo,
+:root #ec_im_container,
+:root #couplet-right,
+:root #couplet-left,
+:root #bdyx_float_rb,
+:root #asideRight,
+:root #asideLeft,
+:root #ad_xbox_3,
+:root #ad_xbox_2,
+:root #ad_xbox_1,
+:root #adTitleRight,
+:root #adMainTopRight,
+:root #adMainTopLeft,
+:root #adCard,
+:root #\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2) + .f13:last-child,
+:root #\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2)
+{display:none !important;}</style>
+
+<!-- 百度统计代码 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?06ce864ec60b8262c857ad8f837ef1ad";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+
+</head>
+         <body class="mip-i-android-scroll" style="opacity: 1; animation: none;">
+         
+         <script language="javascript">
+            function toVaild(){//判读11位电话号码
+            	var temp = document.getElementById("ff").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+    </script>
+         
+         
+             
+             <div class="body-wrapper" style="min-height: 667px;">
+                 <div id="pageinfo" guid="tpl_udf_22294350_nishang" pagename="page" pagetype="index" pageid="315594" siteid="306649" ucid="19866580" gfhid="" appid="1"></div>
+                 <mip-bsml-widget name="img-single" type="img-single" id="f87c05df02d97696165c31039eefc455" class="mip-element mip-layout-container">
+            <section class="single-img" id="bsmlStyle_comp_11">
+        
+            <div class="single-img-box">
+                <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/49082476-bc74-4501-878f-101ffa03b3d1.jpg" class="mip-element mip-layout-container mip-img-loaded">
+            <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/49082476-bc74-4501-878f-101ffa03b3d1.jpg"></mip-img></div>
+        
+    </section>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="img-single" type="img-single" id="8443c7e0e1c20d9027b83090bbee3d67" class="mip-element mip-layout-container">
+            <section class="single-img" id="bsmlStyle_comp_21">
+        
+            <div class="single-img-box">
+                <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/544b92da-cb34-4dc8-a70b-c8baf6bf3ccb.jpg" class="mip-element mip-layout-container mip-img-loaded">
+            <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/544b92da-cb34-4dc8-a70b-c8baf6bf3ccb.jpg"></mip-img></div>
+        
+    </section>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="text-content" type="text-content" id="870ea49c07b3a57056cf55ea0dae8220" class="mip-element mip-layout-container">
+            <section class="only-text" id="bsmlStyle_comp_31">
+        
+            <div class="only-text-text">
+                    <div class="only-text-text-des"><font id="bsmlStyle_comp_32"><span id="bsmlStyle_comp_33"><b>绿地长岛</b></span><span id="bsmlStyle_comp_34" microsoft="" yahei',="" 微软雅黑,="" microsoftjhenghei,="" 华文细黑,="" stheiti,="" mingliu,="" arial,="" verdana,="" sans-serif;="" letter-spacing:="" normal;="" line-height:="" font-size:="" 12px;"="">由世界500强企业绿地长岛投资千亿打造，</span><span id="bsmlStyle_comp_35" microsoft="" yahei',="" 微软雅黑,="" microsoftjhenghei,="" 华文细黑,="" stheiti,="" mingliu,="" arial,="" verdana,="" sans-serif;="" letter-spacing:="" normal;="" line-height:="" font-size:="" 12px;"="">总规划面积约2.35万亩，全长17.5千米的超大规模独立海岛。</span></font></div>
+            </div>
+        
+    </section>
+
+</mip-bsml-widget>
+<br>
+<h1 style="text-align: center; color: red;">24小时团购优惠报名</h1>
+
+<div ><!-- 电话 看房模块 -->
+                <div class="mip-bsml-fixed-bar-box" id="bsmlStyle_comp_156">
+                <span class="mip-bsml-fixed-bar-box-phone"><a id="bsmlStyle_comp_157" href="tel:021-51078185" target="_blank" data-click="{&quot;action_id&quot;:&quot;site_bar_click&quot;,&quot;action_name&quot;:&quot;转化组件点击&quot;,&quot;type&quot;:&quot;tel&quot;}" style="display: block;"><div id="bsmlStyle_comp_158"><span id="bsmlStyle_comp_159">拨打电话</span></div></a></span>
+                <span class="mip-bsml-fixed-bar-box-phone"  ><a style="background: red;"href="#tgbm"><span id="">预约看房</span></a></span>
+                </div>
+            </div>
+            <br>
+
+<mip-bsml-widget name="img-single" type="img-single" id="52c2e2b6f66d10acdbc7219b3cf7840b" class="mip-element mip-layout-container">
+            <section class="single-img" id="bsmlStyle_comp_41">
+        
+            <div class="single-img-box">
+                <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/63610b32-fdbe-4ed4-b79e-690e75fb8a9d.jpg" class="mip-element mip-layout-container mip-img-loaded">
+            <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/63610b32-fdbe-4ed4-b79e-690e75fb8a9d.jpg"></mip-img></div>
+        
+    </section>
+
+</mip-bsml-widget>
+
+
+
+<mip-bsml-widget name="img-double" type="img-double" id="bfef27b578816b98a89c09ab9fd5549f" class="mip-element mip-layout-container">
+            <section class="double-img" id="bsmlStyle_comp_51">
+        <ul class="double-img-box">
+                <li>
+                    
+                        <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/e7b258c1-a751-4f8e-a400-2fc175e0b24b.jpg" class="mip-element mip-layout-container mip-img-loaded">
+                    
+                <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/e7b258c1-a751-4f8e-a400-2fc175e0b24b.jpg"></mip-img></li>
+                <li>
+                    
+                        <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/db95a402-d694-46d3-9c07-8ef5e17162ec.jpg" class="mip-element mip-layout-container mip-img-loaded">
+                    
+                <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/db95a402-d694-46d3-9c07-8ef5e17162ec.jpg"></mip-img></li>
+        </ul>
+    </section>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="text-content" type="text-content" id="58626f4bd440f8ddbfd687e248847c15" class="mip-element mip-layout-container">
+            <section class="only-text" id="bsmlStyle_comp_61">
+        
+            <div class="only-text-text">
+                    <div class="only-text-text-des"><span id="bsmlStyle_comp_62" microsoft="" yahei',="" 微软雅黑,="" microsoftjhenghei,="" 华文细黑,="" stheiti,="" mingliu,="" arial,="" verdana,="" sans-serif;="" letter-spacing:="" normal;="" line-height:="" font-size:="" 12px;"=""><font id="bsmlStyle_comp_63">岛上共规划金融商务精英区、时尚度假区、中央公园区、湿地公园区等四大区；打造了大型体育公园、游艇码头、人工沙滩、五星级酒店、国际学校等约四十项顶级配套。</font></span><br></div>
+            </div>
+        
+    </section>
+    
+    
+
+</mip-bsml-widget>
+<mip-bsml-widget name="img-single" type="img-single" id="367599eaa28a077882e6d6b040254a3c" class="mip-element mip-layout-container">
+            <section class="single-img" id="bsmlStyle_comp_71">
+        
+            <div class="single-img-box">
+                <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/8dec09d7-0a35-47d1-b699-cd39937fc57a.jpg" class="mip-element mip-layout-container mip-img-loaded">
+            <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/8dec09d7-0a35-47d1-b699-cd39937fc57a.jpg"></mip-img></div>
+        
+    </section>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="img-double" type="img-double" id="c20505fc91f9d51e0bbf01b66680603d" class="mip-element mip-layout-container">
+            <section class="double-img" id="bsmlStyle_comp_81">
+        <ul class="double-img-box">
+                <li>
+                    
+                        <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/f13d5d95-dea6-4acb-90db-e1f46e8eaee5.png" class="mip-element mip-layout-container mip-img-loaded">
+                    
+                <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/f13d5d95-dea6-4acb-90db-e1f46e8eaee5.png"></mip-img></li>
+                <li>
+                    
+                        <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/6106f34d-9851-4a1c-bfc3-1533a06d175f.png" class="mip-element mip-layout-container mip-img-loaded">
+                    
+                <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/6106f34d-9851-4a1c-bfc3-1533a06d175f.png"></mip-img></li>
+        </ul>
+    </section>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="img-double" type="img-double" id="d0fc8e809f719dd53e2d0063edea2ba2" class="mip-element mip-layout-container">
+            <section class="double-img" id="bsmlStyle_comp_91">
+        <ul class="double-img-box">
+                <li>
+                    
+                        <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/fceef873-41a1-46d1-9734-f913bdbed02c.png" class="mip-element mip-layout-container mip-img-loaded">
+                    
+                <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/fceef873-41a1-46d1-9734-f913bdbed02c.png"></mip-img></li>
+                <li>
+                    
+                        <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/c7bea027-1ac3-4981-8681-7a45b9ec7fc8.png" class="mip-element mip-layout-container mip-img-loaded">
+                    
+                <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/c7bea027-1ac3-4981-8681-7a45b9ec7fc8.png"></mip-img></li>
+        </ul>
+    </section>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="img-single" type="img-single" id="3862001dfee9cb38c4ec0db934ff4cc8" class="mip-element mip-layout-container">
+            <section class="single-img" id="bsmlStyle_comp_101">
+        
+            <div class="single-img-box">
+                <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/a543393f-14ea-4119-b2d2-b779f27fd4a5.png" class="mip-element mip-layout-container mip-img-loaded">
+            <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/a543393f-14ea-4119-b2d2-b779f27fd4a5.png"></mip-img></div>
+        
+    </section>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="img-single" type="img-single" id="1c2e6bfb3e827dc349f8ed8eaaf32524" class="mip-element mip-layout-container">
+            <section class="single-img" id="bsmlStyle_comp_111">
+        
+            <div class="single-img-box">
+                <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/416ce220-97cd-4860-9f71-8d53af3c9c59.png" class="mip-element mip-layout-container mip-img-loaded">
+            <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/416ce220-97cd-4860-9f71-8d53af3c9c59.png"></mip-img></div>
+        
+    </section>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="article-multi" type="article" id="b9cda799ab4746eead09b534226ace8e" class="mip-element mip-layout-container">
+        <section class="article-multi" id="bsmlStyle_comp_121">
+      <div class="article-multi-container">
+          
+                <div class="article-multi-t">
+                    <b>投资 居住 养老 3大选择空间</b>
+                </div>
+
+              <div class="article-multi-c">
+                  <div class="article-multi-c-img">
+                      <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/571c1ef5-89cf-4757-bf9e-9a6d15cc759b.jpg" alt="" class="mip-element mip-layout-container mip-img-loaded">
+                  <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/571c1ef5-89cf-4757-bf9e-9a6d15cc759b.jpg"></mip-img></div>
+                  <div class="article-multi-c-img">
+                      <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/df9e3dd4-e1be-4ff8-b9c1-bf2996468c2b.jpg" alt="" class="mip-element mip-layout-container mip-img-loaded">
+                  <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/df9e3dd4-e1be-4ff8-b9c1-bf2996468c2b.jpg"></mip-img></div>
+                  <div class="article-multi-c-img">
+                      <mip-img src="https://ss0.bdstatic.com/9r-1bjml2gcT8tyhnq/v1/material-library/557eb897-cd05-4564-a581-5532a6d65fde.jpg" alt="" class="mip-element mip-layout-container mip-img-loaded">
+                  <img class="mip-fill-content mip-replaced-content" src="./lvcd2_files/557eb897-cd05-4564-a581-5532a6d65fde.jpg"></mip-img></div>
+              </div>
+              <div class="article-multi-r-info">
+                  <p class="article-multi-r-info-label">绿</p>
+                  <p class="article-multi-r-info-time">上海地区标志性休闲岛</p>
+                      <p class="article-multi-r-info-tags" id="bsmlStyle_comp_122">预约看房</p>
+              </div>
+          
+      </div>
+</section>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="count-down" type="count-down" id="11092cabcfff11430a239a189da677d3" class="mip-element mip-layout-container">
+            <mip-bsml-countdown data-time="2017/12/31 00:00" class="mip-element mip-layout-container">
+        <section class="count-down" id="bsmlStyle_comp_131" style="display: none;">
+                <h2 class="count-down-title"><div id="bsmlStyle_comp_132"><font id="bsmlStyle_comp_133">团购返现10000现金红包+限额优惠活动</font></div></h2>
+            <div class="count-down-box">
+                还剩 <span class="count-down-box-sp">0</span><span class="count-down-box-sp">0</span> 天
+                <span class="count-down-box-sp">0</span><span class="count-down-box-sp">0</span> 小时
+                <span class="count-down-box-sp">0</span><span class="count-down-box-sp">0</span> 分钟
+            </div>
+        </section>
+    </mip-bsml-countdown>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="trans-form-blank" type="trans-form-blank" id="44778caa7ade5ca060c04fd3841b78fb" class="mip-element mip-layout-container">
+        <div class="trans-form-blank" id="bsmlStyle_comp_141">
+    <div class="bsml-form">
+        <mip-bsml-form data-count="{&quot;text&quot;:&quot;已经提交了{count}人&quot;,&quot;show&quot;:false,&quot;number&quot;:100,&quot;type&quot;:1}" class="mip-element mip-layout-container">
+            <h2 class="bsml-form-title" id="bsmlStyle_comp_142">
+                <div class="sneirongtt" id="bsmlStyle_comp_143" microsoft="" yahei',="" 微软雅黑,="" microsoftjhenghei,="" 华文细黑,="" stheiti,="" mingliu,="" arial,="" verdana,="" sans-serif;="" font-size:="" 14px;="" letter-spacing:="" normal;="" display:="" block;="" padding:="" 0px;"=""><div class="sneirongttax" id="bsmlStyle_comp_144">【绿地长岛】</div></div><div class="sneirongcon" id="bsmlStyle_comp_145" microsoft="" yahei',="" 微软雅黑,="" microsoftjhenghei,="" 华文细黑,="" stheiti,="" mingliu,="" arial,="" verdana,="" sans-serif;="" font-size:="" 14px;="" letter-spacing:="" normal;="" display:="" block;"=""><div class="othersmain newsmain" id="bsmlStyle_comp_146"><div class="other-titles" id="bsmlStyle_comp_147"><span class="baomingtt" id="bsmlStyle_comp_148">24小时团购优惠报名</span></div></div></div>
+            </h2>
+     
+    </div>
+</div>
+
+</mip-bsml-widget>
+
+<div id="login" style="width:100%;text-align:center">  
+		<br><br>
+        
+
+        <form action="/ldcd/nyj.jsp" method="post" target="my" onsubmit="return toVaild()">
+
+            <input type="text" required="required" placeholder="姓名:" name="uid"></input>  
+			<br>	<br>
+            <input type="text" required="required" placeholder="电话:" name="upwd" id='ff' ></input>  
+             <input type='hidden'name='xm'  value="绿地长岛【宝琴（移动）】 "/> 
+
+            <button class="but" type="submit" >立刻报名</button>  
+          	
+ 		
+ 			
+        </form>  
+
+    </div>  
+</br><br id="tgbm">
+
+
+<mip-bsml-widget name="trans-normal-bar-blank" type="trans-normal-bar-blank" id="33888ff6854ed35c0a355c470f575f76" class="mip-element mip-layout-container">
+        <mip-bsml-fixedbar class="mip-element mip-layout-container">
+    <div class="trans-normal-bar-blank">
+        <div class="mip-bsml-fixed-bar">
+            <div class="bsml-form-lay"></div>
+            <div class="bsml-form" id="bsmlStyle_comp_151">
+                <h2 class="bsml-form-title" id="bsmlStyle_comp_152">
+                    我要预约
+                </h2>
+                <span class="bsml-form-close"></span>
+                <mip-bsml-form data-count="{&quot;text&quot;:&quot;目前已有{count}人参加活动&quot;,&quot;number&quot;:&quot;156&quot;,&quot;show&quot;:true,&quot;type&quot;:1}" class="mip-element mip-layout-container">
+                    <div class="bsml-form-count">目前已有157人参加活动</div>
+                    <mip-form method="get" type="trans-fixed-bar" url="https://jianzhan.baidu.com/feedflow/form/submit" class="mip-element mip-layout-container">
+                        
+                        
+                        
+                    <form action="https://jianzhan.baidu.com/feedflow/form/submit" method="GET" target="_blank"><ul class="bsml-form-list"><li><label><span>姓名</span><div class="form-input"><input name="姓名" class="bsml-input" type="text" placeholder=""></div></label></li><li><label><span>电话</span><div class="form-input"><input maxlength="11" name="电话" class="bsml-input bsml-input-phone" type="text" placeholder=""></div></label></li></ul><div class="bsml-form-list-box">
+
+                            <div class="bsml-form-list-submit" id="bsmlStyle_comp_153" data-ucid="19866580" data-pageid="315594" data-siteid="306649" data-submit="true"><div id="bsmlStyle_comp_154"><span id="bsmlStyle_comp_155">立即预约</span></div></div>
+                        </div><div class="bsml-form-tips"></div></form></mip-form>
+                </mip-bsml-form>
+            </div>
+            <div  ><!-- 电话 看房模块 -->
+                <div class="mip-bsml-fixed-bar-box" id="bsmlStyle_comp_156">
+                <span class="mip-bsml-fixed-bar-box-phone"><a id="bsmlStyle_comp_157" href="tel:021-51078185" target="_blank" data-click="{&quot;action_id&quot;:&quot;site_bar_click&quot;,&quot;action_name&quot;:&quot;转化组件点击&quot;,&quot;type&quot;:&quot;tel&quot;}" style="display: block;"><div id="bsmlStyle_comp_158"><span id="bsmlStyle_comp_159">拨打电话</span></div></a></span>
+                <span class="mip-bsml-fixed-bar-box-phone"><a href="#tgbm"><span id="">预约看房</span></a></span>
+                </div>
+            </div>
+                </div>
+               
+        </div>
+    </div>
+</mip-bsml-fixedbar>
+
+</mip-bsml-widget>
+<mip-bsml-widget name="trans-fixed-bar-blank" type="trans-fixed-bar-blank" id="6fb7d4e8af9045996c123d68b32b9a64" class="mip-element mip-layout-container">
+        <mip-bsml-fixedbar class="mip-element mip-layout-container">
+    <div class="trans-fixed-bar-blank">
+        <div class="mip-bsml-fixed-bar">
+            <div class="bsml-form-lay"></div>
+            <div class="bsml-form" id="bsmlStyle_comp_161">
+
+                <h2 class="bsml-form-title" id="bsmlStyle_comp_162">
+                    预约抢券
+                </h2>
+                <span class="bsml-form-close"></span>
+                <mip-bsml-form data-count="{&quot;text&quot;:&quot;目前已有{count}人参加活动&quot;,&quot;show&quot;:false,&quot;number&quot;:100,&quot;type&quot;:1}" class="mip-element mip-layout-container">
+                    <mip-form method="get" type="trans-fixed-bar" url="https://jianzhan.baidu.com/feedflow/form/submit" class="mip-element mip-layout-container">
+                        
+                        
+                        
+                    <form action="https://jianzhan.baidu.com/feedflow/form/submit" method="GET" target="_blank"><ul class="bsml-form-list"><li><label><span>姓名</span><div class="form-input"><input name="姓名" class="bsml-input" type="text" placeholder=""></div></label></li><li><label><span>电话</span><div class="form-input"><input name="电话" class="bsml-input" type="text" placeholder=""></div></label></li></ul><div class="bsml-form-list-box">
+                            <div class="bsml-form-list-submit" id="bsmlStyle_comp_163" data-ucid="19866580" data-pageid="315594" data-siteid="306649" data-submit="true"><div id="bsmlStyle_comp_164"><span id="bsmlStyle_comp_165">立即预约</span></div></div>
+                        </div><div class="bsml-form-tips"></div></form></mip-form>
+                </mip-bsml-form>
+            </div>
+            <mip-fixed type="bottom" mipdata-fixedidx="Fixed0" style="z-index: 10000;" class="mip-element mip-layout-container">
+                <div class="mip-bsml-fixed-bar-box" id="bsmlStyle_comp_166">
+                </div>
+            </mip-fixed>
+        </div>
+    </div>
+</mip-bsml-fixedbar>
+
+</mip-bsml-widget>
+
+                 <mip-bsml-followbar class="mip-element mip-layout-container"></mip-bsml-followbar>
+             </div>
+           <script src="./lvcd2_files/mip.js.下载"></script>
+           
+           <script src="./lvcd2_files/mip-bsml-widget.js.下载"></script>
+<script src="./lvcd2_files/mip-bsml-countdown.js.下载"></script>
+<script src="./lvcd2_files/mip-bsml-form.js.下载"></script>
+<script src="./lvcd2_files/mip-form.js.下载"></script>
+<script src="./lvcd2_files/mip-bsml-fixedbar.js.下载"></script>
+<script src="./lvcd2_files/mip-fixed.js.下载"></script>
+           <script src="./lvcd2_files/mip-bsml-followbar.js.下载"></script>
+           
+           <iframe name="my" frameborder="0" style="width: 100px; height: 100px;"></iframe>
+         
+         </body></html>

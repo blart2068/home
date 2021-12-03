@@ -1,0 +1,11 @@
+package tank;
+
+public class Tongji {
+	private static int dzsl=20,wzsl=3;
+	public void djs(){
+		dzsl--;
+	}
+	public void wjs(){
+		wzsl--;
+	}
+}

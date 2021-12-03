@@ -1,0 +1,13 @@
+$(function(){
+	$('#tabBar .clickbtn').click(function(){
+		if( $('#tabBar .navigation').hasClass('active') ){
+			$('#tabBar').removeClass('active');
+			$('#tabBar .clickbtn').removeClass('active').addClass('on');
+			$('#tabBar .navigation').removeClass('active');
+		}else{
+			$('#tabBar').addClass('active');
+			$('#tabBar .clickbtn').addClass('active').removeClass('on');
+			$('#tabBar .navigation').addClass('active');
+		}
+	})
+})

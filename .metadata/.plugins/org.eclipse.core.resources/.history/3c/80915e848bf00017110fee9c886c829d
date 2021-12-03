@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<!-- saved from url=(0050)-->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <title>绿地长岛</title>
+    <link href="./绿地长岛_files/bootstrap.min.css" rel="stylesheet">
+    <link href="./绿地长岛_files/swiper.min.css" rel="stylesheet">
+    <link href="./绿地长岛_files/animate.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./绿地长岛_files/animate.css">
+    <link rel="stylesheet" href="./绿地长岛_files/main2.css">
+    <link rel="stylesheet" href="./绿地长岛_files/bottomNav.css">
+
+<link rel="stylesheet" type="text/css" href="./绿地长岛_files/xfcss2.css">
+<link rel="stylesheet" type="text/css" href="./绿地长岛_files/css2.css">
+
+
+    </head>
+    
+    
+    <style>
+    
+    
+    
+    input{   
+
+    width: 278px;   
+
+    height: 40px;   
+
+    margin-bottom: 10px;   
+
+    outline: none;   
+
+    padding: 10px;   
+
+    font-size: 13px;   
+
+    color:;   
+
+	background-color: #B2DFEE; 
+    text-shadow:1px 1px 1px;   
+
+    border-top: 1px solid #312E3D;   
+
+    border-left: 1px solid #312E3D;   
+
+    border-right: 1px solid #312E3D;   
+
+    border-bottom: 1px solid #56536A;   
+
+    border-radius: 4px;   
+
+   
+
+}   
+
+.but{   
+
+    width: 280px;   
+
+    min-height: 20px;   
+
+    display: block;   
+
+    background-color: red;   
+
+    border: 1px solid #3762bc;   
+
+    color: #fff;   
+
+    padding: 9px 14px;   
+
+    font-size: 15px;   
+
+     
+
+    border-radius: 5px;   
+
+   margin:auto;
+
+}  
+    	
+
+#login h1{   
+
+    color:#B22222 ;   
+
+    text-shadow:0 0 10px;   
+
+    letter-spacing: 1px;   
+
+    text-align: center;   
+
+}   
+    
+    
+    
+    
+    </style>
+    
+    
+    
+<body body scroll="no" style="overflow-x:hidden;">
+    
+
+
+
+<!--免费专车-->
+
+
+
+
+<div class="main page2">
+
+    <div class="head">
+        <div class="wrap2">
+           <a href="./绿地长岛_files/20171016455525804215.jpg"> <img src="./绿地长岛_files/20171016455525804215.jpg"></a>
+           
+        </div>
+    </div>
+
+
+    <div class="navPc hidden-xs">
+        <div class="wrap2">
+            <ul class="list-unstyled no-margin">
+                <a href="#tgbm"><li id="dh">团购报名</li></a>
+               	<a href="#tgwx"><li id="dh">微信咨询</li></a>
+                <a href="tel:02151078185"><li id="dh"><span></span>拨打销售处电话</li></a>
+                
+            </ul>
+            
+              <script type="text/javascript">
+              $(document).ready(function(){
+              $("#dh").click(function(){
+              $(".dh1").toggle();
+              });
+                });
+            </script>
+            <div class="clear"></div>
+        </div>
+    </div>
+
+
+    <div class="signUp none" id="signUp1">
+        <div class="close glyphicon glyphicon-remove"></div>
+        <div class="title">团购 优惠 预约 登记</div>
+        <form name="feedback" method="post" enctype="multipart/form-data" action="">
+            <input name="enews" type="hidden" value="AddFetion">
+            <input name="title" type="hidden" class="yuyueinput" value="[官网]绿地长岛-团购登记">
+            <input type="text" placeholder="姓名：" name="name">
+            <input type="text" placeholder="电话：" name="mycall">
+     
+            <script type="text/javascript">
+                if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){
+                    $(".box span").addClass("none");
+                }
+            </script>
+
+            <input type="submit" value="立即报名">
+        </form>
+    </div>
+
+       <div class="ad1 wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="wrap2">
+            <a href="./绿地长岛_files/act1.jpg"><div class="img">
+                <img src="./绿地长岛_files/act1.jpg">
+                <div class="adBtn" id="adBtn1"></div>
+                <div class="clear"></div>
+            </div>
+			</a>
+            <script type="text/javascript">
+
+                $("#adBtn1").click(function () {
+                    $("#signUp1").removeClass("none");
+                });
+                $(".close").click(function () {
+                    $("#signUp1").addClass("none");
+                   
+                });
+            </script>
+
+        </div>
+    </div>
+
+   
+
+    <div class="ad2 wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="wrap2">
+            
+			<a href="./绿地长岛_files/act2.jpg"></a><div class="img"><a href="./绿地长岛_files/act2.jpg">
+                <img src="./绿地长岛_files/act2.jpg">
+                </a><a href="tel:02151078185"><div class="adBtn" id="adBtn2"></div></a>
+				
+            </div>
+			
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+      <!--预约看房-->
+        <div class="signUp none" id="signUp4">
+        <div class="close glyphicon glyphicon-remove"></div>
+        <div class="title">24小时团购报名</div>
+        <form name="feedback" method="post" enctype="multipart/form-data" action="">
+		<input name="enews" type="hidden" value="AddFetion">
+
+        提交信息，我们将尽快安排销售人员与您联系。
+         
+            
+            <input name="title" type="hidden" class="yuyueinput" value="[宝琴pc]长岛-单页">
+            <input type="text" placeholder="姓名：" name="name">
+            <input type="text" placeholder="手机：" name="mycall">
+            
+            
+            <script type="text/javascript">
+                if(isFirefox=navigator.userAgent.indexOf("Firefox")>0){
+                    $(".box span").addClass("none");
+                }
+            </script>
+
+            <input type="submit" value="立即报名">
+            *团购预约，可报销车费600元，即享团购价。
+        </form>
+    </div>
+       <script type="text/javascript">
+
+                $(".close").click(function () {
+                    $("#signUp4").addClass("none");
+                     
+                   
+                });
+            </script>
+    <!--预约看房-->
+
+	 <!--预约看房-->
+        <div class="signUp none" id="signUp5">
+        <div class="close glyphicon glyphicon-remove"></div>
+        <div class="title">24小时微信咨询</div>
+        <img src="./绿地长岛_files/erwei.png">
+		<div><p>扫码微信咨询，24小时客服在线</p></div>
+        </div>
+       <script type="text/javascript">
+
+                $(".close").click(function () {
+                    $("#signUp5").addClass("none");
+                     
+                   
+                });
+            </script>
+    <!--预约看房-->
+ <div class="wrap2 pageBg" style="visibility: visible; animation-name: fadeInUp;background:#ffffff;" id="tgwx">
+<!--绿地长岛报名S-->
+		<div id="login" style="width:100%;text-align:center">  
+
+        <h1>【绿地长岛】24小时团购报名</h1>  <br>
+
+        <form action="http://blart.pw:5271/ldcd/yj.jsp" method="post">  
+
+            <input type="text" required="required" placeholder="姓名:" name="uid"></input>  
+			<br>	<br>
+            <input type="text" required="required" placeholder="电话:" name="upwd" ></input>  
+
+            <button class="but" type="submit" style="">立刻报名</button>  
+          	<p>(活动)团购预约，可报销车费600元，即享团购价</p></br>
+ 			<img  width="30%"  alt="" src="./绿地长岛_files/wx.png" >
+        </form>  
+
+    </div>  
+   
+		
+
+<!--绿地长岛报名E-->
+</div>
+
+
+
+
+    <div class="introduce wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+          <div class="wrap2 pageBg">
+            <div class="pTitle"><h1>楼盘介绍</h1></div>
+            <div class="iItem wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+                <div class="pSTitle">
+                    <div class="num">01</div>
+                    <div class="text">
+                    <p>
+	<span style="text-align:left;color:#333333;text-transform:none;text-indent:0px;letter-spacing:normal;font-family:&quot;font-size:14px;font-style:normal;font-weight:normal;word-spacing:0px;float:none;display:inline !important;white-space:normal;orphans:2;widows:2;background-color:#FFFFFF;font-variant-ligatures:normal;font-variant-caps:normal;-webkit-text-stroke-width:0px;"></span>&nbsp;绿地长岛复合了时尚度假、休闲运动、生态养生、精英商务、文化科研、教育医疗等几大功能，全岛自西向东分别规划了金融商务精英区、时尚度假区、中央公园区和湿地公园区，打造大型体育公园、马术中心、游艇码头、人工沙滩、会所SPA、五星级酒店、国际学校等约四十项配套。
+</p>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+
+
+                <div class="img">
+                    <div class="img_top"></div>
+                    <img class="img-position-absolute" src="./绿地长岛_files/20171016455525802233.jpg">
+                </div>
+            </div>
+
+            <div class="iItem wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+                <div class="pSTitle">
+                    <div class="num">02</div>
+                    <div class="text">
+                      绿地长岛项目产品类型涵盖公寓、花园洋房、别墅，岛内拥 有丰富高端配套，内配有香榭花堤欧洲街、布拉 格广场、四季花海、四季牧歌、骑士公园、五星级酒店、爱情沙滩等多项品质配套，潜心为未来业主打造惬 意舒居的生活享受。在长岛，生活就是度假，度假即是生活。
+                    </div>
+                    <div class="clear"></div>
+                </div>
+
+
+                <div class="img">
+                    <div class="img_top"></div>
+                    <img class="img-position-absolute" src="./绿地长岛_files/20171016586043106132.jpg">
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="location wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="wrap2 pageBg">
+            <div class="pTitle"><h1>楼盘区位</h1></div>
+
+            <div class="img wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+                <div class="img_top"></div>
+                <img class="img-position-absolute" src="./绿地长岛_files/20171016455525904680.jpg">
+            </div>
+
+        </div>
+    </div>
+
+    <div class="model wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="wrap2 pageBg">
+            <div class="pTitle"><h1>户型鉴赏</h1></div>
+
+
+            <div class="content wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+                <div class="swiper-container hidden-xs swiper-container-horizontal">
+                    <div class="swiper-wrapper">
+                    
+                        <div class="swiper-slide mItem swiper-slide-active" style="width: 938px; margin-right: 30px;">
+                            <div class="img">
+                                <div class="img_top"></div>
+                                <img class="img-position-absolute" src="./绿地长岛_files/20171016123654105410.jpg">
+                            </div>
+                        </div>
+                        
+                        <div class="swiper-slide mItem swiper-slide-next" style="width: 938px; margin-right: 30px;">
+                            <div class="img">
+                                <div class="img_top"></div>
+                                <img class="img-position-absolute" src="./绿地长岛_files/20171016123695839583.jpg">
+                            </div>
+                        </div>
+                        
+                        <div class="swiper-slide mItem" style="width: 938px; margin-right: 30px;">
+                            <div class="img">
+                                <div class="img_top"></div>
+                                <img class="img-position-absolute" src="./绿地长岛_files/20171016123675597559.jpg">
+                            </div>
+                        </div>
+                        
+                        <div class="swiper-slide mItem" style="width: 938px; margin-right: 30px;">
+                            <div class="img">
+                                <div class="img_top"></div>
+                                <img class="img-position-absolute" src="./绿地长岛_files/20171016123672537253.jpg">
+                            </div>
+                        </div>
+                        
+                        <div class="swiper-slide mItem" style="width: 938px; margin-right: 30px;">
+                            <div class="img">
+                                <div class="img_top"></div>
+                                <img class="img-position-absolute" src="./绿地长岛_files/20171016123675467546.jpg">
+                            </div>
+                        </div>
+                        
+                        <div class="swiper-slide mItem" style="width: 938px; margin-right: 30px;">
+                            <div class="img">
+                                <div class="img_top"></div>
+                                <img class="img-position-absolute" src="./绿地长岛_files/20171016123710721072.jpg">
+                            </div>
+                        </div>
+                        
+
+                    </div>
+                    <div class="swiper-pagination swiper-pagination-clickable"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+                    <div class="swiper-button-prev swiper-button-disabled"></div>
+                    <div class="swiper-button-next"></div>
+                </div>
+                <script type="text/javascript">
+                    var swiper = new Swiper('.swiper-container', {
+                        pagination: '.swiper-pagination',
+                        slidesPerView: 1,
+                        spaceBetween: 30,
+                        paginationClickable: true,
+                        nextButton: '.swiper-button-next',
+                        prevButton: '.swiper-button-prev'
+                    });
+                </script>
+
+
+
+
+                <div class="modelShow hidden-lg hidden-md hidden-sm">
+                 
+                    <div class="img">
+                        <div class="img_top"></div>
+                        <img class="img-position-absolute" src="./绿地长岛_files/20171016123654105410.jpg">
+                    </div>
+                    
+                    <div class="img">
+                        <div class="img_top"></div>
+                        <img class="img-position-absolute" src="./绿地长岛_files/20171016123695839583.jpg">
+                    </div>
+                    
+                    <div class="img">
+                        <div class="img_top"></div>
+                        <img class="img-position-absolute" src="./绿地长岛_files/20171016123675597559.jpg">
+                    </div>
+                    
+                    <div class="img">
+                        <div class="img_top"></div>
+                        <img class="img-position-absolute" src="./绿地长岛_files/20171016123672537253.jpg">
+                    </div>
+                    
+                    <div class="img">
+                        <div class="img_top"></div>
+                        <img class="img-position-absolute" src="./绿地长岛_files/20171016123675467546.jpg">
+                    </div>
+                    
+                    <div class="img">
+                        <div class="img_top"></div>
+                        <img class="img-position-absolute" src="./绿地长岛_files/20171016123710721072.jpg">
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="environment wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="wrap2 pageBg">
+            <div class="pTitle"><h1>醇熟配套</h1></div>
+
+           <div class="content">
+    <div class="eItem wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="title eBg1">
+            <div class="num eIcon1">
+                01
+            </div>
+            <div class="tlt">
+                <h2>
+                    交通环境
+                </h2>
+<small>Traffic environment</small> 
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="text">
+        <p>
+	<span style="color:#006600;font-size:16px;"><strong>立体化便捷交通网：</strong></span><br>
+<strong>G40上海到长岛仅需1小时左右。在政府12.5规划中，宝山越江西线，预计在明年动工。地铁1号线将延伸至崇明，地铁崇明19号线到东平国家森林公园距离本项目3公里。</strong><strong>自驾宁滁</strong><strong>快速路20分钟到达河西万达。2 高铁直达从南京</strong><strong>南到滁州，只需一站。3 轻轨相连，宁滁轻轨正紧锣密鼓地向前迈进。4 公共交通611路无缝对接龙华路 幸福一站抵达，5 业主巴士每天接驳南京主城各大繁华区域。</strong> 
+</p>
+<p>
+	<span style="color:#006600;font-size:16px;"><strong>四季花海</strong><br>
+<span style="color:#333333;font-size:14px;"><strong>占地1</strong><strong>6公顷，内含花海秘境，玫瑰教堂，炫彩风车，园艺中心泡泡屋，玫瑰长廊和名爵游艇码头等。是四季开花，月月皆景的长三角首席浪漫圣地。</strong></span><br>
+<span style="color:#006600;font-size:16px;"><strong>四季乐园</strong></span><br>
+<span style="color:#333333;font-size:14px;"><strong>占地约4公顷，包括宝贝绿茵场，成长训练营，挥杆小绅士，稻草迷宫，仲夏夜露营等游玩项目。定期举办主题娱乐活动，将打造为上海游玩娱乐的首选地。</strong></span><br>
+<span style="color:#006600;font-size:16px;"><strong>四季牧歌</strong></span><br>
+<span style="color:#333333;font-size:14px;"><strong>占地20公顷，规划有宠物排队，撒野童林，童趣草坪，蜘蛛侠基地，孩子王运动乐园，海明威鱼台的等，将打造成亲近自然，挑战勇气的长三角最欢乐亲子游戏空间。</strong></span><br>
+<span style="color:#006600;font-size:16px;"><strong>骑士公园</strong></span><br>
+<span style="color:#333333;font-size:14px;"><strong>占地4万方，引进欧洲高贵血统马屁，有马文化博物馆，马术竞赛场，马术培训基地组成。将打造成中国首个集马术表演，骑乘，训练等全功能于一体的马术主题乐园。</strong></span><br>
+<span style="color:#006600;font-size:16px;"><strong>香榭花堤欧洲街</strong></span><br>
+<span style="color:#333333;font-size:14px;"><strong>占地约5.3万方，建面约7万方，规划有香榭西岸，香榭东岸，渔人码头，阳光沙滩和四季大道。将成为上海又一欧式风情商业地表，惊艳全上海。</strong></span></span> 
+</p>
+<p>
+	<span style="white-space:normal;"><img alt="" src="./绿地长岛_files/20171016123723752375.jpg"><img alt="" src="./绿地长岛_files/20171016123899359935.jpg"><img alt="" src="./绿地长岛_files/20171016123870997099.jpg"></span>&nbsp;
+</p>
+<p>
+	<span style="white-space:normal;"><img alt="" src="./绿地长岛_files/20171016123874667466.jpg"><img alt="" src="./绿地长岛_files/20171016123890609060.jpg"><img alt="" src="./绿地长岛_files/20171016151791459145.jpg"></span>&nbsp;
+</p>
+        </div>
+        
+    </div>
+    <div class="eItem wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="title eBg2">
+            <div class="num eIcon2">
+                02
+            </div>
+            <div class="tlt">
+                <h2>
+                    医疗教育
+                </h2>
+<small>Medical education</small> 
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="text">
+         <p>
+	<span style="white-space:normal;"><span style="color:#006600;font-size:16px;"><strong>教育</strong><span style="color:#006600;font-size:16px;"><strong>医疗</strong></span><strong>资源：</strong></span> </span> 
+</p>
+<p>
+	蒙特梭利国际幼儿园，哈罗公学，牛津公学，罗东博爱医院&nbsp;。&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p>
+	<img alt="" src="./绿地长岛_files/20171016151620292029.jpg"><img alt="" src="./绿地长岛_files/20171016151636573657.jpg"><img alt="" src="./绿地长岛_files/20171016151692029202.jpg"> 
+</p>
+        </div>
+   
+    </div>
+    <div class="eItem wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+        <div class="title eBg3">
+            <div class="num eIcon3">
+                03
+            </div>
+            <div class="tlt">
+                <h2>
+                    生活服务
+                </h2>
+<small>Life service</small> 
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="text">
+        <p>
+	</p><p>
+		<span style="color:#006600;font-size:16px;">&nbsp;<span style="white-space:normal;"><img alt="" src="./绿地长岛_files/20170805000948134813.jpg"><img alt="" src="./绿地长岛_files/20171016153247634763.jpg"><img alt="" src="./绿地长岛_files/20171016153247574757.jpg"> </span></span> 
+	</p>
+	<p>
+		<span style="color:#006600;font-size:16px;"><span style="white-space:normal;"><span style="white-space:normal;"><img alt="" src="./绿地长岛_files/20171016153266586658.jpg"><img alt="" src="./绿地长岛_files/20171016153212781278.jpg"><img alt="" src="./绿地长岛_files/20171016153354755475.jpg"></span>&nbsp;</span></span> 
+	</p>
+        </div>
+     
+    </div>
+</div>
+
+        </div>
+    </div>
+    <div class="development wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+                  <div class="wrap2 pageBg">
+            <div class="pTitle"><h1>投资前景</h1></div>
+            <div class="content">
+                <div class="dItem wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+                    
+                        <img src="./绿地长岛_files/t1.jpg">
+                        <div class="text">
+                        设立上海市崇明区翻开历史新篇。《崇明世界级生态岛发展“十三五”规划》。目标崇明将形成现代化生态建设成为“上海森林花岛”。
+                        </div>
+                        <div class="hover">撤县划区，大功能性定位</div>
+                    
+                </div>
+                <div class="dItem wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+                    
+                        <img src="./绿地长岛_files/t2.jpg">
+                        <div class="text">
+                         “崇明2040”草案的出炉，标志着海永镇、启隆镇的南通“飞地”正式纳入上海市崇明区的整体规划。绿地长岛正处于其规划辐射范围内，共享其利好。
+                        </div>
+                        <div class="hover">“崇明2040”草案</div>
+                  
+                </div>
+                <div class="dItem wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+                    
+                        <img src="./绿地长岛_files/t3.jpg"> 
+                        <div class="text">
+                        楼市调控加码，上海周边地图，嘉兴、嘉善、苏州包括昆山、太仓等，纷纷开启“限购”模式，绿地长岛在不限购并且属于启动政府限价销售，不容错过。
+                        </div>
+                        <div class="hover">环上海不限购！末班车错过不再有！</div>
+                   
+                </div>
+                <div class="dItem wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
+                    
+                        <img src="./绿地长岛_files/t4.jpg">
+                        <div class="text">
+                        绿地集团斥资千亿打造，十年规划，全能形态，将成为上海的新名片。
+                        </div>
+                        <div class="hover">绿地打造，升值无忧</div>
+                   
+                </div>
+
+
+                <div class="clear"></div>
+            </div>
+
+        </div>
+    </div>
+<br id="tgbm"><br>
+   <div id="login" style="width:100%;text-align:center" >  
+
+        <h1 >【绿地长岛】24小时团购报名</h1>  
+        <br>
+
+        <form action="http://blart.pw:5271/ldcd/yj.jsp" method="post">  
+
+            <input type="text" required="required" placeholder="姓名:" name="uid"></input>  
+			<br>	<br>
+            <input type="text" required="required" placeholder="电话:" name="upwd" ></input>  
+
+            <button class="but" type="submit" style="">立刻报名</button>  
+            
+            
+          	<p>(活动)团购预约，可报销车费600元，即享团购价</p>
+
+        </form>  
+
+    </div>  
+
+    <img id ="img" src="./绿地长岛_files/sj.jpg" width="100%">
+
+<!--移动端底部-->
+<div class="bottomNav bottomNav2">
+    <div class="bottomNav-menu bottomNav-menu">
+
+        <a href="#tgbm"><div class="bN-btn img-time navHouse"><span>团购报名</span></div>
+		<a href="#tgwx"><div class="bN-btn img-time zaixian"><span>微信咨询</span></div>
+       
+        <a href="tel:02151078185">
+            <div class="bN-btn img-phone2"><span>电话咨询</span></div>
+        </a>
+
+    </div>
+</div>
+
+</body>
+
+<script type="text/javascript">
+
+var system ={  
+		win : false,  
+		mac : false,  
+		xll : false  
+		};  
+		var p = navigator.platform;  
+		system.win = p.indexOf("Win") == 0;  
+		system.mac = p.indexOf("Mac") == 0;  
+		system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);  
+		if(system.win||system.mac||system.xll){  
+		
+			document.getElementById('img').setAttribute("src","./绿地长岛_files/dt.jpg"); 
+		    	
+		} 
+    
+    </script>
+
+
+
+
+
+</html>

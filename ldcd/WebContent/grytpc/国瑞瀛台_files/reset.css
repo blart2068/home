@@ -1,0 +1,159 @@
+@charset "utf-8";
+body,dl,dd,ul,ol,h1,h2,h3,h4,h5,h6,p,form,header,section,article,footer,button,textarea{margin:0;padding:0;}
+body,button,input,select,textarea{font:12px/1.5 tahoma,'\5FAE\8F6F\96C5\9ED1',sans-serif}
+h1,h2,h3,h4,h5,h6{font-size:100%}
+em,b{font-style:normal}
+a{text-decoration:none} 
+img{border:0;display: block;} 
+
+button,input,select,textarea{font-size:100%;outline:none}
+table{border-collapse:collapse;border-spacing:0}
+td,th,ul,ol{padding:0}
+ul{list-style: none;}
+ol{list-style:none;}
+i,em{font-style:normal;}
+/* 定位元素 */
+.dis-block{display:block;}
+.dis-inline{display:inline;}
+.dis-inblock{display:inline-block;}
+.pos-rel{position:relative;}
+.pos-abs{position:absolute;}
+.pos-fix{position:fixed;}
+.over-h{overflow: hidden;}
+/* 浮动元素 */
+.f-l{float:left;}
+.f-r{float:right;}
+.clearfix:after{
+    content:'';
+    display:block;
+    clear:both;
+}
+/* 宽度和高度 */
+.wid100{width:100%;}  
+.wid50{width:50%;}
+.wid80p{width:80px;}  
+.wid415p{width:415px;}
+.wid620{width:620px;}
+.wid640p{width:640px;}                  /*  注意;不要放到大括号外面，放到外面会影响后面的样式失效*/
+.height100{height:100%;}
+.wid1080{width:1080px;}
+.wid1120p{width:1120px;}
+.wid620{width:620px;}
+.wid1280{width:1280px;}
+.wid200p{width:200px;}
+.m-wid{min-width: 1280px;}
+.mx-wid{max-width: 1920px;}
+.hei50{height:50px;}
+/* 内边距 */
+.pad-top5{padding-top:5px;}
+.pad-left5{padding-left:5px;}
+.pad-right5{padding-right:5px;}
+.pad-bottom5{padding-bottom:5px;}
+.pad-bottom220{padding-bottom:220px;}
+.pad-top8{padding-top:8px;}
+.pad-left8{padding-left:8px;}
+.pad-right8{padding-right:8px;}
+.pad-bottom8{padding-bottom:8px;}
+.pad-top10{padding-top:10px;}
+.pad-left10{padding-left:10px;}
+.pad-left50{padding-left:50px;}
+.pad-right10{padding-right:10px;}
+
+/* 外边距 */
+.mar-auto{margin:0 auto;}
+.mar-top5{margin-top:5px;}
+.mar-top8{margin-top:8px;}
+.mar-top10{margin-top:10px;}
+.mar-top15{margin-top:15px;}
+.mar-top20{margin-top:20px;}
+.mar-top40{margin-top:40px;}
+.mar-top55{margin-top:55px;}
+.mar-left5{margin-left:5px;}
+.mar-left8{margin-left:8px;}
+.mar-left10{margin-left:10px;}
+.mar-left15{margin-left:15px;}
+.mar-left20{margin-left:20px;}
+.mar-left55{margin-left:55px;}
+.mar-left175{margin-left:17.5px;}
+.mar-right175{margin-right:17.5px;}
+.mar-right5{margin-right:5px;}
+.mar-right15{margin-right:15px;}
+.mar-right20{margin-right:20px;}
+.mar-right40{margin-right:40px;}
+.mar-bottom10{margin-bottom:10px;}
+.mar-bottom20{margin-bottom:20px;}
+.mar-bottom35{margin-bottom:35px;}
+.mar-bottom40{margin-bottom:40px;}
+.mar-bottom55{margin-bottom:55px;}
+.mar-bottom70{margin-bottom:70px;}
+.mar-bottom100{margin-bottom:100px;}
+
+/*字体大小样式*/
+.cuti{font-weight: bold;}
+.ft-size0{font-size:0;}
+.ft-size12{font-size:12px;}
+.ft-size13{font-size:13px;}
+.ft-size14{font-size:14px;}
+.ft-size16{font-size:16px;}
+.ft-size18{font-size:18px;}
+.ft-size24{font-size:24px;}
+.ft-size25{font-size:25px;}
+.ft-size30{font-size:30px;}
+.ft-size40{font-size:40px;}
+.ft-size48{font-size:48px;}
+.ft-size70{font-size:70px;}
+/* 颜色 */
+.cf{color:#fff;}
+.cbb{color:#000;}
+.c88{color:#888;}
+.cc{color:#FBF4F4;}
+.c-zhuse{color:#626e67 !important;}
+/*字体行高*/
+.li-height20{line-height: 20px;}
+.li-height22{line-height: 22px;}
+.li-heihgt25{line-height:25px;}
+.li-height26{line-height:26px;}
+.li-height30{line-height:30px;}
+.li-height50{line-height: 50px;}
+/*垂直对齐方式*/
+.ver-middle{vertical-align: middle;}
+.t-c{text-align: center;}
+/* 每块的头部标题样式 */
+
+ .texttitle h2{
+    font-size:30px;
+    color:rgba(0,0,0, .5);
+    text-align: center;
+}
+.texttitle p{
+    color:#EDA231;
+    font-size:24px;
+    text-align:center;
+}
+/* 按钮图标里的大小 */
+.btn-i{
+    font-size:30px;
+        margin-right:5px;
+}
+/* 结束 */
+/* 小标题的横线 */
+.titline{
+    width:60px;
+    height:3px;
+    background-color:#023894;
+    margin-bottom:50px;
+}
+/* 结束 */
+/* 按钮html */
+/* <span><i class="iconfont icon-zixun ver-middle"></i>立即咨询</span> */
+    /* display:inline-block;
+    width:180px;
+    height:60px;
+    text-align: center;
+    line-height:60px;
+    font-size:18px;
+    color:#fff;
+    background-color:#e00e21;
+    margin-top:65px; */
+
+    

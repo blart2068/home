@@ -1,0 +1,48 @@
+<%@ page contentType="text/html; charset=UTF-8" language="java"
+	errorPage=""%>
+<%@ page import="java.text.SimpleDateFormat" %>
+<%@ page import="java.util.Calendar"%>
+<%@ page import="ldcd.youj"%>
+
+<h1>邮件发送系统</h1>
+<%
+//设置编码方式
+response.setContentType("text/html;charset=utf-8");
+request.setCharacterEncoding("utf-8");
+//获得姓名电话
+String uid = request.getParameter("uid");
+String upwd = request.getParameter("upwd");
+String x= request.getParameter("xm");//项目
+
+//获得时间
+String datetime=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(Calendar.getInstance().getTime()); //获取系统时间 
+//收信人邮箱
+String []xm={"362244844@qq.com","blart2068@gmail.com"};
+//标题和内容
+String ttitle=x+uid+upwd;//发送标题
+String mag=datetime+"\t\n"+"姓名:"+uid+"\t\n"+"电话:"+upwd+"\t\n"+"IP地址:"+request.getRemoteAddr();
+
+
+
+
+try{
+	youj.sendEmil(xm[0], xm[1],ttitle,mag);
+	<script>
+	alert("恭喜团购报名成功，马上会有团购专员与你联系！");
+	</script>
+}catch (Exception e) {
+    e.printStackTrace();
+}
+
+%>
+
+
+	
+alert("恭喜团购报名成功，马上会有团购专员与你联系！");
+
+
+
+
+
+
+

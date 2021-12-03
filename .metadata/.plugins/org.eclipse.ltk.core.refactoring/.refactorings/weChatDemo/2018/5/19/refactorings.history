@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;yd&apos;&#x0D;&#x0A;－ 原始项目：“weChatDemo”&#x0D;&#x0A;－ 目标元素：“yd”&#x0D;&#x0A;－ 原始元素：&#x0D;&#x0A;JavaRefactoringDescriptorComment_textual_move_only=仅移动文本cdbm.html&#x0D;&#x0A;JavaRefactoringDescriptorComment_textual_move_only=仅移动文本cdxq.html&#x0D;&#x0A;JavaRefactoringDescriptorComment_textual_move_only=仅移动文本cdsy.html&#x0D;&#x0A;JavaRefactoringDescriptorComment_textual_move_only=仅移动文本css.css&#x0D;&#x0A;JavaRefactoringDescriptorComment_textual_move_only=仅移动文本img" description="复制元素" element1="WebContent/qmldcd/cdbm.html" element2="WebContent/qmldcd/cdxq.html" element3="WebContent/qmldcd/cdsy.html" element4="WebContent/qmldcd/css.css" element5="WebContent/qmldcd/img" files="4" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1525590419777" target="/ldcd/WebContent/wxwdc/yd" units="0" version="1.0"/>
+</session>

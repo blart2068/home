@@ -1,0 +1,247 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 5uBoL3ZGagfSOPJKoC3Xq8UAeWg=
+Created-By: 1.3.1_04 (Sun Microsystems Inc.)
+
+Name: com/sun/mail/imap/protocol/MessageSet.class
+SHA1-Digest: 2MclzYD7Rv1n5TeBMZBT93cLie8=
+
+Name: com/sun/mail/imap/protocol/BASE64MailboxEncoder.class
+SHA1-Digest: EpjB1I+NqJe709rlc+1a5jIqyV4=
+
+Name: com/sun/mail/imap/protocol/IMAPProtocol.class
+SHA1-Digest: a/jA0kWzWTnMFO6gqKd6/lGuHRc=
+
+Name: com/sun/mail/imap/IMAPFolder$16.class
+SHA1-Digest: s8tMncq9rdMXEDROD2e8xLe8UwY=
+
+Name: com/sun/mail/imap/IMAPFolder$6.class
+SHA1-Digest: 5JKzeaNTS+pqpDBLbJnOITNSr1E=
+
+Name: com/sun/mail/imap/IMAPFolder$10.class
+SHA1-Digest: CS82zbh9g0NVYAHZPMRqZ0/TYT8=
+
+Name: com/sun/mail/iap/LiteralException.class
+SHA1-Digest: Ek+0GRTncL47io/qCuzJc04XD/M=
+
+Name: com/sun/mail/imap/protocol/FLAGS.class
+SHA1-Digest: h2x0XkilC6MusUta4uV9opMEh5E=
+
+Name: com/sun/mail/imap/IMAPNestedMessage.class
+SHA1-Digest: FDd6KLtIjn9w7o6lfRz/MvV/dg0=
+
+Name: com/sun/mail/iap/AString.class
+SHA1-Digest: A8janzchMUTJe7v92tDDZxyL8kQ=
+
+Name: com/sun/mail/imap/IMAPFolder$15.class
+SHA1-Digest: 639FV5RBopaHt+bxH1bhC2MeNPc=
+
+Name: com/sun/mail/imap/ACL.class
+SHA1-Digest: WZ+Glqx0V1nqPRy1T0FTqwC6eCA=
+
+Name: com/sun/mail/iap/ResponseHandler.class
+SHA1-Digest: NtVmF/Cjukly2+HrL62HWBIwuow=
+
+Name: com/sun/mail/imap/protocol/Status.class
+SHA1-Digest: THOzGl65/KNonLRZmGqq17CXeGA=
+
+Name: com/sun/mail/iap/ResponseInputStream.class
+SHA1-Digest: FKooRicXMRMqfyIr/a2izoAFhx4=
+
+Name: com/sun/mail/imap/IMAPStore.class
+SHA1-Digest: 1w9ndcCbE+7dExIJSqJSh/ZZD9c=
+
+Name: com/sun/mail/imap/protocol/RFC822SIZE.class
+SHA1-Digest: e6KvHNH/DLopJTRPG0yKDxJeKc4=
+
+Name: com/sun/mail/iap/ByteArray.class
+SHA1-Digest: QAoMDfJ+bRNpz2YzDSLP4El10as=
+
+Name: com/sun/mail/imap/protocol/IMAPSaslAuthenticator$1.class
+SHA1-Digest: q6gxnXms5Gx71N9dVNn3T47mIHs=
+
+Name: com/sun/mail/imap/protocol/UID.class
+SHA1-Digest: RXU3xf3V7/sPLGYEyNv48UWoAWc=
+
+Name: com/sun/mail/imap/Rights.class
+SHA1-Digest: 9JwSwzccLMqEkhVs8TFDuOiGqQo=
+
+Name: com/sun/mail/iap/Atom.class
+SHA1-Digest: fzf+D9VhW1Qq3nQ9t7m0428aOM8=
+
+Name: com/sun/mail/imap/IMAPFolder$5.class
+SHA1-Digest: zGVHg2Pn6SdURQ3mmPXXU/zrOII=
+
+Name: com/sun/mail/iap/Literal.class
+SHA1-Digest: vZuAH77fwACIaYexFWr/Q9c1P7Y=
+
+Name: com/sun/mail/imap/IMAPFolder$FetchProfileItem.class
+SHA1-Digest: oZU0E3GRItaOBSV6L6eNbaFYWCE=
+
+Name: com/sun/mail/imap/IMAPSSLStore.class
+SHA1-Digest: mayGoi3lrOZZYrnQZ2pwH1SvmAQ=
+
+Name: com/sun/mail/imap/IMAPMessage.class
+SHA1-Digest: ANlj19LTfYeEWR/4ycDw0nR7nP0=
+
+Name: com/sun/mail/imap/protocol/SaslAuthenticator.class
+SHA1-Digest: Kf2XDb9N2o3euM6qWlUlX7ebRMo=
+
+Name: com/sun/mail/imap/protocol/BASE64MailboxDecoder.class
+SHA1-Digest: L06S3bPiMi2P8Z+Lk0XWxvwGAwc=
+
+Name: com/sun/mail/imap/IMAPFolder$ProtocolCommand.class
+SHA1-Digest: vSF5dTg4zQU3ri6rJol3Cn1QZRc=
+
+Name: com/sun/mail/imap/MessageLiteral.class
+SHA1-Digest: SVaDg9EVzuXMd2jOyfu0/J4Yt6Q=
+
+Name: com/sun/mail/imap/IMAPBodyPart.class
+SHA1-Digest: 72vEWh9VmnR+FjYEZYiBitfdFVs=
+
+Name: com/sun/mail/imap/DefaultFolder.class
+SHA1-Digest: RllPSc6xBg04h7XAEV0V20kMwtM=
+
+Name: com/sun/mail/imap/IMAPMessage$1$FetchProfileCondition.class
+SHA1-Digest: uJFBObS2LAE2USpsz8Nucb8z06E=
+
+Name: com/sun/mail/imap/IMAPFolder$14.class
+SHA1-Digest: xLpnIvUcn0WAASSzJlOGvKj1KRE=
+
+Name: com/sun/mail/imap/IMAPFolder$4.class
+SHA1-Digest: eEnSoVL4iPOsywiOUOVgyvdbv8E=
+
+Name: com/sun/mail/imap/IMAPFolder.class
+SHA1-Digest: JsrcApoCa75DSsuq0ORbdhvfpLs=
+
+Name: com/sun/mail/imap/protocol/Namespaces.class
+SHA1-Digest: nilI1imBcHCVNxelr1ZgJh00y4E=
+
+Name: com/sun/mail/imap/IMAPMultipartDataSource.class
+SHA1-Digest: jQu6nwLbmUR/rAzwSQjfG/fiSVo=
+
+Name: com/sun/mail/imap/protocol/FetchResponse.class
+SHA1-Digest: qGf7mgTaKEt+XcDF43Tgt5nAJk8=
+
+Name: com/sun/mail/imap/protocol/RFC822DATA.class
+SHA1-Digest: 922Yew50Mf4AJmYTj1rRgspeAUg=
+
+Name: com/sun/mail/imap/IMAPFolder$9.class
+SHA1-Digest: 2w+EmjvFOzZhGiVtEgNm9uKeT24=
+
+Name: com/sun/mail/imap/IMAPFolder$13.class
+SHA1-Digest: TJTbxNO5zLutuC+XyZMsgiR8JTs=
+
+Name: com/sun/mail/imap/protocol/IMAPSaslAuthenticator.class
+SHA1-Digest: z6AswqGabuj7PviTd2B6gngm+X8=
+
+Name: com/sun/mail/imap/IMAPFolder$3.class
+SHA1-Digest: OyG0/qSCa5UsQIg6TOQhSAO0XQE=
+
+Name: com/sun/mail/imap/Utility.class
+SHA1-Digest: 0d8qzTg27rzoy57Wk647Yvs9zDg=
+
+Name: com/sun/mail/imap/protocol/ENVELOPE.class
+SHA1-Digest: sWo+qHCA9w3+jtX1/HaFPcvR1/8=
+
+Name: com/sun/mail/imap/protocol/SearchSequence.class
+SHA1-Digest: vFAUd0dtKnEpelInvcg8eUQjQFI=
+
+Name: com/sun/mail/imap/protocol/MailboxInfo.class
+SHA1-Digest: 7DjHpzMLBaNMl38Kwqh0RC9Bgnw=
+
+Name: com/sun/mail/iap/BadCommandException.class
+SHA1-Digest: MwN7ZoIIKMO48zbplSMdUVZZ/fM=
+
+Name: com/sun/mail/imap/protocol/Item.class
+SHA1-Digest: MKQglyiwVM12rPsIe9/VnmUMeAE=
+
+Name: com/sun/mail/imap/Quota.class
+SHA1-Digest: lK4LzXbpDLjYeyx9Sf7Jid/1fZA=
+
+Name: com/sun/mail/imap/protocol/ListInfo.class
+SHA1-Digest: q0fl1qlYabsejOfFDVSR0bWtsfY=
+
+Name: com/sun/mail/imap/LengthCounter.class
+SHA1-Digest: IsYT4oykSdqFEfZUPH08dMc+YEY=
+
+Name: com/sun/mail/imap/IMAPFolder$8.class
+SHA1-Digest: z7e/ZsxcniqK+lIYLcjWT/aXloc=
+
+Name: com/sun/mail/imap/IMAPFolder$12.class
+SHA1-Digest: jKGP9FljOD2x1kCff+sPPdyfviA=
+
+Name: com/sun/mail/imap/IMAPInputStream.class
+SHA1-Digest: hWrxZzzva5ihdAvjJupboAy5Z04=
+
+Name: com/sun/mail/iap/CommandFailedException.class
+SHA1-Digest: 11IQM5JsS4EhvhYNZdX8s7z17Qo=
+
+Name: com/sun/mail/imap/protocol/INTERNALDATE.class
+SHA1-Digest: cnF0R5S0fGazJPBQAVVXyNC36JQ=
+
+Name: com/sun/mail/imap/protocol/BODY.class
+SHA1-Digest: e9qDRvil0uswKSPXqLsIeal5bg0=
+
+Name: com/sun/mail/imap/DefaultFolder$2.class
+SHA1-Digest: EvG0S7fvsrUriVHgYxf/2bieMQ8=
+
+Name: com/sun/mail/imap/protocol/BODYSTRUCTURE.class
+SHA1-Digest: YaGqGXDn7Lixonxj1+6Jpmxleoc=
+
+Name: com/sun/mail/iap/ParsingException.class
+SHA1-Digest: CXRWmB+Nd4Soo0tAri229F2MwLE=
+
+Name: com/sun/mail/iap/Response.class
+SHA1-Digest: vDK8UetinXLijGMr6L4XcK3+yIg=
+
+Name: com/sun/mail/imap/protocol/IMAPAddress.class
+SHA1-Digest: RvH/TnrWmyU3jrEou5DpzvMOJdA=
+
+Name: com/sun/mail/imap/protocol/Namespaces$Namespace.class
+SHA1-Digest: E6thjlJLfVG1IZR0aMIz6gEOVkg=
+
+Name: com/sun/mail/imap/IMAPStore$ConnectionPool.class
+SHA1-Digest: pM0osCKeo/LHLQnEKSuiIEg2Bz0=
+
+Name: com/sun/mail/imap/Utility$Condition.class
+SHA1-Digest: 5oLPNf+mW52XGkAZ9S0DMRF9Y7E=
+
+Name: com/sun/mail/imap/IMAPFolder$17.class
+SHA1-Digest: ezd/kh4X/Vj9AfuBycxguNM0h+E=
+
+Name: com/sun/mail/imap/IMAPFolder$2.class
+SHA1-Digest: K9h5t+xHpJG1HAm0jjuCV3DKlWA=
+
+Name: com/sun/mail/imap/Rights$Right.class
+SHA1-Digest: OZN38UeqpqDceLWH74qZCL+SFM0=
+
+Name: com/sun/mail/iap/Protocol.class
+SHA1-Digest: FQQPPDUVWHs8h8/JcnWldcStmXY=
+
+Name: com/sun/mail/imap/DefaultFolder$1.class
+SHA1-Digest: B3LiSWTU3lPT6uIjhBkMQiWZPx0=
+
+Name: com/sun/mail/iap/ProtocolException.class
+SHA1-Digest: fiCgnzcZJ8+on4F+S6HNAikwugQ=
+
+Name: com/sun/mail/iap/Argument.class
+SHA1-Digest: UcH3uG9vPB5aB6jKR60YcZU09qA=
+
+Name: com/sun/mail/iap/ConnectionException.class
+SHA1-Digest: /fovEcew7IozohNEb1fxiv72/lg=
+
+Name: com/sun/mail/imap/protocol/IMAPResponse.class
+SHA1-Digest: BflLL3WgGGlupVoIhAhEAw0uonk=
+
+Name: com/sun/mail/imap/IMAPFolder$7.class
+SHA1-Digest: Zd7kNGwysFcfD8qgTnhOCQIxv0U=
+
+Name: com/sun/mail/imap/Quota$Resource.class
+SHA1-Digest: hhlYTdQhHImsFowm4fWQFJXdKLk=
+
+Name: com/sun/mail/imap/IMAPFolder$11.class
+SHA1-Digest: OozG3gcqpME8vmVyUpS2gifKMs4=
+
+Name: com/sun/mail/imap/IMAPFolder$1.class
+SHA1-Digest: LM10NQmVi8PubJ0LiG3TH00npRU=
+

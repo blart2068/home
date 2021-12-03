@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<!-- saved from url=(0061) -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	<meta name="renderer" content="webkit"> 
+    <meta name="Keywords" content="售楼中心">
+
+	<meta name="Description" content="售楼中心">
+
+
+   
+    <link rel="stylesheet" href="./售楼中心_files/font-awesome.min.css">
+    <link rel="stylesheet" href="./售楼中心_files/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="./售楼中心_files/style.css" type="text/css">
+    <link rel="stylesheet" href="./售楼中心_files/dark.css" type="text/css">
+    <link rel="stylesheet" href="./售楼中心_files/animate.css" type="text/css">
+    <link rel="stylesheet" href="./售楼中心_files/responsive.css" type="text/css">
+    <link rel="stylesheet" href="./售楼中心_files/lrtk.css" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+	
+	
+
+
+
+    <!-- Document Title
+    ============================================= -->
+	<title>绿地海湾</title>
+
+
+
+
+</head>
+<body class="stretched device-lg" style=""><div style="display: none; position: absolute;" class=""><div class="aui_outer"><table class="aui_border"><tbody><tr><td class="aui_nw"></td><td class="aui_n"></td><td class="aui_ne"></td></tr><tr><td class="aui_w"></td><td class="aui_c"><div class="aui_inner"><table class="aui_dialog"><tbody><tr><td colspan="2" class="aui_header"><div class="aui_titleBar"><div class="aui_title" style="cursor: move;"></div><a class="aui_close" href="javascript:/*artDialog*/;">×</a></div></td></tr><tr><td class="aui_icon" style="display: none;"><div class="aui_iconBg" style="background: none;"></div></td><td class="aui_main" style="width: auto; height: auto;"><div class="aui_content" style="padding: 20px 25px;"></div></td></tr><tr><td colspan="2" class="aui_footer"><div class="aui_buttons" style="display: none;"></div></td></tr></tbody></table></div></td><td class="aui_e"></td></tr><tr><td class="aui_sw"></td><td class="aui_s"></td><td class="aui_se" style="cursor: se-resize;"></td></tr></tbody></table></div></div>
+<!-- Document Wrapper
+    ============================================= -->
+    <div id="wrapper" class="clearfix" style="animation-duration: 1.5s; opacity: 1;">
+        <!-- Header
+        ============================================= -->
+        <header id="header" class="page-section sticky-style-2">
+            <div id="header-wrap">
+                <div id="top-bar">
+                    <div class="container clearfix">
+                        <div class="col_half nobottommargin">
+                            <div id="top-social">
+                                <ul>
+                                    <button type="button" class="btn btn-warning" style="font-size:16px;">多区域免费看房班车 / 专业全程带看陪同</button>
+                                </ul>
+                            </div><!-- #top-social end -->
+                        </div>
+                        <div class="col_half fright col_last nobottommargin">
+                    <!-- Top Links
+                    ============================================= -->
+                            <div class="top-links">
+                            <ul class="sf-js-enabled clearfix" style="touch-action: pan-y;">
+                                <li><a href="http://www.xulizhiye.com/" style="font-size:14px; color:#F00; font-weight:bold">返回首页</a></li>
+                      
+                                <li style="font-size:18px; color:#F00; font-weight:bold; text-indent:10px;">  售楼电话：400-775-6652</li>
+                            </ul>
+                            </div><!-- .top-links end -->
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+                <!-- #top-bar end -->
+                <div class="container clearfix">
+                <!-- Logo
+                ============================================= -->
+
+                </div>
+            
+
+        </header><!-- #header end -->
+
+
+        <!-- Page Sub Menu
+        ============================================= -->
+        <div id="page-menu" class="">
+
+            <div id="page-menu-wrap">
+
+                <div class="container clearfix">
+
+                    <div class="menu-title"><span>绿地海湾</span> | 售楼热线：400-775-6652</div>
+
+                    <nav class="one-page-menu">
+                        <ul>
+                            <li><a href="#header"><div>开始</div></a></li>
+                            <li><a href="#section-zxxx"><div>最新消息</div></a></li>
+                            <li><a href="#section-lpxx"><div>楼盘信息</div></a></li>
+                            <li><a href="#section-jtzk"><div>交通状况</div></a></li>
+                            <li><a href="#section-zbpt"><div>周边配套</div></a></li>
+                            <li><a href="#section-zshx"><div>在售户型</div></a></li>
+                            <li><a href="#section-lpxc"><div>楼盘相册</div></a></li>
+                            <li><a href="#section-lpwz"><div>楼盘位置</div></a></li>
+
+                        </ul>
+                    </nav>
+
+                    <div id="page-submenu-trigger"><i class="icon-reorder"></i></div>
+
+                </div>
+
+            </div>
+
+        </div><!-- #page-menu end -->
+
+        <!-- Page Title
+        ============================================= -->
+
+        <!-- Content
+        ============================================= -->
+        <section id="content" class="topmargin">
+            <div class="content-wrap " style="padding:0;">
+                <div class="container clearfix " id="section-about">
+                    <div id="posts" class="events small-thumbs">
+
+                        <div class="entry clearfix">
+                            <div class="entry-image">
+
+
+                                    <div class="product-image">
+                                        <div class="fslider" data-pagi="false" data-arrows="false" data-thumbs="true">
+                                            <div class="flexslider">
+                                                
+                                            <div class="flex-viewport" style="overflow: hidden; position: relative; height: 413px;"><div class="slider-wrap" data-lightbox="gallery" style="width: 1400%; transition-duration: 0s; transform: translate3d(-550px, 0px, 0px);"><div class="slide clone" data-thumb="http://www.xulizhiye.com/UploadFiles/2017-11/201711050859156496.jpg" aria-hidden="true" style="float: left; display: block; width: 550px;"><a href="./售楼中心_files/201711050859156496.jpg" title="绿地海湾" data-lightbox=""><img src="./售楼中心_files/201711050859156496.jpg" alt="绿地海湾" draggable="false"></a></div>
+                                                    <div class="slide flex-active-slide" data-thumb="http://www.xulizhiye.com/UploadFiles/2017-11/2017110508584434389.jpg" style="float: left; display: block; width: 550px;"><a href="./售楼中心_files/2017110508584434389.jpg" title="绿地海湾" data-lightbox="gallery-item"><img src="./售楼中心_files/2017110508584434389.jpg" alt="绿地海湾" draggable="false"></a></div> 
+                                                    <div class="slide" data-thumb="http://www.xulizhiye.com/UploadFiles/2017-11/2017110508584848061.jpg" style="float: left; display: block; width: 550px;"><a href="./售楼中心_files/2017110508584848061.jpg" title="绿地海湾" data-lightbox="gallery-item"><img src="./售楼中心_files/2017110508584848061.jpg" alt="绿地海湾" draggable="false"></a></div>
+                                                    <div class="slide" data-thumb="http://www.xulizhiye.com/UploadFiles/2017-11/2017110508585042690.jpg" style="float: left; display: block; width: 550px;"><a href="./售楼中心_files/2017110508585042690.jpg" title="绿地海湾" data-lightbox="gallery-item"><img src="./售楼中心_files/2017110508585042690.jpg" alt="绿地海湾" draggable="false"></a></div>
+                                                    <div class="slide" data-thumb="http://www.xulizhiye.com/UploadFiles/2017-11/2017110508585561639.jpg" style="float: left; display: block; width: 550px;"><a href="./售楼中心_files/2017110508585561639.jpg" title="绿地海湾" data-lightbox="gallery-item"><img src="./售楼中心_files/2017110508585561639.jpg" alt="绿地海湾" draggable="false"></a></div>
+                                                    <div class="slide" data-thumb="http://www.xulizhiye.com/UploadFiles/2017-11/201711050859156496.jpg" style="float: left; display: block; width: 550px;"><a href="./售楼中心_files/201711050859156496.jpg" title="绿地海湾" data-lightbox="gallery-item"><img src="./售楼中心_files/201711050859156496.jpg" alt="绿地海湾" draggable="false"></a></div>
+
+                                                <div class="slide clone" data-thumb="http://www.xulizhiye.com/UploadFiles/2017-11/2017110508584434389.jpg" style="float: left; display: block; width: 550px;" aria-hidden="true"><a href="./售楼中心_files/2017110508584434389.jpg" title="绿地海湾" data-lightbox=""><img src="./售楼中心_files/2017110508584434389.jpg" alt="绿地海湾" draggable="false"></a></div></div></div><ol class="flex-control-nav flex-control-thumbs"><li data-animate="zoomIn" data-delay="0" class="zoomIn animated"><img src="./售楼中心_files/2017110508584434389.jpg" class="flex-active" draggable="false"></li><li data-animate="zoomIn" data-delay="200" class="zoomIn animated"><img src="./售楼中心_files/2017110508584848061.jpg" draggable="false" class=""></li><li data-animate="zoomIn" data-delay="400" class="zoomIn animated"><img src="./售楼中心_files/2017110508585042690.jpg" draggable="false" class=""></li><li data-animate="zoomIn" data-delay="600" class="zoomIn animated"><img src="./售楼中心_files/2017110508585561639.jpg" draggable="false" class=""></li><li data-animate="zoomIn" data-delay="800" class="zoomIn animated"><img src="./售楼中心_files/201711050859156496.jpg" draggable="false" class=""></li></ol></div>
+                                        </div>
+                                    </div><!-- Product Single - Gallery End -->
+ 
+                                    
+                                    <!--<div align="center"><img src="/uploadfiles/2017-11/15098439239731489.jpg"  width="550" height="410" border="0" alt="绿地海湾"/></div>-->
+                                    <div class="entry-date" style="background:url(/images-01/sale.png)"></div>
+
+                            </div>
+                            <div class="entry-c">
+                                <div class="entry-title">
+                                    <h2>绿地海湾</h2>
+
+                                </div>
+                                <ul class="entry-meta clearfix">
+                                    <li><span class="label label-warning"><i class="fa fa-home"></i>楼盘地址：金源大道与海沧路交汇处</span></li>
+                                    <li><span class="label label-warning"><i class="fa fa-clock-o"></i>开盘时间：2017年11月</span></li>
+                                </ul>
+                                <div class="entry-content">
+                                    <table class="table" style="font-size:14px; font-weight:bold;">
+                                        <tbody>
+                                            <tr>
+                                                <td><i class="fa fa-cny"></i></td>
+                                                <td> 原价：9500/㎡</td>
+                                                <td style="color:#F00"><i class="fa fa-tag"></i></td>
+                                                <td style="color:#F00"> 优惠：200/㎡</td>
+                                            </tr>
+                                            <tr>
+                                                <td><i class="fa fa-eye"></i></td>
+                                                <td> 关注人数：<script language="Javascript" src="./售楼中心_files/GetHits.asp.下载"></script>4644</td>
+                                                <td><i class="fa fa-home"></i></td>
+                                                <td> 数量有限，登记要快哦！</td>
+                                            </tr>
+                                            <tr>
+                                                <td><i class="fa fa-phone"></i></td>
+                                                <td style="color:#F00"> 售楼热线：400-775-6652</td>
+                                                <td><i class="fa fa-calendar"></i></td>
+                                                <td> 发布时间：2017年11月05日</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+
+
+                                <div class="widget quick-contact-widget clearfix">
+                                    <h2 style="color:#F00">预约看房</h2>
+                                    <div id="quick-contact-form-result" data-notify-type="success" data-notify-msg="&lt;i class=icon-ok-sign&gt;&lt;/i&gt; Message Sent Successfully!"></div>
+
+                                    <iframe src="./售楼中心_files/saved_resource.html" name="hidform5" style="width:0px;height:0px;display:none"></iframe>
+                                    <script src="./售楼中心_files/common.js.下载"></script><link rel="stylesheet" href="./售楼中心_files/opera.css"><script src="./售楼中心_files/jquery.artDialog.js.下载"></script><script src="./售楼中心_files/iframeTools.js.下载"></script>
+                                    <script src="./售楼中心_files/form_ck.js.下载"></script>
+                                    <form id="quick-contact-form" name="myform5" action="http://www.xulizhiye.com/plus/form/form.asp" onsubmit="return(form_c(5));" target="hidform5" method="post" class="quick-contact-form nobottommargin" novalidate="novalidate"> 
+                                    <input type="hidden" value="Save" name="action">
+                                    <input type="hidden" value="5" name="id">
+                                    <input type="hidden" value="1" name="m">
+                                    <input type="hidden" value="2873" name="d">
+                                    <input type="hidden" value="" id="tousername" name="tousername">
+
+
+
+
+                                    <div class="form-process"></div>
+                                    <div class="input-group divcenter">
+                                    
+                                    
+                                    <span class="input-group-addon" style="padding:0px 20px;"><i class="fa fa-user"></i></span>
+                                    <input type="text" class="required form-control input-block-level" id="KS_name" name="KS_name" value="" placeholder="您的姓名" aria-required="true">
+                                    </div>
+                                    <div class="input-group divcenter">
+                                    <span class="input-group-addon" style="padding:0px 18px;"><i class="fa fa-phone"></i></span>
+                                    <input type="text" class="required form-control input-block-level" id="KS_mobile" name="KS_mobile" value="" placeholder="您的手机" aria-required="true">
+                                    </div>
+                                    <input type="text" class="hidden" id="quick-contact-form-botcheck" name="quick-contact-form-botcheck" value="">
+                                    <input style="display:none;" type="text" class="required form-control input-block-level" id="KS_gzlp" name="KS_gzlp" value="绿地海湾" placeholder="关注楼盘" aria-required="true">
+
+                                    <button type="submit" name="submit1" class="btn btn-danger nomargin" value="确认提交">确认提交</button>
+
+                                    </form>
+
+                            <script type="text/javascript">
+
+                                $("#quick-contact-form").validate({
+                                    submitHandler: function(form) {
+                                        $(form).animate({ opacity: 0.4 });
+                                        $(form).find('.form-process').fadeIn();
+                                        $(form).ajaxSubmit({
+                                            target: '#quick-contact-form-result',
+                                            success: function() {
+                                                $(form).animate({ opacity: 1 });
+                                                $(form).find('.form-process').fadeOut();
+                                                $(form).find('.form-control').val('');
+                                                $('#quick-contact-form-result').attr('data-notify-msg', $('#quick-contact-form-result').html()).html('');
+                                                SEMICOLON.widget.notifications($('#quick-contact-form-result'));
+                                            }
+                                        });
+                                    }
+                                });
+
+                            </script>
+
+                                </div>
+
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>                    
+            </div>
+        </section><!-- #content end -->
+
+        <section id="page-title">
+            <div class="container clearfix" id="section-zxxx">
+                <h1 style="color:#F00">最新消息</h1>
+                <span style="color:#F00">黄金11月开盘，火爆销售中，提前预定可享受开发商最低优惠折扣，预定请☞
+自驾：自驾者需提前两小时预约报名，方可享受优惠（报名方式姓名+联系方式+几人看房+车牌号+看房时间）
+班车：免费班车需提前一天或者半天预约报名，方可安排班车（报名方式：姓名+联系方式+几人看房+地址+看房时间）
+        售楼部咨询热线：400-775-6652</span>
+                <!--
+                    <ol class="breadcrumb">
+                        <li><a href="page-submenu.html#">Home</a></li>
+                        <li><a href="page-submenu.html#">Pages</a></li>
+                        <li class="active">Submenu</li>
+                    </ol>
+                 -->
+            </div>
+        </section><!-- #page-title end -->
+
+
+
+
+
+
+        <section id="content">                    
+            <div class="content-wrap" id="section-lpxx">
+              <div class="container clearfix">
+                <div class="postcontent nobottommargin clearfix">    
+                    <div class="single-post nobottommargin">
+                        <div class="entry clearfix">
+                            <div class="entry-title">
+                                <h2 style="color:#F00">楼盘信息</h2>
+                            </div>
+                            <div class="entry-content">
+                                <p></p><div id="MyContent"><p><a href="javascript:;" onclick="showimg(&#39;/UploadFiles/2017-11/15098449036366377.jpg&#39;);"><img src="./售楼中心_files/15098449036366377.jpg" alt="绿地海湾" onmousewheel="return bbimg(this)" onload="javascript:resizepic(this)" border="0"></a></p><p><a href="javascript:;" onclick="showimg(&#39;/UploadFiles/2017-11/15098449048815779.jpg&#39;);"><img src="./售楼中心_files/15098449048815779.jpg" alt="绿地海湾" onmousewheel="return bbimg(this)" onload="javascript:resizepic(this)" border="0"></a></p><p><a href="javascript:;" onclick="showimg(&#39;/UploadFiles/2017-11/15098449047106855.jpg&#39;);"><img src="./售楼中心_files/15098449047106855.jpg" alt="绿地海湾" onmousewheel="return bbimg(this)" onload="javascript:resizepic(this)" border="0"></a></p><p><a href="javascript:;" onclick="showimg(&#39;/UploadFiles/2017-11/15098449042032819.jpg&#39;);"><img src="./售楼中心_files/15098449042032819.jpg" alt="绿地海湾" onmousewheel="return bbimg(this)" onload="javascript:resizepic(this)" border="0"></a></p><p><span style=";font-family:宋体;color:#333333">楼盘地址：</span> <span style=";font-family:宋体;color:#333333">宁波杭州湾新区</span></p><p><span style=";font-family:宋体;color:#333333">物业类型：</span> <span style=";font-family:宋体;color:#333333">公寓</span> </p><p><span style=";font-family:宋体;color:#333333">装修状况：</span> <span style=";font-family:宋体;color:#333333">精装</span></p><p><span style=";font-family:宋体;color:#333333">产权年限：</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333"> 70</span><span style=";font-family:宋体;color:#333333">年</span></p><p><span style=";font-family:宋体;color:#333333">楼盘特点：</span> <span style=";font-family:宋体;color:#333333">产城融合，宜居生态项目销售信息</span></p><p><span style=";font-family:宋体;color:#333333">总价格区间：</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">70-100</span><span style=";font-family:宋体;color:#333333">万</span></p><p><span style=";font-family:宋体;color:#333333">开盘时间：</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333"> 2017 </span><span style=";font-family:宋体;color:#333333">年</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">9</span><span style=";font-family:宋体;color:#333333">月</span></p><p><span style=";font-family:宋体;color:#333333">开</span> <span style=";font-family:宋体;color:#333333">发</span> <span style=";font-family:宋体;color:#333333">商：</span> <span style=";font-family:宋体;color:#333333">绿地集团</span></p><p><span style=";font-family:宋体;color:#333333">建筑类型：</span> <span style=";font-family:宋体;color:#333333">高层</span></p><p><span style=";font-family:宋体;color:#333333">占地面积：</span> <span style=";font-family:宋体;color:#333333">首期约</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">800</span><span style=";font-family:宋体;color:#333333">亩</span></p><p><span style="color: rgb(51, 51, 51); font-family: 宋体;">杭州湾新区目前有四家地产大亨入住，</span></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">@1</span><span style=";font-family:宋体;color:#333333">金源集团，拿地</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">2900</span><span style=";font-family:宋体;color:#333333">亩，倾入</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">380</span><span style=";font-family:宋体;color:#333333">亿，</span></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">@2</span><span style=";font-family:宋体;color:#333333">合生集团，拿地</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">3000</span><span style=";font-family:宋体;color:#333333">亩，倾入</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">400</span><span style=";font-family:宋体;color:#333333">亿，</span></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">@3</span><span style=";font-family:宋体;color:#333333">绿地集团，拿地</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">5000</span><span style=";font-family:宋体;color:#333333">亩，倾入</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">800</span><span style=";font-family:宋体;color:#333333">亿，</span></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">@4</span><span style=";font-family:宋体;color:#333333">港中旅集团，拿地</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">4000</span><span style=";font-family: 宋体;color:#333333">亩，倾入</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">600</span><span style=";font-family:宋体;color:#333333">亿，</span></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">@5</span><span style=";font-family:宋体;color:#333333">碧桂园集团，拿地</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">5000</span><span style=";font-family: 宋体;color:#333333">亩，倾入</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">700</span><span style=";font-family:宋体;color:#333333">亿，【</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">7.27</span><span style=";font-family:宋体;color:#333333">才拿】</span></p><p><span style=";font-family:宋体;color:#333333">这么多地产大亨被宁波政府招</span></p></div>
+<p></p>
+                            </div>
+                        </div>
+                       
+                       <div class="entry clearfix" id="section-jtzk">
+                            <div class="entry-title">
+                                <h2 style="color:#F00">交通状况</h2>
+                            </div>
+                            <div class="entry-content">
+                                <p></p><p><img src="./售楼中心_files/15098440035837248.jpg" style="" title="微信图片_20171031104554.jpg"></p><p><img src="./售楼中心_files/15098440106036100.jpg" style="" title="微信图片_20171031104557.jpg"></p><p><img src="./售楼中心_files/15098440109962065.jpg" style="" title="微信图片_20171031104613.jpg"></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">1</span><span style=";font-family:宋体;color:#333333">：沪嘉甬跨海铁路开通后上海到宁波仅仅</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">51</span><span style=";font-family:宋体;color:#333333">份钟、上海到慈溪仅</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">30</span><span style=";font-family: 宋体;color:#333333">份钟（十三五规划中）</span></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">&nbsp;</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">2: </span><span style=";font-family:宋体;color:#333333">杭州湾新区通宁波（宁慈轻轨</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">S3</span><span style=";font-family: 宋体;color:#333333">）、杭州到宁波高铁（杭甬高铁）</span></p><p><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">3:</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">轨道交接：跨杭州湾高速铁路</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">50min</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">至上海，杭州</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">S3</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">号</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">500m</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">至杭州</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">30min</span></p><p><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">4:</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">公交：</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);"> 295</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">路，</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">221</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">路，</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">221-1</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">路，</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">10</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">路，</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">16</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">路，</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">5</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">路</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);"> (500</span><span style="font-family: 宋体; color: rgb(51, 51, 51);">米</span><span style="font-family: Arial, sans-serif; color: rgb(51, 51, 51);">)</span></p><p></p>
+                            </div>
+                        </div>
+
+                       <div class="entry clearfix" id="section-zbpt">
+                            <div class="entry-title">
+                                <h2 style="color:#F00">周边配套</h2>
+                            </div>
+                            <div class="entry-content">
+                                <p></p><p><img src="./售楼中心_files/15098440504021207.jpg" style="" title="微信图片_20171031104530.jpg"></p><p><img src="./售楼中心_files/15098440518158110.jpg" style="" title="微信图片_20171031104510.jpg"></p><p><img src="./售楼中心_files/15098440513084073.jpg" style="" title="微信图片_20171031104527.jpg"></p><p><img src="./售楼中心_files/15098440517010038.jpg" style="" title="微信图片_20171031104622.jpg"></p><p><span style="font-size:14px;font-family:宋体;color:#333333">学校：</span> <span style="font-size:14px;font-family:宋体;color:#333333">滨海小学（在建）</span> <span style="font-size:14px;font-family:宋体;color:#333333">、宁波科学中学</span> <span style="font-size:14px;font-family:宋体;color:#333333">、镇海中学（杭州湾校区）</span><span style="font-size:14px;font-family: &#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333"><br> </span><span style="font-size:14px;font-family:宋体;color:#333333">医院：</span> <span style="font-size:14px;font-family:宋体;color:#333333">杭州湾医院（在建）上海仁济医院</span><span style="font-size:14px;font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333"><br> </span><span style="font-size:14px;font-family:宋体;color:#333333">银行：</span> <span style="font-size:14px;font-family:宋体;color:#333333">工行、农行、农信社、宁波银行、交通银行（</span><span style="font-size:14px;font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">ATM</span><span style="font-size:14px;font-family:宋体;color:#333333">）、光大（</span><span style="font-size:14px;font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">ATM</span><span style="font-size:14px;font-family:宋体;color:#333333">）</span><span style="font-size:14px;font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333"><br> </span><span style="font-size:14px;font-family:宋体;color:#333333">内部配套：</span> <span style="font-size:14px;font-family:宋体;color:#333333">幼儿园</span> <span style="font-size:14px;font-family: 宋体;color:#333333">、商业街</span> <span style="font-size:14px;font-family:宋体;color:#333333">、购物中心</span><span style="font-size:14px;font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333"><br> </span><span style="font-size:14px;font-family:宋体;color:#333333">游乐设施：海底温泉世界、海皮岛水上乐园、方特东方神话（</span><span style="font-size:14px;font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">2</span><span style="font-size:14px;font-family:宋体;color:#333333">公里）。</span></p><p></p>
+                            </div>
+                        </div>
+
+                       <div class="entry clearfix" id="section-zshx">
+                            <div class="entry-title">
+                                <h2 style="color:#F00">在售户型</h2>
+                            </div>
+                            <div class="entry-content">
+                                <p></p><p><img src="./售楼中心_files/15098440907759855.jpg" style="" title="微信图片_20171031104551.jpg"></p><p><img src="./售楼中心_files/15098440902685819.jpg" style="" title="微信图片_20171031104541.jpg"></p><p><img src="./售楼中心_files/15098440906611784.jpg" style="" title="微信图片_20171031104544.jpg"></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">85</span><span style=";font-family:宋体;color:#333333">（</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">3</span><span style=";font-family:宋体;color:#333333">房）、</span></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">95</span><span style=";font-family:宋体;color:#333333">（功</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">.</span><span style=";font-family:宋体;color:#333333">能</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">.</span><span style=";font-family:宋体;color:#333333">性</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">.</span><span style=";font-family:宋体;color:#333333">三房）、</span></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">110</span><span style=";font-family:宋体;color:#333333">（</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">3</span><span style=";font-family:宋体;color:#333333">房）、</span></p><p><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">125</span><span style=";font-family:宋体;color:#333333">（豪华四房）</span></p><p><span style="font-size:14px;font-family:宋体;color:#333333">户型灵巧，布局合理。</span></p><p></p>
+                            </div>
+                        </div>
+                       <div class="entry clearfix" id="section-lpxc">
+                            <div class="entry-title">
+                                <h2 style="color:#F00">楼盘相册</h2>
+                            </div>
+                            <div class="entry-content">
+                                <p></p><p><img src="./售楼中心_files/15098447048064451.jpg" title="initpintu_副本.jpg" alt="initpintu_副本.jpg"></p><p><span style=";font-family:宋体;color:#333333">绿地</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">•</span><span style=";font-family:宋体;color:#333333">海湾地处长三角几何中心</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">——</span><span style=";font-family:宋体;color:#333333">宁波杭州湾，位于杭州湾滨海新城启动区的核心区域，与绿地长岛项目南呼北应，是绿地集团特色小镇</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">“</span><span style=";font-family:宋体;color:#333333">南湾北岛</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">”</span><span style=";font-family:宋体;color:#333333">战略的重要布局；项目首期启动地块达</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">800</span><span style=";font-family:宋体;color:#333333">亩，规划</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">5</span><span style=";font-family:宋体;color:#333333">大特色产业小镇、酒店、商务办公、设计师酒店群、商业街区等建筑群，可居住、休闲、度假、康养、创业、展博、金融等功能的未来新生态城市</span></p><p><span style=";font-family:宋体;color:#333333">绿地海湾属于世界</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">500</span><span style=";font-family:宋体;color:#333333">强绿地集团醉重要的</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">“</span><span style=";font-family:宋体;color:#333333">南湾北岛</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">”</span><span style=";font-family:宋体;color:#333333">战略小镇之一，首期预拿地</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">5000</span><span style=";font-family:宋体;color:#333333">亩；小区西南处是面积相当于</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">10</span><span style=";font-family: 宋体;color:#333333">个杭州西湖的杭州湾湿地（</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">63.8</span><span style=";font-family:宋体;color:#333333">平方公里）；小区旁边是</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">VR</span><span style=";font-family: 宋体;color:#333333">主题公园中国迪士尼美称方特东方神话；小区南面则是杭州湾海皮岛，国内醉大的室内水上乐园，利用海底地热四季恒温；小区内部配有</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">3</span><span style=";font-family:宋体;color:#333333">所幼儿园，一所在建的滨海小学由知名的上海世界外国语小学托管项目总占地</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">14</span><span style=";font-family:宋体;color:#333333">万方，建筑面积</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">38</span><span style=";font-family:宋体;color:#333333">万方，地上</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">27</span><span style=";font-family:宋体;color:#333333">万方，地下</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">11</span><span style=";font-family:宋体;color:#333333">万方，容积率</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">1.9</span><span style=";font-family:宋体;color:#333333">、建筑密度</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">20%</span><span style=";font-family:宋体;color:#333333">，绿化率</span><span style=";font-family:&#39;Arial&#39;,&#39;sans-serif&#39;;color:#333333">30%</span><span style=";font-family:宋体;color:#333333">，小区中央内设置了一条石库门风格的商业街，满足您的足不出户的购物需求</span></p><p></p>
+                            </div>
+                        </div>
+                       <div class="entry clearfix" id="section-lpwz">
+                            <div class="entry-title">
+                                <h2 style="color:#F00">楼盘位置</h2>
+                            </div>
+                            <div class="entry-content">
+                                <p></p><p><img width="800" height="600" src="./售楼中心_files/staticimage"></p><p></p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div> 
+                    <div class="sidebar nobottommargin col_last clearfix">
+                        <div class="sidebar-widgets-wrap">
+
+
+
+
+                            <div class="widget clearfix">
+
+                                <h4>热点楼盘<span style="position:relative; left:160px;"><a href="http://www.xulizhiye.com/Item/list.asp?id=1685">更多...</a></span></h4>
+
+
+                                <div class="tabs nobottommargin clearfix ui-tabs ui-widget ui-widget-content ui-corner-all" id="sidebar-tabs">
+
+
+                                    <div class="tab-container">
+
+                                        <div class="tab-content clearfix ui-tabs-panel ui-widget-content ui-corner-bottom" id="tabs-1" aria-labelledby="ui-id-1" role="tabpanel" aria-expanded="true" aria-hidden="false">
+                                            <div id="popular-post-list-sidebar">
+
+ 
+                                                <div class="spost clearfix">
+                                                    <div class="entry-image">
+                                                        <a href="http://www.xulizhiye.com/html/Realestateinformation/2880.html" class="nobg" "=""><img class="img-circle" src="./售楼中心_files/15108363141138257.jpg" alt="新西塘孔雀城" style=" border-radius:0% !important;&gt;&lt;/a&gt;
+                                                    &lt;/div&gt;
+                                                    &lt;div class=" entry-c"="">
+                                                        </a><div class="entry-title"><a href="http://www.xulizhiye.com/html/Realestateinformation/2880.html" class="nobg" "="">
+                                                            </a><h4><a href="http://www.xulizhiye.com/html/Realestateinformation/2880.html" class="nobg" "=""></a><a href="http://www.xulizhiye.com/html/Realestateinformation/2880.html">新西塘孔雀城</a></h4>
+                                                        </div>
+                                                        <ul class="entry-meta ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
+                                                            <li><i class="icon-comments-alt"></i>嘉善市环西南路东侧</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+ 
+                                                <div class="spost clearfix">
+                                                    <div class="entry-image">
+                                                        <a href="http://www.xulizhiye.com/html/Realestateinformation/2879.html" class="nobg" "=""><img class="img-circle" src="./售楼中心_files/15107167392742673.jpg" alt="高桥阳光城" style=" border-radius:0% !important;&gt;&lt;/a&gt;
+                                                    &lt;/div&gt;
+                                                    &lt;div class=" entry-c"="">
+                                                        </a><div class="entry-title"><a href="http://www.xulizhiye.com/html/Realestateinformation/2879.html" class="nobg" "="">
+                                                            </a><h4><a href="http://www.xulizhiye.com/html/Realestateinformation/2879.html" class="nobg" "=""></a><a href="http://www.xulizhiye.com/html/Realestateinformation/2879.html">高桥阳光城</a></h4>
+                                                        </div>
+                                                        <ul class="entry-meta">
+                                                            <li><i class="icon-comments-alt"></i>桐乡市高桥新区高铁对面</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+ 
+                                                <div class="spost clearfix">
+                                                    <div class="entry-image">
+                                                        <a href="http://www.xulizhiye.com/html/Realestateinformation/2878.html" class="nobg" "=""><img class="img-circle" src="./售楼中心_files/15106431872166990.jpg" alt="平湖开元悦都" style=" border-radius:0% !important;&gt;&lt;/a&gt;
+                                                    &lt;/div&gt;
+                                                    &lt;div class=" entry-c"="">
+                                                        </a><div class="entry-title"><a href="http://www.xulizhiye.com/html/Realestateinformation/2878.html" class="nobg" "="">
+                                                            </a><h4><a href="http://www.xulizhiye.com/html/Realestateinformation/2878.html" class="nobg" "=""></a><a href="http://www.xulizhiye.com/html/Realestateinformation/2878.html">平湖开元悦都</a></h4>
+                                                        </div>
+                                                        <ul class="entry-meta">
+                                                            <li><i class="icon-comments-alt"></i>平湖县曹桥派出所旁</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+ 
+                                                <div class="spost clearfix">
+                                                    <div class="entry-image">
+                                                        <a href="http://www.xulizhiye.com/html/Realestateinformation/2877.html" class="nobg" "=""><img class="img-circle" src="./售楼中心_files/15106374148670897.jpg" alt="嘉善木雕城" style=" border-radius:0% !important;&gt;&lt;/a&gt;
+                                                    &lt;/div&gt;
+                                                    &lt;div class=" entry-c"="">
+                                                        </a><div class="entry-title"><a href="http://www.xulizhiye.com/html/Realestateinformation/2877.html" class="nobg" "="">
+                                                            </a><h4><a href="http://www.xulizhiye.com/html/Realestateinformation/2877.html" class="nobg" "=""></a><a href="http://www.xulizhiye.com/html/Realestateinformation/2877.html">嘉善木雕城</a></h4>
+                                                        </div>
+                                                        <ul class="entry-meta">
+                                                            <li><i class="icon-comments-alt"></i>嘉善县魏塘街道木业大道</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+ 
+                                                <div class="spost clearfix">
+                                                    <div class="entry-image">
+                                                        <a href="http://www.xulizhiye.com/html/Realestateinformation/2876.html" class="nobg" "=""><img class="img-circle" src="./售楼中心_files/15102829874892835.jpg" alt="金地艺镜" style=" border-radius:0% !important;&gt;&lt;/a&gt;
+                                                    &lt;/div&gt;
+                                                    &lt;div class=" entry-c"="">
+                                                        </a><div class="entry-title"><a href="http://www.xulizhiye.com/html/Realestateinformation/2876.html" class="nobg" "="">
+                                                            </a><h4><a href="http://www.xulizhiye.com/html/Realestateinformation/2876.html" class="nobg" "=""></a><a href="http://www.xulizhiye.com/html/Realestateinformation/2876.html">金地艺镜</a></h4>
+                                                        </div>
+                                                        <ul class="entry-meta">
+                                                            <li><i class="icon-comments-alt"></i>秀洲区东方路与正阳西路交汇处</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+ 
+                                                <div class="spost clearfix">
+                                                    <div class="entry-image">
+                                                        <a href="http://www.xulizhiye.com/html/Realestateinformation/2875.html" class="nobg" "=""><img class="img-circle" src="./售楼中心_files/15102130752510038.jpg" alt="海盐海伦花城" style=" border-radius:0% !important;&gt;&lt;/a&gt;
+                                                    &lt;/div&gt;
+                                                    &lt;div class=" entry-c"="">
+                                                        </a><div class="entry-title"><a href="http://www.xulizhiye.com/html/Realestateinformation/2875.html" class="nobg" "="">
+                                                            </a><h4><a href="http://www.xulizhiye.com/html/Realestateinformation/2875.html" class="nobg" "=""></a><a href="http://www.xulizhiye.com/html/Realestateinformation/2875.html">海盐海伦花城</a></h4>
+                                                        </div>
+                                                        <ul class="entry-meta">
+                                                            <li><i class="icon-comments-alt"></i>海盐县通北路</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+ 
+                                                <div class="spost clearfix">
+                                                    <div class="entry-image">
+                                                        <a href="http://www.xulizhiye.com/html/Realestateinformation/2874.html" class="nobg" "=""><img class="img-circle" src="./售楼中心_files/15101938949017241.jpg" alt="锦绣佳苑" style=" border-radius:0% !important;&gt;&lt;/a&gt;
+                                                    &lt;/div&gt;
+                                                    &lt;div class=" entry-c"="">
+                                                        </a><div class="entry-title"><a href="http://www.xulizhiye.com/html/Realestateinformation/2874.html" class="nobg" "="">
+                                                            </a><h4><a href="http://www.xulizhiye.com/html/Realestateinformation/2874.html" class="nobg" "=""></a><a href="http://www.xulizhiye.com/html/Realestateinformation/2874.html">锦绣佳苑</a></h4>
+                                                        </div>
+                                                        <ul class="entry-meta">
+                                                            <li><i class="icon-comments-alt"></i>姚庄镇中心</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+ 
+                                                <div class="spost clearfix">
+                                                    <div class="entry-image">
+                                                        <a href="" class="nobg" "=""><img class="img-circle" src="./售楼中心_files/15098439239731489.jpg" alt="绿地海湾" style=" border-radius:0% !important;&gt;&lt;/a&gt;
+                                                    &lt;/div&gt;
+                                                    &lt;div class=" entry-c"="">
+                                                        </a><div class="entry-title"><a href="" class="nobg" "="">
+                                                            </a><h4><a href="" class="nobg" "=""></a><a href="">绿地海湾</a></h4>
+                                                        </div>
+                                                        <ul class="entry-meta">
+                                                            <li><i class="icon-comments-alt"></i>金源大道与海沧路交汇处</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+ 
+                                                <div class="spost clearfix">
+                                                    <div class="entry-image">
+                                                        <a href="http://www.xulizhiye.com/html/Realestateinformation/2872.html" class="nobg" "=""><img class="img-circle" src="./售楼中心_files/15092565044030408.jpg" alt="中南闻荷府" style=" border-radius:0% !important;&gt;&lt;/a&gt;
+                                                    &lt;/div&gt;
+                                                    &lt;div class=" entry-c"="">
+                                                        </a><div class="entry-title"><a href="http://www.xulizhiye.com/html/Realestateinformation/2872.html" class="nobg" "="">
+                                                            </a><h4><a href="http://www.xulizhiye.com/html/Realestateinformation/2872.html" class="nobg" "=""></a><a href="http://www.xulizhiye.com/html/Realestateinformation/2872.html">中南闻荷府</a></h4>
+                                                        </div>
+                                                        <ul class="entry-meta">
+                                                            <li><i class="icon-comments-alt"></i>王江泾长虹路与运河东路交汇处</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+ 
+                                                <div class="spost clearfix">
+                                                    <div class="entry-image">
+                                                        <a href="http://www.xulizhiye.com/html/Realestateinformation/2871.html" class="nobg" "=""><img class="img-circle" src="./售楼中心_files/15091007333097806.jpg" alt="余姚东城名苑" style=" border-radius:0% !important;&gt;&lt;/a&gt;
+                                                    &lt;/div&gt;
+                                                    &lt;div class=" entry-c"="">
+                                                        </a><div class="entry-title"><a href="http://www.xulizhiye.com/html/Realestateinformation/2871.html" class="nobg" "="">
+                                                            </a><h4><a href="http://www.xulizhiye.com/html/Realestateinformation/2871.html" class="nobg" "=""></a><a href="http://www.xulizhiye.com/html/Realestateinformation/2871.html">余姚东城名苑</a></h4>
+                                                        </div>
+                                                        <ul class="entry-meta">
+                                                            <li><i class="icon-comments-alt"></i>余姚市凤山街道988号</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+
+
+
+                            </div>
+
+
+                        </div>
+
+                    </div><!-- .sidebar end -->
+
+
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+
+        <!-- Footer
+        ============================================= -->
+<footer id="footer" class="dark">
+
+            
+
+            <!-- Copyrights
+            ============================================= -->
+            <div id="copyrights">
+
+                <div class="container clearfix">
+
+                    <div class="col_half">
+                        Copyrights © 2017 All Rights Reserved by 楼盘中心 Inc.<br>
+                        <div class="copyright-links"><!--<a href="events-calendar.html#">Terms of Use</a> / <a href="">Privacy Policy</a>--></div>
+                    </div>
+
+                    <div class="col_half col_last tright">
+
+
+                        <div class="clear"></div>
+
+                        <i class="icon-envelope2"></i>公司地址：上海市闵行区金阳路366弄23号<span class="middot">·</span> <i class="icon-headphones"></i>热线电话： 400-775-6652 <span class="middot">·</span> <i class="icon-skype2"></i><a href="http://www.xulizhiye.com/Item/list.asp?id=1690">关于我们</a>
+                    </div>
+
+                </div>
+
+            </div><!-- #copyrights end -->
+
+        </footer><!-- #footer end -->
+    
+    <!-- Go To Top
+    ============================================= -->
+    <div id="gotoTop" class="fa fa-angle-up" style="display: none;"></div>
+
+    <!-- Footer Scripts
+    ============================================= -->
+    <script type="text/javascript" src="./售楼中心_files/functions.js.下载"></script>
+
+<div id="rightArrow"><a href="javascript:;" title="在线客服"></a></div>
+<div id="floatDivBoxs">
+	<div class="floatDtt">在线客服</div>
+    <div class="floatShadow">
+        <ul class="floatDqq">
+            <li style="padding-left:0px;"><a target="_blank" href="tencent://message/?uin= 302562769&amp;Site=www.lanrentuku.com&amp;Menu=yes"><img src="./售楼中心_files/qq.png" align="absmiddle">&nbsp;&nbsp;在线客服1号</a></li>
+            <li style="padding-left:0px;"><a target="_blank" href="tencent://message/?uin= 284425424&amp;Site=www.lanrentuku.com&amp;Menu=yes"><img src="./售楼中心_files/qq.png" align="absmiddle">&nbsp;&nbsp;在线客服2号</a></li>
+
+        </ul>
+        <div class="floatDtxt">热线电话</div>
+        <div class="floatDtel">400-775-6652</div>
+        <div style="text-align:center;padding:10PX 0 5px 0;background:#EBEBEB;"><img src="./售楼中心_files/wap_ico.jpg"><br>微信公众账号</div>
+    </div>
+    <div class="floatDbg"></div>
+</div>
+<script type="text/javascript" src="./售楼中心_files/lrtk.js.下载"></script>
+
+<div style="display: none; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%; cursor: move; opacity: 0; background: rgb(255, 255, 255);"></div></body></html>

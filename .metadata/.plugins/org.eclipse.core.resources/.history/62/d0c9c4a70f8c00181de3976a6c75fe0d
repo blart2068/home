@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="UTF-8">
+<title>HTML</title>
+</head>
+<body>
+<body>
+<SCRIPT LANGUAGE="JavaScript">
+	function reP(){
+	document.getElementById('oImg').style.display = "block";
+	}
+	</SCRIPT>
+	<img src='baby.jpg' id="oImg" style='display:none' width="160px" hight="200px">
+	<INPUT TYPE="button" value='显示图片' onclick="reP()">
+</body> 
+
+</body>
+</html>

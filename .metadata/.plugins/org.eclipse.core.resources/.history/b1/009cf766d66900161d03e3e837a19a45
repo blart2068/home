@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>表格</title>
+</head>
+<body>
+	<table border="3" >
+		<caption><h2 style="color: brown" align="center">三国武将表</h2></caption>
+		<tr>11</tr>
+		<tr>11</tr>
+		<tr>11</tr>
+	</table>
+</body>
+</html>

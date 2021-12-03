@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!-- saved from url=(0026)http://wap.uhfang.com/ldcd -->
+<html class="ui-mobile"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base href="">--><base href=".">
+<title>绿地长岛 周末预约特惠3/9-3/11_有好房置业咨询专家</title>
+<meta name="keywords" content="">
+<meta name="description" content="绿地长岛，热销75-124平洋房，精装2-3房！整岛开发，四面环水，未来稀缺资产，休闲养生的理想家园！现在报名可享预约特惠！">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/25fang.min.css">
+<link rel="stylesheet" href="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/jquery.mobile.structure-1.4.2.min.css">
+<link rel="stylesheet" href="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/jquery.bxslider.min.css">
+<script src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/jquery-1.10.2.min.js.下载"></script>
+<script src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/jquery.mobile-1.4.2.min.js.下载"></script>
+<script src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/jquery.json.min.js.下载"></script>
+<script src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/jquery.bxslider.min.js.下载"></script>
+<script type="text/javascript"> 
+
+function toVaild(){//判读11位电话号码
+	var temp = document.getElementById("ff").value;
+	var re = /^1\d{10}$/
+		if(!re.test(temp)){
+			alert("请正确输入11位手机号码！");
+			return false;
+    }
+    else{
+        return true;
+    }
+}
+</script>
+
+<!-- 百度统计代码 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?239ff9bb3af2517c62f2aa08c06df932";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?27dc2d8819b6f03347be06b06921632b";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+
+
+
+</head>
+<body style="" class="ui-mobile-viewport ui-overlay-a">
+<div data-role="page" data-url="/ldcd" tabindex="0" class="ui-page ui-page-theme-a ui-page-active" style="min-height: 900px;">
+  <div data-role="header" class="headTitle ui-header ui-bar-inherit" role="banner"><span>绿地长岛 周末预约特惠3/9-3/11</span></div>
+  <div class="slideABox" id="slideBox">
+    <div>
+      <div class="bx-wrapper" style="max-width: 100%;"><div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 218px;"><div class="bxslider" style="margin-top: 10px; width: 815%; position: relative; transition-duration: 0s; transform: translate3d(-320px, 0px, 0px);"><div style="float: left; list-style: none; position: relative; width: 320px;" class="bx-clone"><img src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/2-1FP5131306.jpg"></div>
+        <div style="float: left; list-style: none; position: relative; width: 320px;"><img src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/2-1FP5131255.jpg"></div><div style="float: left; list-style: none; position: relative; width: 320px;"><img src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/2-1FP5131257.jpg"></div><div style="float: left; list-style: none; position: relative; width: 320px;"><img src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/2-1FP5131259.jpg"></div><div style="float: left; list-style: none; position: relative; width: 320px;"><img src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/2-1FP5131301.jpg"></div><div style="float: left; list-style: none; position: relative; width: 320px;"><img src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/2-1FP5131304.jpg"></div><div style="float: left; list-style: none; position: relative; width: 320px;"><img src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/2-1FP5131306.jpg"></div>  
+      <div style="float: left; list-style: none; position: relative; width: 320px;" class="bx-clone"><img src="./绿地长岛 周末预约特惠3_9-3_11_有好房置业咨询专家_files/2-1FP5131255.jpg"></div></div></div><div class="bx-controls bx-has-pager bx-has-controls-direction"><div class="bx-pager bx-default-pager"><div class="bx-pager-item"><a href="" data-slide-index="0" class="bx-pager-link active">1</a></div><div class="bx-pager-item"><a href="" data-slide-index="1" class="bx-pager-link">2</a></div><div class="bx-pager-item"><a href="" data-slide-index="2" class="bx-pager-link">3</a></div><div class="bx-pager-item"><a href="" data-slide-index="3" class="bx-pager-link">4</a></div><div class="bx-pager-item"><a href="" data-slide-index="4" class="bx-pager-link">5</a></div><div class="bx-pager-item"><a href="" data-slide-index="5" class="bx-pager-link">6</a></div></div><div class="bx-controls-direction"><a class="bx-prev" href="">Prev</a><a class="bx-next" href="">Next</a></div></div></div>
+    </div>
+  </div>
+  <div role="main" class="ui-content">
+    <div class="ui-body ui-body-a ui-corner-all" style="margin-bottom:1em;">
+      <div style="margin-bottom:1em;margin-top:1em;" id="formIntro">
+        <div class="text">绿地长岛，热销75-124平洋房，精装2-3房！整岛开发，四面环水，未来稀缺资产，休闲养生的理想家园！现在报名可享预约特惠！ </div>
+      </div>
+      <div style="margin-bottom:1em;">
+       <form action="/ldcd/cs.jsp" method="post" target="my" onsubmit="return toVaild()">
+<input type="hidden" name="action" value="post">
+<input type="hidden" name="diyid" value="1">
+<input type="hidden" name="do" value="2">
+     <input type="hidden" name="xiangmu" id="xiangmu" style="width:250px" class="intxt" value="绿地长岛 周末预约特惠3/9-3/11">
+        <div class="ui-input-text ui-body-b ui-corner-all ui-shadow-inset"><input id="names" type="text" value="" placeholder="姓名(必填)" name="uid" data-theme="b"></div>
+         <div class="ui-input-text ui-body-b ui-corner-all ui-shadow-inset"><input id='ff' type="text" placeholder="联系电话(必填)" value="" name="upwd" data-theme="b"></div>
+        <input id="xm" type='hidden'name='xm'  value=""/><script src="/ldcd/xmmc.js"></script> 
+       <div style="margin-bottom:1em;">
+        <button class="ui-btn ui-corner-all" type="submit">提交报名</button>
+      </div>
+      
+      </form></div>
+       <p id="p2" style="font-size: 5px; color: gray;"> </p>
+			      <script language="javascript"  charset="UTF-8" src="../js/ym.js" ></script>
+    
+    
+     
+    <input type="hidden" name="dede_fields" value="xiangmu,text;names,text;dianhua,text">
+<input type="hidden" name="dede_fieldshash" value="573182706735f12f74e4aa570a6ad61d">
+      
+<div style="font-size:12px; line-height:22px; color:#eaeaea; font-family:&#39;宋体&#39;; font-weight:500"></div>   <br>
+    </div>
+    
+    <div style="margin-bottom:1em;">
+      <button data-theme="c" onclick="location.href=&#39;tel:021-5107-8185&#39;" class=" ui-btn ui-btn-c ui-shadow ui-corner-all">咨询销售顾问</button>
+    </div>
+  </div>
+  <div data-role="footer" data-theme="c" role="contentinfo" class="ui-footer ui-bar-c">
+    <h3 class="ui-title" role="heading" aria-level="1">
+     
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.bxslider').bxSlider({
+    auto: false,
+    autoControls: true,
+    pager:true,
+    pause:7000
+  });
+});
+</script>
+
+<div class="ui-loader ui-corner-all ui-body-a ui-loader-default"><span class="ui-icon-loading"></span><h1>loading</h1></div>
+
+<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+</body></html>

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>灯光控制</title>
+<meta name="viewport"
+	content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0">
+    <script language=javascript>
+    	var yhm = sessionStorage.getItem("yhm");
+    	if (yhm=="8888") {
+			
+		}else {
+			document.location.href="denglu.html";
+			
+		}
+			
+		</script>
+    
+</head>
+<style type="text/css">
+a:link, a:visited {
+	text-decoration: none; /*超链接无下划线*/
+}
+
+a:hover {
+	text-decoration: underline; /*鼠标放上去有下划线*/
+}
+
+body {
+	margin: 5px; /*设置网页顶格*/
+	background: #4A374A;
+	
+}
+
+div#container {
+	background-color: bisque; /*设置背景颜色*/
+	width: 100%; /*设置宽度*/
+	height: 100% /*设置高度*/;
+	font-size:40px; 
+}
+
+div#heading {
+	width: 50%;
+	background-color: brown;
+	float: left; /*设置向左排列*/
+}
+
+div#chanting {
+	width: 50%;
+	background-color: #00FF00;
+	float: left; /*设置向左排列*/
+}
+
+div#container_menu {
+	width: 50%;
+	background-color: cyan;
+	float: left; /*设置向左排列*/
+}
+
+div#container_body {
+	width: 50%;
+	background-color: blueviolet;
+	float: left;
+}
+
+div#yangtai {
+	width: 50%;
+	background-color: OrangeRed;
+	float: left;
+}
+
+div#mensuo {
+	width: 50%;
+	background-color: Orange;
+	float: left;
+}
+
+
+
+div#ciwo {
+	width: 50%;
+	background-color: DeepSkyBlue;
+	float: left;
+}
+
+div#zhuwei {
+	width: 50%;
+	background-color: DarkKhaki;
+	float: left;
+}
+
+div#kewei {
+	width: 50%;
+	background-color: SeaGreen;
+	float: left;
+}
+
+div#zwdk {
+	width: 50%;
+	background-color: #2828FF;
+	float: left;
+}
+div#zwdg {
+	width: 50%;
+	background-color: #00DB00;
+	float: left;
+}
+div#cwdk {
+	width: 50%;
+	background-color: #ACD6FF;
+	float: left;
+}
+div#cwdg {
+	width: 50%;
+	background-color: #D6D6AD;
+	float: left;
+}
+
+
+div#footing {
+	width: 100%;
+	background-color: PaleVioletRed;
+	clear: both; /*恢复默认*/
+}
+</style>
+</head>
+<body>
+	<h1 align="center">
+		<font color="DarkMagenta">灯光控制系统</font>
+	</h1>
+	<h2><a href="zhuye.html" style=" color: yellow;"> 主菜单</a></h2>
+	<div id="container">
+		<div id="heading" align="center">
+			<a href="http://192.168.199.100/?pin=ON7" target="my">客厅灯开</a>
+		</div>
+		<div id="chanting" align="center">
+			<a href="http://192.168.199.100/?pin=OFF7" target="my">客厅灯关</a>
+		</div>
+		<div id="container_menu" align="center">
+			<a href="http://192.168.199.100/?pin=ON8"  target="my">餐厅灯开</a>
+		</div>
+		<div id="container_body" align="center">
+			<a href="http://192.168.199.100/?pin=OFF8"  target="my">餐厅灯关</a>
+		</div>
+		<div id="yangtai" align="center">
+			<a href="http://192.168.199.100/?pin=ON9"  target="my">厨房灯开</a>
+		</div>
+		<div id="mensuo" align="center">
+			<a href="http://192.168.199.100/?pin=OFF9"  target="my">厨房灯关</a>
+		</div>
+
+		<div id="zhuwei" align="center">
+			<a href="http://192.168.199.100/?pin=ON3"  target="my">主卫灯开</a>
+		</div>
+		<div id="kewei" align="center">
+			<a href="http://192.168.199.100/?pin=OFF3"  target="my">主卫灯关</a>
+		</div>
+		
+		<div id="zwdk" align="center">
+			<a href="http://192.168.199.100/?pin=ON1"  target="my">主卧灯开</a>
+		</div>
+		<div id="zwdg" align="center">
+			<a href="http://192.168.199.100/?pin=OFF1"  target="my">主卧灯关</a>
+		</div>
+		<div id="cwdk" align="center">
+			<a href="http://192.168.199.100/?pin=ON5"  target="my">次卧灯开</a>
+		</div>
+		<div id="cwdg" align="center">
+			<a href="http://192.168.199.100/?pin=OFF5"  target="my">次卧灯关</a>
+		</div>
+		
+		<div id="footing" align="center">
+			<a href="zhuye.html">返回</a>
+		</div>
+	</div>
+	<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+</body>
+</html>

@@ -1,0 +1,26 @@
+lastScrollY=0;
+function heartBeat(){
+var diffY;
+if (document.documentElement && document.documentElement.scrollTop)
+diffY = document.documentElement.scrollTop;
+else if (document.body)
+diffY = document.body.scrollTop
+else
+{/*Netscape stuff*/}
+//alert(diffY);
+percent=.1*(diffY-lastScrollY);
+if(percent>0)percent=Math.ceil(percent);
+else percent=Math.floor(percent);
+document.getElementById("qqqq").style.top=parseInt(document.getElementById("qqqq").style.top)+percent+"px";
+
+lastScrollY=lastScrollY+percent;
+}
+var suspendcode12="<div id='qqqq' style='position:fixed;bottom:50px;left:0px;z-index:999;background:url(http://www.kaifashangtuangou.com/files/files/zixun.jpg) no-repeat 0 0;'><table width='196px' height='250px' border='0' cellspacing='0' cellpadding='0'><tbody><tr><td height='232px' align='center' valign='top'><table width='196' border='0' cellspacing='0' cellpadding='0'><tbody><tr><td style='font-size:14px;color:#ffffff;padding-top:155px;' align='left'><a class='index' style='color:#ffffff;text-decoration:none;outline:none;font-weight: 900;' target='blank' href='http://wpa.qq.com/msgrd?v=3&amp;uin=2918894533&amp;site=qq&amp;menu=yes'><img src='http://www.kaifashangtuangou.com/files/files/zixun1.jpg'></a></td></tr></tbody></table><table width='196px' border='0' cellspacing='0' cellpadding='0'><tbody><tr><td style='font-size:14px;color:#ffffff;' align='left'><a class='index' style='color:#ffffff;text-decoration:none;outline:none;font-weight: 900;' target='blank' href='yydd.aspx.htm'><img src='http://www.kaifashangtuangou.com/files/files/zixun2.jpg'></a></td></tr></tbody></table></td></tr></tbody></table></div>";
+document.write(suspendcode12);
+
+window.setInterval("heartBeat()",1);
+function ClosedivLeft()
+{
+qq.style.visibility="hidden";
+
+}

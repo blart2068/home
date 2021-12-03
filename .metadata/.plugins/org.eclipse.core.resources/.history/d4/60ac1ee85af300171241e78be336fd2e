@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)http://www.jundiweilin.com/greencd/jgsjzs.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>绿地长岛,上海绿地长岛,上海长岛</title><meta name="Keywords" content="绿地长岛,上海绿地长岛,上海长岛,冰雪嘉年华,长岛春浪音乐节,长岛房价,绿地长岛在哪,绿地长岛怎么去"><meta name="description" content="绿地长岛,上海绿地长岛,上海长岛,冰雪嘉年华,长岛春浪音乐节,长岛房价,绿地长岛在哪,绿地长岛怎么去">
+
+    <link href="./cdgw54_files/style.css" title="css/style.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="./cdgw54_files/jquery-1.8.3.min.js.下载" title="jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="./cdgw54_files/jquery.cycle.js.下载" title="jquery.cycle.js"></script>
+    <style>
+        /*preview*/
+        #preview {
+            width: 1000px;
+            height: 770px;
+            margin: 10px auto;
+            border: 1px solid #e6e6e6;
+            padding: 5px;
+            zoom: 1;
+            overflow: hidden;
+        }
+
+        #spec-n1 {
+            width: 1000px;
+            height: 630px;
+            border: 1px solid #e6e6e6;
+            overflow: hidden;
+            background: #f6f6f6;
+            position: relative;
+            z-index: 5;
+            zoom: 1;
+        }
+
+            #spec-n1 .o-img {
+                width: 1000px;
+                height: 630px;
+                text-align: center;
+            }
+
+            #spec-n1 .switch {
+                width: 1000px;
+                height: 630px;
+                position: absolute;
+                z-index: 10;
+                top: 0;
+                left: 0;
+            }
+
+            #spec-n1 img {
+                width: 1000px;
+                height: 630px;
+                _height: 384px;
+            }
+
+        #spec-n5 {
+            position: relative;
+            width: 1000px;
+            height: 120px;
+            zoom: 1;
+        }
+
+        #spec-list {
+            width: 1000px;
+            height: 140px;
+            overflow: hidden;
+        }
+
+            #spec-list ul {
+                height: 140px;
+                overflow: hidden;
+                margin: 0;
+                padding: 0;
+            }
+
+                #spec-list ul li {
+                    float: left;
+                    width: 168px;
+                    height: 126px;
+                    text-align: center;
+                    padding-top: 10px;
+                    padding-left: 10px;
+                }
+
+            #spec-list img {
+                padding: 2px;
+                border: 1px solid #E8E8E8;
+            }
+
+            #spec-list .curr img {
+                padding: 1px;
+                border: 2px solid #ffd300;
+            }
+
+        #spec-n5 .control {
+            position: absolute;
+            width: 50px;
+            height: 120px;
+            background-repeat: no-repeat;
+            cursor: pointer;
+        }
+
+        #spec-left {
+            left: 0;
+            top: 12px;
+            background: url("images/qdgh-qdjg_btnleft.png"/*tpa=images/qdgh-qdjg_btnleft.png*//*tpa=images/qdgh-qdjg_btnleft.png*/);
+        }
+
+        #spec-top.disabled {
+            background-position: -85px -124px;
+        }
+
+        #spec-right {
+            right: 0;
+            top: 12px;
+            background: url("images/qdgh-qdjg_btnright.png"/*tpa=images/qdgh-qdjg_btnright.png*//*tpa=images/qdgh-qdjg_btnright.png*/);
+        }
+
+        #spec-bottom.disabled {
+            background-position: -139px -61px;
+        }
+
+        #intro {
+            float: left;
+            width: 720px;
+            height: 25px;
+            line-height: 25px;
+            text-align: center;
+            overflow: hidden;
+            font-size: 12px;
+        }
+
+        #foward {
+            display: block;
+            width: 360px;
+            height: 540px;
+            float: left;
+            /*cursor: url(images/qdgh-qdjg_btnleft.png),pointer;*/
+            background: #fff;
+            filter: alpha(opacity=0);
+            -moz-opacity: 0;
+            opacity: 0;
+        }
+
+            #foward.disabled, #next.disabled {
+                cursor: default;
+            }
+
+        #next {
+            display: block;
+            width: 360px;
+            height: 540px;
+            float: right;
+            /*cursor: url(images/qdgh-qdjg_btnright.png),pointer;*/
+            background: #fff;
+            filter: alpha(opacity=0);
+            -moz-opacity: 0;
+            opacity: 0;
+        }
+
+        .thickcon {
+            line-height: 40px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body id="index" style="">
+
+<div class="head">
+	<div class="container">
+		<div class="logo fl"></div>	
+
+		<div class="fr">  
+			<ul id="topnav">
+				<li class="topmenu fl"><a href="cdgw1.html" title="index.aspx">首页</a></li>
+				<li class="topmenu fl">
+<a href="cdgw2.html" title="dssq.htm">休闲时代</a>
+<span>
+<a href="cdgw2.html" title="dssq.htm">大势所趋</a>
+<a href="cdgw21.html" title="mtjj.aspx">媒体聚焦</a>
+</span>
+				</li>
+				<li class="topmenu  fl">
+<a href="cdgw3.html" title="bshzx.htm">长岛价值</a>
+<span>
+<a href="cdgw3.html" title="bshzx.htm">北上海中心</a>
+<a href="cdgw31.html" title="ghln.htm">规划理念</a>
+<a href="cdgw32.html" title="djcsd.htm">顶级城市岛</a>
+<a href="cdgw33.html" title="ldjjjz.htm">6大顶级价值</a>
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw4.html">全岛规划</a>
+<span>
+<a href="cdgw4.html" title="qdgh.htm">全岛规划</a>
+<a href="cdgw41.html" title="sdgnq.htm">四大功能区</a>
+<a href="cdgw42.html" title="qdjg.htm">全岛景观</a>
+<a href="cdgw43.html" title="cdpt.htm">长岛配套</a>
+<a href="cdgw44.html" title="cdgjtd.htm">长岛国际团队</a>
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw5.html" title="xmgk.htm">岛主之家</a>
+<span>
+<a href="cdgw5.html" title="xmgk.htm">项目概况</a>
+<a href="cdgw51.html" title="jt.htm">交通</a>
+<a href="cdgw53.html" title="bqjs.htm">B区介绍</a>
+<a href="cdgw53.html" title="fx.htm">房型</a>
+<a href="cdgw54.html" title="jgsjzs.htm">景观、实景展示</a>
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw6.html" title="cdwdshzt.htm">长岛生活</a>
+<span>
+<a href="cdgw6.html" title="cdwdshzt.htm">长岛五大生活主题</a>
+<a href="cdgw61.html" title="cddt.aspx">长岛动态</a>
+
+</span>
+				</li>
+
+				
+
+				<li class="yuyue fl "><div><a href="cdgw7.html" title="yydd.aspx">24小时<br>团购报名</a></div></li><li class="fl" style="float:left;wifth:210px;"><div><img src="./cdgw1_files/changdaocall.png" width="210px" height="102px"></div></li>
+			</ul>			
+		</div>	
+	</div>
+</div>   
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $("#topnav li").hover(function () { //Hover over event on list item
+
+                $(this).find("span").show(); //Show the subnav
+            }, function () { //on hover out...
+
+                $(this).find("span").hide(); //Hide the subnav
+            });
+            // 菜单
+
+            // banner
+            $(function () {
+                $('#banner').cycle({
+                    fx: 'scrollHorz',
+
+
+                    next: '#btnright',
+                    prev: '#btnleft'
+                });
+                $('#indexnews').cycle({
+                    fx: 'scrollHorz',
+
+
+                    next: '#btnright2',
+                    prev: '#btnleft2'
+                });
+            })
+
+        });
+    </script>
+
+
+
+    <div class="content center">
+     <div class="imgtitle"></div> 
+    <div><img src="./cdgw54_files/title_jgsjzs.png" title="images/title_jgsjzs.png" id="fxtitle" alt=""></div> 
+    </div>
+    <div class="content2 center">
+
+        <div id="preview">
+
+            <div id="spec-n1">
+                <div class="o-img">
+                    <img alt="" src="./cdgw54_files/l1.jpg" title="images/l1.jpg" style="margin-top: 0px;">
+                </div>
+                <div class="switch">
+                    <a id="foward">&nbsp;</a>
+                    <a id="next">&nbsp;</a>
+                </div>
+            </div><!--spec-n1 end-->
+
+            <div id="spec-n5">
+                <div id="spec-left" class="control disabled"></div>
+                <div id="spec-right" class="control"></div>
+                <div id="spec-list">
+                    <div style="position:relative;overflow:hidden;z-index:1;margin-left: 50px;width:890px;height:140px;"><ul style="width: 2592px; overflow: hidden; position: absolute; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px;">
+                        <li class="curr">
+		      <img width="162" height="120" name="images/l1.jpg" src="./cdgw54_files/s1.jpg" title="images/s1.jpg"></li>
+                        <li><img width="162" height="120" name="images/l2.jpg" src="./cdgw54_files/s2.jpg" title="images/s2.jpg"></li>
+                        <li><img width="162" height="120" name="images/l3.jpg" src="./cdgw54_files/s3.jpg" title="images/s3.jpg"></li>
+                        <li><img width="162" height="120" name="images/l4.jpg" src="./cdgw54_files/s4.jpg" title="images/s4.jpg"></li>
+                        <li><img width="162" height="120" name="images/l5.jpg" src="./cdgw54_files/s5.jpg" title="images/s5.jpg"></li>
+                        <li><img width="162" height="120" name="images/l6.jpg" src="./cdgw54_files/s6.jpg" title="images/s6.jpg"></li>
+                        <li><img width="162" height="120" name="images/l7.jpg" src="./cdgw54_files/s7.jpg" title="images/s7.jpg"></li>
+                        <li><img width="162" height="120" name="images/l8.jpg" src="./cdgw54_files/s8.jpg" title="images/s8.jpg"></li>
+                        <li><img width="162" height="120" name="images/l9.jpg" src="./cdgw54_files/s9.jpg" title="images/s9.jpg"></li>
+                        <li><img width="162" height="120" name="images/l10.jpg" src="./cdgw54_files/s10.jpg" title="images/s10.jpg"></li>
+                        <li><img width="162" height="120" name="images/l11.jpg" src="./cdgw54_files/s11.jpg" title="images/s11.jpg"></li>
+                        <li><img width="162" height="120" name="images/l12.jpg" src="./cdgw54_files/s12.jpg" title="images/s12.jpg"></li>
+                        <li><img width="162" height="120" name="images/l13.jpg" src="./cdgw54_files/s13.jpg" title="images/s13.jpg"></li>
+                        <li><img width="162" height="120" name="images/l14.jpg" src="./cdgw54_files/s14.jpg" title="images/s14.jpg"></li>
+                        <li><img width="162" height="120" name="images/l15.jpg" src="./cdgw54_files/s15.jpg" title="images/s15.jpg"></li>
+                        <li><img width="162" height="120" name="images/l16.jpg" src="./cdgw54_files/s16.jpg" title="images/s16.jpg"></li>
+                       
+                    </ul></div>
+                </div>
+            </div><!--spec-n5 end-->
+
+
+        </div><!--preview end-->
+    </div>
+<div class="foot">
+	<div class="toplink">
+		<div class="center">
+			<span style="font-size:14px; "><a href="cdgw1.html" >绿地长岛</a></span>
+		</div>
+	</div>
+	<div class=" center">
+		<div class="fl">
+			<div class="links">
+				<ul>
+
+<li><a href="cdgw1.html" >麦肯锡</a></li>
+<li><a href="cdgw1.html">摩高</a></li>
+<li><a href="cdgw1.html" >UA国际</a></li>
+<li><a href="cdgw1.html" >SASAKI</a></li>
+<li><a href="cdgw1.html" >POPULOUS</a></li>
+<li><a href="cdgw1.html" >天星调良</a></li>
+				</ul>
+				<ul>
+<li style="font-size:14px">&nbsp; </li>
+
+
+
+
+
+
+
+	
+				</ul>
+				<div class="copyright">
+				
+&nbsp; &nbsp; 
+
+			 				 </div>
+			 
+			</div>	
+		</div>
+		<div class="fr">
+			<img src="./cdgw3_files/weibo.png" title="images/weibo.png" alt="">
+			<img src="./cdgw3_files/weixin.png" title="images/weixin.png" alt="">
+			<img src="./cdgw3_files/erwei.png" title="images/erwei.png" alt="">
+		</div>
+	</div>
+</div>
+
+<div style="display:none"><script src="http://s11.cnzz.com/stat.php?id=1253877531&amp;web_id=1253877531" language="JavaScript"></script></div>
+
+<script src="./cdgw1_files/qq.js.下载" type="text/javascript">
+</script><div id="qqqq" style="position:fixed;bottom:50px;left:0px;z-index:999;background:url(http://www.kaifashangtuangou.com/files/files/zixun.jpg) no-repeat 0 0;">
+<table width="196px" height="250px" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td height="232px" align="center" valign="top"><table width="196" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td style="font-size:14px;color:#ffffff;padding-top:155px;" align="left">
+<a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2918894533&amp;site=qq&amp;menu=yes">
+<img src="./cdgw1_files/zixun1.jpg"></a></td></tr></tbody></table><table width="196px" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="font-size:14px;color:#ffffff;" align="left"><a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="cdgw7.html"><img src="./cdgw1_files/zixun2.jpg"></a></td></tr></tbody></table></td></tr></tbody></table></div>
+
+
+
+
+    <script type="text/javascript">
+        function closebox() {
+            $(".thickdiv,.thickbox").hide();
+        }
+        $(".thickclose").bind("click", function () {
+            $(".thickdiv,.thickbox").hide();
+        });
+
+        (function (a) { a.fn.jdMarquee = function (h, b) { if (typeof h == "function") { b = h; h = {}; } var j = a.extend({ deriction: "up", speed: 10, auto: false, width: null, height: null, step: 1, control: false, _front: null, _back: null, _stop: null, _continue: null, wrapstyle: "", stay: 5000, delay: 20, dom: "div>ul>li".split(">"), mainTimer: null, subTimer: null, tag: false, convert: false, btn: null, disabled: "disabled", pos: { ojbect: null, clone: null } }, h || {}); var u = this.find(j.dom[1]); var e = this.find(j.dom[2]); var r; if (j.deriction == "up" || j.deriction == "down") { var l = u.eq(0).outerHeight(); var c = j.step * e.eq(0).outerHeight(); u.css({ width: j.width + "px", overflow: "hidden" }); } if (j.deriction == "left" || j.deriction == "right") { var n = e.length * e.eq(0).outerWidth(); u.css({ width: n + "px", overflow: "hidden" }); var c = j.step * e.eq(0).outerWidth(); } var o = function () { var s = "<div style='position:relative;overflow:hidden;z-index:1;margin-left: 50px;width:" + j.width + "px;height:" + j.height + "px;" + j.wrapstyle + "'></div>"; u.css({ position: "absolute", left: 0, top: 0 }).wrap(s); j.pos.object = 0; r = u.clone(); u.after(r); switch (j.deriction) { default: case "up": u.css({ marginLeft: 0, marginTop: 0 }); r.css({ marginLeft: 0, marginTop: l + "px" }); j.pos.clone = l; break; case "down": u.css({ marginLeft: 0, marginTop: 0 }); r.css({ marginLeft: 0, marginTop: -l + "px" }); j.pos.clone = -l; break; case "left": u.css({ marginTop: 0, marginLeft: 0 }); r.css({ marginTop: 0, marginLeft: n + "px" }); j.pos.clone = n; break; case "right": u.css({ marginTop: 0, marginLeft: 0 }); r.css({ marginTop: 0, marginLeft: -n + "px" }); j.pos.clone = -n; break; } if (j.auto) { k(); u.hover(function () { m(j.mainTimer); }, function () { k(); }); r.hover(function () { m(j.mainTimer); }, function () { k(); }); } if (b) { b(); } if (j.control) { g(); } }; var k = function (s) { m(j.mainTimer); j.stay = s ? s : j.stay; j.mainTimer = setInterval(function () { t(); }, j.stay); }; var t = function () { m(j.subTimer); j.subTimer = setInterval(function () { q(); }, j.delay); }; var m = function (s) { if (s != null) { clearInterval(s); } }; var p = function (s) { if (s) { a(j._front).unbind("click"); a(j._back).unbind("click"); a(j._stop).unbind("click"); a(j._continue).unbind("click"); } else { g(); } }; var g = function () { if (j._front != null) { a(j._front).click(function () { a(j._front).addClass(j.disabled); p(true); m(j.mainTimer); j.convert = true; j.btn = "front"; t(); if (!j.auto) { j.tag = true; } f(); }); } if (j._back != null) { a(j._back).click(function () { a(j._back).addClass(j.disabled); p(true); m(j.mainTimer); j.convert = true; j.btn = "back"; t(); if (!j.auto) { j.tag = true; } f(); }); } if (j._stop != null) { a(j._stop).click(function () { m(j.mainTimer); }); } if (j._continue != null) { a(j._continue).click(function () { k(); }); } }; var f = function () { if (j.tag && j.convert) { j.convert = false; if (j.btn == "front") { if (j.deriction == "down") { j.deriction = "up"; } if (j.deriction == "right") { j.deriction = "left"; } } if (j.btn == "back") { if (j.deriction == "up") { j.deriction = "down"; } if (j.deriction == "left") { j.deriction = "right"; } } if (j.auto) { k(); } else { k(4 * j.delay); } } }; var d = function (w, v, s) { if (s) { m(j.subTimer); j.pos.object = w; j.pos.clone = v; j.tag = true; } else { j.tag = false; } if (j.tag) { if (j.convert) { f(); } else { if (!j.auto) { m(j.mainTimer); } } } if (j.deriction == "up" || j.deriction == "down") { u.css({ marginTop: w + "px" }); r.css({ marginTop: v + "px" }); } if (j.deriction == "left" || j.deriction == "right") { u.css({ marginLeft: w + "px" }); r.css({ marginLeft: v + "px" }); } }; var q = function () { var v = (j.deriction == "up" || j.deriction == "down") ? parseInt(u.get(0).style.marginTop) : parseInt(u.get(0).style.marginLeft); var w = (j.deriction == "up" || j.deriction == "down") ? parseInt(r.get(0).style.marginTop) : parseInt(r.get(0).style.marginLeft); var x = Math.max(Math.abs(v - j.pos.object), Math.abs(w - j.pos.clone)); var s = Math.ceil((c - x) / j.speed); switch (j.deriction) { case "up": if (x == c) { d(v, w, true); a(j._front).removeClass(j.disabled); p(false); } else { if (v <= -l) { v = w + l; j.pos.object = v; } if (w <= -l) { w = v + l; j.pos.clone = w; } d((v - s), (w - s)); } break; case "down": if (x == c) { d(v, w, true); a(j._back).removeClass(j.disabled); p(false); } else { if (v >= l) { v = w - l; j.pos.object = v; } if (w >= l) { w = v - l; j.pos.clone = w; } d((v + s), (w + s)); } break; case "left": if (x == c) { d(v, w, true); a(j._front).removeClass(j.disabled); p(false); } else { if (v <= -n) { v = w + n; j.pos.object = v; } if (w <= -n) { w = v + n; j.pos.clone = w; } d((v - s), (w - s)); } break; case "right": if (x == c) { d(v, w, true); a(j._back).removeClass(j.disabled); p(false); } else { if (v >= n) { v = w - n; j.pos.object = v; } if (w >= n) { w = v - n; j.pos.clone = w; } d((v + s), (w + s)); } break; } }; if (j.deriction == "up" || j.deriction == "down") { if (l >= j.height && l >= j.step) { o(); } } if (j.deriction == "left" || j.deriction == "right") { if (n >= j.width && n >= j.step) { o(); } } }; })(jQuery);
+
+        (function () {
+
+            var a = {
+                obj: $("#spec-list"),
+                subobj: $("#spec-n1 img"),
+                width: 720,
+                height: 490,
+                subheight: 540,
+                posi: function () {
+                    var h = a.subobj.attr("height");
+                    if (h < a.subheight && h > 0) {
+                        a.subobj.css({ "margin-top": (a.subheight - h) / 2 })
+                    } else {
+                        a.subobj.css({ "margin-top": 0 });
+                    }
+                },
+
+                images: function () {
+                    a.obj.find("img").bind("click", function () {
+                        var src = $(this).attr("name");
+                        var cont = $(this).attr("title");
+                        $("#intro").html(cont);
+                        $("#spec-n1 img").attr("src", src);
+                        a.posi();
+
+                        if ($("#spec-list li").hasClass("curr")) {
+                            $("#spec-list .curr").removeClass("curr")
+                        };
+                        $(this).parent().addClass("curr");
+                        var m = a.calculate.swith();
+
+                        if (m[1] == 0) {
+                            $("#foward").addClass("disabled");
+                        } else {
+                            if (m[1] + 1 == m[0]) {
+                                $("#next").addClass("disabled");
+                            } else {
+                                $("#foward").removeClass("disabled");
+                                $("#next").removeClass("disabled");
+                            }
+                        }
+                    })
+                },
+
+                alpha: function () {
+                    var img = new Image();
+                    img = $("#spec-n1").find("img").eq(0).get(0);
+                    var appname = navigator.appName.toLowerCase();
+                    if (appname.indexOf("netscape") == -1) {
+                        if (img.readyState == "complete") {
+                            a.posi();
+                        }
+                    } else {
+                        img.onload = function () {
+                            if (img.complete == true) {
+                                a.posi();
+                            }
+                        }
+                    }
+                },
+
+                calculate: {
+                    swith: function () {
+                        var p = a.obj.find("li");
+                        var m = [];
+                        m[0] = p.length;
+                        m[1] = p.index($(".curr"));
+                        return m;
+                    },
+                    roll: function () {
+                        debugger;
+                        var p = a.obj.find("ul");
+                        var m = [];
+                        m[0] = parseInt(p.css("margin-left"));
+                        m[1] = p.width();
+                        return m;
+                    }
+                },
+
+                swith: function () {
+                    $("#foward").bind("click", function () {
+                        var m = a.calculate.swith();
+                        var s = a.calculate.roll();
+                        if (m[1] > 0) {
+                            $("#next").removeClass("disabled");
+                            $("#spec-list .curr").removeClass("curr");
+                            var ob = a.obj.find("li").eq(m[1] - 1).find("img");
+                            var src = ob.attr("name");
+                            var cont = ob.attr("title");
+                            $("#intro").html(cont);
+                            $("#spec-n1").find("img").attr("src", src);
+                            a.posi();
+                            a.obj.find("li").eq(m[1] - 1).addClass("curr");
+                        };
+                        if (m[1] == 1) {
+                            $("#foward").addClass("disabled");
+                        };
+                        if (m[1] == 0) {
+                            return;
+                        }
+                        if (m[1] > 2 && s[0] < 0) {
+                            a.roll.next(1);
+                        }
+                    });
+
+                    $("#next").bind("click", function () {
+                        var m = a.calculate.swith();
+                        var s = a.calculate.roll();
+                        if (m[1] < m[0] - 1) {
+                            $("#foward").removeClass("disabled");
+                            $("#spec-list .curr").removeClass("curr");
+                            var ob = a.obj.find("li").eq(m[1] + 1).find("img");
+                            var src = ob.attr("name");
+                            $("#spec-n1").find("img").attr("src", src);
+                            a.posi();
+                            a.obj.find("li").eq(m[1] + 1).addClass("curr");
+                        };
+                        if (m[1] + 2 == m[0]) {
+                            $("#next").addClass("disabled")
+                        };
+                        if (m[1] + 1 == m[0]) {
+                            $(".thickdiv,.thickbox").show();
+                            setTimeout(function () { closebox(); }, 1200)
+                        };
+                        if (m[1] >= 2 && s[1] + s[0] > 890) {
+                            a.roll.foward(1);
+                        }
+                    })
+                },
+
+                list: function () {
+                    $("#spec-left").bind("click", function () {
+                        var m = a.calculate.roll();
+                        if (m[0] < 0) {
+                            a.roll.next(2);
+                        }
+                    });
+
+                    $("#spec-right").bind("click", function () {
+                        debugger;
+                        var m = a.calculate.roll();
+                        if (m[1] + m[0] > 890) {
+                            a.roll.foward(2);
+                        }
+                    });
+                },
+
+                roll: {
+                    foward: function (step) {
+                        var m = a.calculate.roll();
+                        a.obj.find("ul").animate({ "marginLeft": m[0] - 178 * step }, 100);
+                    },
+                    next: function (step) {
+                        var m = a.calculate.roll();
+                        a.obj.find("ul").animate({ "marginLeft": m[0] + 178 * step }, 100)
+                    }
+                },
+
+                init: function () {
+                    a.obj.jdMarquee({
+                        deriction: "up",
+                        width: 890,
+                        height: 140,
+                        step: 1,
+                        speed: 4,
+                        delay: 10,
+                        control: false
+                    });
+
+                    a.obj.find("ul").eq(1).remove();
+                    var h = a.obj.find("li").length;
+                    a.obj.find("ul").css({ "width": h * 162 });
+                    a.images();
+                    a.swith();
+                    a.list();
+                    a.alpha();
+                }
+            };
+
+            a.init();
+
+        })(jQuery)
+    </script>
+<div style="display:none"><script src="http://s11.cnzz.com/stat.php?id=1253877531&amp;web_id=1253877531" language="JavaScript"></script></div><script src="./cdgw54_files/qq.js.下载" type="text/javascript"></script><div id="qqqq" style="position:fixed;bottom:50px;left:0px;z-index:999;background:url(http://www.kaifashangtuangou.com/files/files/zixun.jpg) no-repeat 0 0;"><table width="196px" height="250px" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="232px" align="center" valign="top"><table width="196" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="font-size:14px;color:#ffffff;padding-top:155px;" align="left"><a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2918894533&amp;site=qq&amp;menu=yes"><img src="./cdgw54_files/zixun1.jpg"></a></td></tr></tbody></table><table width="196px" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="font-size:14px;color:#ffffff;" align="left"><a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="http://www.jundiweilin.com/greencd/yydd.aspx.htm"><img src="./cdgw54_files/zixun2.jpg"></a></td></tr></tbody></table></td></tr></tbody></table></div>
+
+</body></html>

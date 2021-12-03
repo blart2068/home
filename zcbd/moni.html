@@ -1,0 +1,142 @@
+﻿
+<!DOCTYPE html>
+<html>
+    <!-- 
+    Smart developers always View Source. 
+    
+    This application was built using Adobe Flex, an open source framework
+    for building rich Internet applications that get delivered via the
+    Flash Player or to desktops via Adobe AIR. 
+    
+    Learn more about Flex at http://flex.org 
+    // -->
+    <head>
+        <title>blart模拟拍牌系统</title>         
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<!-- Include CSS to eliminate any default margins/padding and set the height of the html element and 
+		     the body element to 100%, because Firefox, or any Gecko based browser, interprets percentage as 
+			 the percentage of the height of its parent container, which has to be set explicitly.  Initially, 
+			 don't display flashContent div so it won't show if JavaScript disabled.
+		-->
+        <style type="text/css" media="screen"> 
+			html, body	{ height:100%; }
+			body { margin:0; padding:0; overflow:auto; text-align:center; 
+			       background-color: #ffffff; }   
+			#flashContent { display:none; }
+        </style>
+         <link href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+         <link href="http://cdn.bootcss.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		
+		<!-- Enable Browser History by replacing useBrowserHistory tokens with two hyphens -->
+        <!-- BEGIN Browser History required section -->
+
+        <!-- END Browser History required section -->  
+		    
+        <script type="text/javascript" src="http://moni.oss-cn-hangzhou.aliyuncs.com/swfobject.js"></script>
+        <script type="text/javascript">
+            <!-- For version detection, set to min. required Flash Player version, or 0 (or 0.0.0), for no version detection. --> 
+            var swfVersionStr = "0.0.0";
+            <!-- To use express install, set to playerProductInstall.swf, otherwise the empty string. -->
+            var xiSwfUrlStr = "playerProductInstall.swf";
+            var flashvars = {};
+            var params = {};
+            params.wmode = "transparent";
+            params.allowscriptaccess = "sameDomain";
+            
+
+            var attributes = {};
+            attributes.id = "Mainbox";
+            attributes.name = "Mainbox";
+            attributes.align = "middle";
+            swfobject.embedSWF(
+                "http://51moni-sh.oss-cn-shanghai.aliyuncs.com/Mainbox_do.swf?r=16-7", "flashContent", 
+                "900", "447", 
+                swfVersionStr, xiSwfUrlStr, 
+                flashvars, params, attributes);
+			<!-- JavaScript enabled so display the flashContent div in case it is not replaced with a swf object. -->
+			swfobject.createCSS("#flashContent", "display:block;text-align:left;");
+        </script>
+		
+		<script type="text/javascript">
+		function showClosebtn(){
+			document.getElementById("closebtn").style.display = "block";
+		}
+		function startTimer(){
+			setTimeout("showClosebtn()",5000);  
+		}
+		
+		function hidead(){
+			document.getElementById("myad").style.display = "none";
+		}
+		</script>
+		
+    </head>
+    <body onload="startTimer()">
+        <!-- SWFObject's dynamic embed method replaces this alternative HTML content with Flash content when enough 
+			 JavaScript and Flash plug-in support is available. The div is initially hidden so that it doesn't show
+			 when JavaScript is disabled.
+		-->
+        <div id="outer" style="margin:auto;background-image:url('http://moni.oss-cn-hangzhou.aliyuncs.com/bg1.jpg');width:900px;height:705px;">
+        <div style="height:175px;">
+        <h2 style="padding: 20px 0px 10px 0;margin-top: 0px;"><font color="white">blart沪牌模拟系统</font></h2>
+        
+       
+
+
+        </div>
+        
+        <div id="flashContent">
+        	<p>
+	        	To view this page ensure that Adobe Flash Player version 
+				0.0.0 or greater is installed. 
+			</p>
+			<script type="text/javascript"> 
+				var pageHost = ((document.location.protocol == "https:") ? "https://" :	"http://"); 
+				document.write("<a href='http://www.adobe.com/go/getflashplayer'><img src='" 
+								+ pageHost + "www.adobe.com/images/shared/download_buttons/get_flash_player.gif' alt='Get Adobe Flash player' /></a>" ); 
+
+			</script> 
+        </div>
+		
+		<style>
+			.op{
+				opacity:0.9;
+				filter:alpha(opacity=90);
+			}
+		</style>
+       <!-- <div id="myad" style="position:relative;display:inline-block"> -->
+		  <div id="myad" style="position:relative;display:none">
+		  <div style="position:relative"><a href="http://buy.51hupai.org/ads-51moni.html" target="_blank"><img src="http://51hupai-site.oss-cn-hangzhou.aliyuncs.com/ads/moni-ads.jpg"></a></div>
+		  <span id="closebtn" class="op" style="display:none;position:absolute;right:0px;top:-0px" onclick="hidead()">
+		  <img src="http://51moni-sh.oss-cn-shanghai.aliyuncs.com/close.png" style="cursor: pointer; position: absolute; margin: 0px; border: none; z-index: 2147483647; right: 28px; top: 3px;">
+		  </span>
+        </div>
+
+        
+        </div>
+	   	
+       	<noscript>
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="900" height="450" id="Mainbox">
+                <param name="movie" value="Mainbox_do.swf?r=16-7" />
+                <param name="allowScriptAccess" value="sameDomain" />
+                <!--[if !IE]>-->
+                <object type="application/x-shockwave-flash" data="http://51moni-sh.oss-cn-shanghai.aliyuncs.com/Mainbox_do.swf?r=16-7" width="900" height="450">
+                    <param name="allowScriptAccess" value="sameDomain" />
+                <!--<![endif]-->
+                <!--[if gte IE 6]>-->
+                	<p> 
+                		Either scripts and active content are not permitted to run or Adobe Flash Player version
+                		0.0.0 or greater is not installed.
+                	</p>
+                <!--<![endif]-->
+                    <a href="http://www.adobe.com/go/getflashplayer">
+                        <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash Player" />
+                    </a>
+                <!--[if !IE]>-->
+                </object>
+                <!--<![endif]-->
+            </object>
+	    </noscript>	
+			
+   </body>
+</html>

@@ -1,0 +1,12 @@
+package tank;
+
+import java.awt.Graphics;
+
+public class Ditank extends Tank implements Runnable{
+	Ditank(int x,int y){
+		super(x,y);
+	}
+	public void run(){
+		
+	}
+}

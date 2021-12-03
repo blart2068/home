@@ -1,0 +1,31 @@
+led1 = 1  
+led2 = 2  
+gpio.mode(led1, gpio.OUTPUT)  
+gpio.mode(led2, gpio.OUTPUT)
+ 
+gpio.mode(6,gpio.INT) function cs(dp) print(gpio.read(6)..dp)if(gpio.read(1)==0)then gpio.write(1, gpio.HIGH) else gpio.write(1, gpio.LOW)end  end gpio.trig(6, "low",cs)
+
+
+ow.setup(3) print(node.heap())
+node.key("long")
+
+gpio.mode(6,gpio.INT) print(gpio.read(6))
+print(node.info())
+--//----------------
+gpio.mode(6,gpio.INT) 
+ i=0
+ function cs(dp)
+  i=i+1 if(i==30)then i=0 end
+  print(gpio.read(6)..dp..i)
+  if(gpio.read(1)==0)then 
+  gpio.write(1, gpio.HIGH) 
+  elseif(gpio.read(1)==1)then 
+  gpio.write(1, gpio.LOW)
+  end  
+  end 
+  gpio.trig(6, "low",cs)
+  
+  
+  
+  
+  

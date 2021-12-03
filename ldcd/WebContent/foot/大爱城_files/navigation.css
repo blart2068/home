@@ -1,0 +1,26 @@
+﻿@charset "utf-8";
+
+@media (max-width:991px){
+	.menu-box{ display: none; position: fixed; left: 0; top: 0; right: 0; bottom: 0; z-index:2147483645; padding-top: 80px; background: #fff;}
+	.menu-box .menu{ position: relative; margin:0 auto; max-width: 160px; max-height: calc(100% - 80px); overflow-y:auto; }
+	.menu-box .menu ul li{ margin-bottom: 20px; font-size: 0; line-height: 20px; }
+	.menu-box .menu ul li span{ position: relative; display: inline-block; vertical-align: top; }
+	.menu-box .menu ul li span a{ font-size: 14px; color: #333; }
+	.menu-box .menu ul li span b{ position:absolute; left: -40px; top: 0; z-index: 1; width:20px; font-family: '宋体'; font-size: 14px; color: #333; cursor: pointer; }
+	.menu-box .menu .ul{ display: none; }
+	.menu-box .menu .ul .li{ margin-bottom: 20px; line-height: 20px; }
+	.menu-box .menu .ul .li a{ color: #333; }
+	.menu-btn{ position: absolute; top:31px; right: 15px; z-index:2147483647; width:36px; }
+	.menu-btn b{ display: block; height:5px; background: #262535; }
+	.menu-btn b:nth-child(2){ margin:3px auto; }
+	.menu-btn.active b{ background: #c1182a; }
+	.menu-btn.active b:nth-child(1){ transform: translate(0,8px) rotate(45deg); }
+	.menu-btn.active b:nth-child(2){opacity: 0; }
+	.menu-btn.active b:nth-child(3){ transform: translate(0,-8px) rotate(-45deg);}
+}
+@media (max-width:767px){
+	.menu-btn{ top: 21px; }
+}
+@media (max-width:479px){
+	.menu-btn{ width: 30px; }
+}

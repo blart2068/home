@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>列表</title>
+</head>
+<body>
+	<h1 align="center">列表!!</h1>
+	<!--ul标签是 无须列表 type属性 设置前面标点 -->
+	<ul type="circle">
+		<li>gyh</li>
+		<li>yff</li>
+		<li>sjy</li>
+		<li>gy</li>
+	</ul>
+	<br>
+	<br>
+	<br>
+	<!-- ol列表是有序列表  start属性 设置从哪里开始计算-->
+	<ol start="108"  >
+		<li>gyh</li>
+		<li>sjy</li>
+		<li>yff</li>
+		<li>gy</li>
+	</ol>
+	<br>
+	<br>
+	<br>
+	<!-- 列表嵌套 -->
+	<ul type="square">
+		<li><h2>nice this</h2>
+			<ol>
+				<li>gyh18</li>
+				<li>sjy18</li>
+				<li>yff18</li>
+			</ol>
+		</li>
+		<li><h2>good this</h2></li>
+		<li><h2>bat this</h2></li>
+		
+		
+	
+	</ul>
+	
+	
+
+</body>
+</html>

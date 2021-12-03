@@ -1,0 +1,38 @@
+[2020-02-28 21:29:55.022] [exthost] [info] extension host started
+[2020-02-28 21:29:55.706] [exthost] [info] extension host started
+[2020-02-28 21:29:55.718] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-02-28 21:29:55.718] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\debug-auto-launch\dist\extension
+[2020-02-28 21:29:55.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-02-28 21:29:55.722] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\emmet\dist\extension
+[2020-02-28 21:29:55.739] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2020-02-28 21:29:55.739] [exthost] [info] ExtensionService#loadCommonJSModule C:\Users\Administrator\.codemix\extensions\christian-kohler.path-intellisense-1.4.2\out\src\extension
+[2020-02-28 21:29:55.759] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2020-02-28 21:29:55.759] [exthost] [info] ExtensionService#loadCommonJSModule C:\Users\Administrator\.codemix\extensions\dbaeumer.vscode-eslint-1.9.0\client\out\extension
+[2020-02-28 21:29:55.801] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2020-02-28 21:29:55.801] [exthost] [info] ExtensionService#loadCommonJSModule C:\Users\Administrator\.codemix\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2020-02-28 21:29:55.804] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2020-02-28 21:29:55.804] [exthost] [info] ExtensionService#loadCommonJSModule C:\Users\Administrator\.codemix\extensions\formulahendry.auto-rename-tag-0.0.15\out\src\extension
+[2020-02-28 21:29:55.808] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-02-28 21:29:55.808] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\configuration-editing\dist\extension
+[2020-02-28 21:29:55.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-02-28 21:29:55.815] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\json-language-features\client\dist\jsonMain
+[2020-02-28 21:29:55.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2020-02-28 21:29:55.879] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\typescript-language-features\dist\extension
+[2020-02-28 21:29:55.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-02-28 21:29:55.938] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\grunt\dist\main
+[2020-02-28 21:29:55.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-02-28 21:29:55.942] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\gulp\dist\main
+[2020-02-28 21:29:55.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-02-28 21:29:55.945] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\jake\dist\main
+[2020-02-28 21:29:55.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2020-02-28 21:29:55.950] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\npm\dist\main
+[2020-02-28 21:29:56.435] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"activationEvent":"workspaceContains:**/*.php"}
+[2020-02-28 21:29:56.435] [exthost] [info] ExtensionService#loadCommonJSModule C:\Users\Administrator\.codemix\extensions\felixfbecker.php-intellisense-2.3.10\out\extension
+[2020-02-28 21:29:56.757] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2020-02-28 21:29:56.757] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\html-language-features\client\dist\htmlMain
+[2020-02-28 21:29:56.815] [exthost] [info] ExtensionService#_doActivateExtension mkaufman.HTMLHint {"startup":false,"activationEvent":"onLanguage:html"}
+[2020-02-28 21:29:56.815] [exthost] [info] ExtensionService#loadCommonJSModule C:\Users\Administrator\.codemix\extensions\mkaufman.htmlhint-0.6.0\out\extension
+[2020-02-28 21:38:11.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"activationEvent":"onDebugResolve"}
+[2020-02-28 21:38:11.905] [exthost] [info] ExtensionService#loadCommonJSModule c:\Users\Administrator\.codemix\engine\resources\app\extensions\debug-server-ready\dist\extension
+[2020-02-28 21:38:11.909] [exthost] [info] ExtensionService#_doActivateExtension msjsdiag.debugger-for-chrome {"startup":false,"activationEvent":"onDebugResolve:chrome"}
+[2020-02-28 21:38:11.909] [exthost] [info] ExtensionService#loadCommonJSModule C:\Users\Administrator\.codemix\extensions\msjsdiag.debugger-for-chrome-4.11.5\out\src\extension

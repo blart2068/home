@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
+<script>
+function change_pic(){
+var imgObj = document.getElementById("caocao_pic");
+var Flag=(imgObj.getAttribute("src",2)=="../imges/hscq3/201.jpg")
+imgObj.src=Flag?"images/diaochan.png":"images/caocao.png";
+}
+</script>
+<img src="../imges/hscq3/00.jpg" class="wujiang_pic_size" id="caocao_pic" onClick="change_pic()">
+</body>
+</html>

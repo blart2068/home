@@ -1,0 +1,19 @@
+package tank;
+
+import java.awt.*;
+
+
+import javax.swing.JPanel;
+static Image tank;
+
+public class Guanka extends JPanel {
+	Guanka(){
+		tank=Toolkit.getDefaultToolkit().getImage(Paint.class.getResource("/Tank.png"));
+	}
+
+	public void paint(Graphics g) {
+		super.paint(g);
+		
+	}
+
+}

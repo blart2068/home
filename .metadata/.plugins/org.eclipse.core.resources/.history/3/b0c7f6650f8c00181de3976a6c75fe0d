@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="UTF-8">
+<title>HTML</title>
+</head>
+<body>
+
+<script src="http://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+<style>
+#hello{width:108px;height:108px;border:1px solid #369;overflow:hidden;margin:auto;}
+#word{margin:auto;width:136px;}
+</style>
+ 
+<div id="hello">
+<img src="http://i1.baidu.com/it/u=2390401277,3891827753&fm=203">
+<img src="http://i1.baidu.com/it/u=3713675608,2219355047&fm=203">
+<img src="http://i2.baidu.com/it/u=695011303,1300693603&fm=203">
+</div>
+ 
+<div>
+<input type="button" value="上一张" onclick="a()";>
+<input type="button" value="下一张" onclick="b()";>
+</div>
+ 
+<script>
+function a(){
+    $('#hello').find('img').eq(0).appendTo($('#hello'));
+}
+function b(){
+    $('#hello').find('img:last').eq(0).prependTo($('#hello'));
+}
+ 
+</script>
+
+
+</body>
+</html>

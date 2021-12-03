@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport"
+	content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0">
+    
+    <script language=javascript>
+    	var yhm = sessionStorage.getItem("yhm");
+    	if (yhm=="8888") {
+			
+		}else {
+			document.location.href="denglu.html";
+			
+		}
+			
+		</script>
+<title>照明</title>
+<link type="text/css" rel="stylesheet" href="css/datouwang.css" />
+
+<SCRIPT LANGUAGE="JavaScript">
+var i=0,a=0,b=0,c=0,d=0,e=0,f=0;
+function xg()
+{
+//	alert(i);
+	if(i%2==0){
+		window.open("jsp/pn1.jsp","my");
+	}else {
+		window.open("jsp/po1.jsp","my");
+	}
+	i++;
+}
+function kt()
+{
+//	alert(a);
+	if(a%2==0){
+		window.open("jsp/pn2.jsp","my");
+	}else {
+		window.open("jsp/po2.jsp","my");
+	}
+	a++;
+}
+function ct()
+{
+//    alert(b);
+    if(b%2==0){
+        window.open("jsp/pn3.jsp","my");
+    }else {
+        window.open("jsp/po3.jsp","my");
+    }
+    b++;
+}
+function zw()
+{
+//    alert(c);
+    if(c%2==0){
+        window.open("jsp/pn4.jsp","my");
+    }else {
+        window.open("jsp/po4.jsp","my");
+    }
+    c++;
+}
+function cw()
+{
+//    alert(d);
+    if(d%2==0){
+        window.open("jsp/pn5.jsp","my");
+    }else {
+        window.open("jsp/po5.jsp","my");
+    }
+    d++;
+}
+function zwc()
+{
+//    alert(e);
+    if(e%2==0){
+        window.open("jsp/pn6.jsp","my");
+    }else {
+        window.open("jsp/po6.jsp","my");
+    }
+    e++;
+}
+function cwc()
+{
+   
+    if(f%2==0){
+        window.open("jsp/pn7.jsp","my");
+    }else {
+        window.open("jsp/po7.jsp","my");
+    }
+    f++;
+}
+
+
+</SCRIPT>
+
+</head>
+<body>
+<!-- 代码 开始 -->
+<h1>照明系统</h1>
+<div style="position: fixed;left: 0;right: 0">
+
+	<a href="daohang.html" ><img src="img/15.png"  height="50" width="50" / style="margin: 10px;"></a>
+	<a href="denglu.html" style="float:right;"><img src="img/17.png"  height="50" width="50" / style="margin: 10px;"></a>
+
+</div>
+<ul>
+	
+	<li>
+		<p class="p">玄关 <input type="range" /></p>
+		<input type="checkbox" data-icon1="♀ " data-icon2="♂ " onclick='xg()' />
+	</li>
+	<li>
+		<p class="p">客厅  <input type="range" /></p>
+		<input type="checkbox" data-icon1="♀" data-icon2="♂" onclick='kt()' />
+	</li>
+	<li>
+		<p class="p">餐厅 <input type="range" /></p>
+		<input type="checkbox" data-icon1="♀" data-icon2="♂" onclick='ct()' />
+	</li>
+	<li>
+		<p class="p">主卧<input type="range" /></p>
+		<input type="checkbox" data-icon1="♀" data-icon2="♂" onclick='zw()' />
+	</li>
+	<li>
+		<p class="p">次卧 <input type="range" /></p>
+		<input type="checkbox" data-icon1="♀" data-icon2="♂" onclick='cw()' />
+	</li>
+	<li>
+		<p class="p">主卫 <input type="range" /></p>
+		<input type="checkbox" data-icon1="♀" data-icon2="♂" onclick='zwc()' />
+	</li>
+	<li>
+		<p class="p">次卫 <input type="range" /></p>
+		<input type="checkbox" data-icon1="♀" data-icon2="♂" onclick='cwc()' />
+	</li>
+	
+</ul>
+
+<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+<!-- 代码 结束 -->
+
+
+
+</body>
+</html>

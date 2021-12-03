@@ -1,0 +1,137 @@
+package tank;
+
+import javax.swing.*;
+import java.awt.*;
+import java.awt.Event;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import java.util.Vector;
+
+public class Mypanel extends JPanel implements KeyListener,Runnable{
+	private Mytank mt;
+	private int dsl=5;
+	Image b1,b2,b3,b4;
+	Baozha bz=null;
+	Vector<Ditank>dtk=new Vector<Ditank>();
+	Mypanel(){//构造
+		mt=new Mytank(400,620);
+		for(int i=0;i<dsl;i++){
+			Ditank dt=new Ditank(i*200+30,0);
+			dtk.add(dt);
+		}
+		b1=Toolkit.getDefaultToolkit().getImage(Paint.class.getResource("/b1.png"));
+		b2=Toolkit.getDefaultToolkit().getImage(Paint.class.getResource("/b2.png"));
+		b3=Toolkit.getDefaultToolkit().getImage(Paint.class.getResource("/b3.png"));
+		b4=Toolkit.getDefaultToolkit().getImage(Paint.class.getResource("/b4.png"));
+	}
+	public void paint(Graphics g){//画图形
+		super.paint(g);
+		g.fillRect(0, 0, 900, 660);
+		this.ctk(mt.getX(), mt.getY(),g,0,mt.getFx());//画我坦克
+
+		for(int i=0;i<dtk.size();i++){//画敌坦克
+			if(dtk.get(i).getTksm()==true){
+				this.ctk(this.dtk.get(i).getX(),this.dtk.get(i).getY(), g, 1,2);
+			}
+		}
+		for(int i=0;i<mt.zdjh.size();i++){//画子弹
+			Zidan zd=mt.zdjh.get(i);
+			if(zd!=null&&zd.getSm()==true){
+				g.setColor(Color.GREEN);
+				g.fillOval(zd.getX(), zd.getY(), 6, 6);
+
+			}
+		}
+		if(bz!=null&&bz.getBzsm()==true){//爆炸效果
+			
+			if(bz.getSmzq()>=9){
+				g.drawImage(b1, bz.getX(), bz.getY(), this);
+			}
+		}
+	}
+	public void ctk(int x,int y,Graphics g,int lx,int fx){//画坦克函数
+		//---------------------设置类型颜色------
+		if(lx==0){
+			g.setColor(Color.YELLOW);
+		}else {
+			g.setColor(Color.RED);
+		}
+		//---------------------设置方向画出坦克----
+		if(fx==1){//1=上
+			g.fill3DRect(x, y, 10, 40, false);
+			g.fill3DRect(x+10, y+5, 20, 30, false);
+			g.fill3DRect(x+30, y, 10, 40, false);
+			g.fillOval(x+13, y+13, 14, 14);
+			g.fill3DRect(x+18, y, 4, 13, false);
+		}else if(fx==2){//2=下
+			g.fill3DRect(x, y, 10, 40, false);
+			g.fill3DRect(x+10, y+5, 20, 30, false);
+			g.fill3DRect(x+30, y, 10, 40, false);
+			g.fillOval(x+13, y+13, 14, 14);
+			g.fill3DRect(x+18, y+27, 4, 13, false);
+		}else if(fx==3){//3=左
+			g.fill3DRect(x, y, 40, 10, false);
+			g.fill3DRect(x+5, y+10, 30, 20,false);
+			g.fill3DRect(x, y+30, 40, 10, false);
+			g.fillOval(x+13, y+13, 14, 14);
+			g.fillRect(x, y+18, 13, 4);
+		}else{//=右
+			g.fill3DRect(x, y, 40, 10, false);
+			g.fill3DRect(x+5, y+10, 30, 20, false);
+			g.fill3DRect(x, y+30, 40, 10, false);
+			g.fillOval(x+13, y+13, 14, 14);
+			g.fill3DRect(x+27, y+18, 13, 4, false);
+		}
+	}
+	public void keyReleased(KeyEvent e) {}
+	public void keyTyped(KeyEvent e) {}
+	public void keyPressed(KeyEvent e) {//监听键盘
+		if(e.getKeyCode()==KeyEvent.VK_W||e.getKeyCode()==KeyEvent.VK_UP){//上
+			mt.shang();
+			mt.setFx(1);
+		}else if(e.getKeyCode()==KeyEvent.VK_S||e.getKeyCode()==KeyEvent.VK_DOWN){//下
+			mt.xia();
+			mt.setFx(2);
+		}else if(e.getKeyCode()==KeyEvent.VK_A||e.getKeyCode()==KeyEvent.VK_LEFT){//左
+			mt.zuo();
+			mt.setFx(3);
+		}else if(e.getKeyCode()==KeyEvent.VK_D||e.getKeyCode()==KeyEvent.VK_RIGHT){//右
+			mt.you();
+			mt.setFx(4);
+		}
+		if(e.getKeyCode()==KeyEvent.VK_SPACE){//发射子弹
+			mt.fszd();
+			if(mt.zdjh.get(0).getSm()==false){
+				mt.zdjh.remove(0);
+			}
+		}
+		this.repaint();
+	}
+	public void mzmb(Zidan zd,Ditank dt){//命中目标
+		if(zd.getSm()==true&&dt.getTksm()==true&&
+				zd.getX()>=dt.getX()&&zd.getX()<=dt.getX()+40&&
+					zd.getY()>=dt.getY()&&zd.getY()<=dt.getY()+40){
+			zd.setSm(false);
+			dt.setTksm(false);
+			bz=new Baozha(dt.getX(),dt.getY());
+		}
+	}
+	public void run(){
+		for(;;){
+			try{
+				Thread.sleep(50);
+			}catch(Exception e){}
+
+			for(int i=0;i<mt.zdjh.size();i++){
+				Zidan zd=mt.zdjh.get(i);
+				for(int j=0;j<dtk.size();j++){
+					Ditank dt=dtk.get(j);
+					this.mzmb(zd, dt);
+				}
+			}
+			this.repaint();
+		}
+	}
+}
+
+

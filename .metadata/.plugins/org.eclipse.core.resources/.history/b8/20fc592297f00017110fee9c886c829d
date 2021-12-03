@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<!-- saved from url=(0046)http://www.shfangzhixiao.com/greenhw/sjdld.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
+    
+    <title>绿地海湾，杭州湾绿地海湾，宁波杭州湾</title><meta name="Keywords" content="绿地海湾，杭州湾，绿地海湾官网，杭州湾绿地海湾，宁波杭州湾"><meta name="description" content="绿地海湾,上海绿地海湾,上海长岛,冰雪嘉年华,长岛春浪音乐节,长岛房价,绿地海湾在哪,绿地海湾怎么去">
+
+    <link href="./hwgw7_files/style.css" title="css/style.css" rel="stylesheet" type="text/css">
+    <script src="./hwgw7_files/hm.js.下载"></script><script type="text/javascript" src="./hwgw7_files/jquery-1.8.3.min.js.下载" title="jquery-1.8.3.min.js"></script><style type="text/css">:root .bm.a_c
+{display:none !important;}</style>
+    <script type="text/javascript" src="./hwgw7_files/jquery.cycle.js.下载" title="jquery.cycle.js"></script>
+
+</head>
+
+<body id="sjdld" style="">
+
+<div class="head">
+	<div class="container">
+		<div class="logo fl"></div>	
+
+		<div class="fr">  
+			<ul id="topnav">
+				<li class="topmenu fl on"><a href="hwgw1.html" title="index.aspx">首页</a></li>
+				<li class="topmenu fl">
+					<a href="hwgw2.html" title="dssq.htm">总体规划</a>
+					<span style="display: none;">
+						
+						
+					</span>
+				</li>
+				<li class="topmenu  fl">
+					<a href="hwgw3.html">楼盘相册</a>
+					<span style="display: none;">
+						
+						
+						
+						
+					</span>					
+				</li>
+				<li class="topmenu fl">
+					<a href="hwgw4.html" title="qdgh.htm">交通优势</a>
+								
+				</li>
+				<li class="topmenu fl">
+					<a href="hwgw5.html" title="xmgk.htm">在售户型</a>
+										
+				</li>
+				<li class="topmenu fl">
+					<a href="hwgw6.html" title="cdwdshzt.htm">周边配套</a>
+										
+				</li>
+				<li class="topmenu fl">
+					<a href="hwgw7.html" title="sjdld.htm">绿地品牌</a>
+					<span style="display: none;">
+						<a href="hwgw7.html" title="sjdld.htm">世界的绿地</a>
+						<a href="hwgw71.html" title="ldqyln.htm">绿地企业理念</a>
+					</span>						
+				</li>
+				<li class="topmenu fl">
+                    <a href="hwgw8.html" title="lyj.htm">发展状况</a>
+										
+				</li>
+				<li class="yuyue fl "><div><a href="hwgw9.html" title="yydd.aspx">24小时<br>团购报名</a></div></li><li class="fl" style="float:left;wifth:210px;"><div><img src="./hwgw1_files/hangzhouwancall.png" width="210px" height="102px"></div></li>
+			</ul>			
+		</div>	
+	</div>
+</div>   
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $("#topnav li").hover(function () { //Hover over event on list item
+
+                $(this).find("span").show(); //Show the subnav
+            }, function () { //on hover out...
+
+                $(this).find("span").hide(); //Hide the subnav
+            });
+            // 菜单
+
+            // banner
+            $(function () {
+                $('#banner').cycle({
+                    fx: 'scrollHorz',
+
+
+                    next: '#btnright',
+                    prev: '#btnleft'
+                });
+                $('#indexnews').cycle({
+                    fx: 'scrollHorz',
+
+
+                    next: '#btnright2',
+                    prev: '#btnleft2'
+                });
+            })
+
+        });
+    </script>
+
+
+
+    <div class="content center">
+        <img src="./hwgw7_files/shijidelvdi_01.png" title="images/shijidelvdi_01.png" alt="">
+        <div class="content2">
+            <div class="fl" style="width: 520px; font-size:13px;"><span class="blf">
+    22年厚载，从上海起步，布局全国，到征服世界，绿地见证并参与了国内外众多一线城市的重大历程！</span><span style="line-height:2;">
+                                                             如今，回到这座起步的城市，绿地承载着上海的梦想和希冀，斥资数百亿，倾全集团之力，
+                                                             打造独属于上海，独属于</span><span style="color: #2ec2d7; font-style:italic; ">绿地的“长岛”</span>。
+    <ul class="uls">
+        <li>战略上，标志着绿地的触角从纵向（高度）横向（跨度）的延伸；</li>
+        <li>布局上，标志着绿地的棋面从滨江向沿海的拓展；</li>
+        <li>规模上，标志着绿地的投入从高端向超高端的进阶；</li>
+        <li>性质上，标志着绿地的产品从常规地产向城市运营的深入；</li>
+    </ul>
+    <span class="bm">“上海，曾经最显耀的名片是外滩；</span>
+    <span class="bm">这一次，绿地希望把长岛打造成今后能够代表上海的一张最璀璨的名片</span>
+    <span style="line-height:2;">这里将上演万国开埠</span><span style="line-height: 2; color: #5AB2B6; font-weight: 600; ">新上海传奇 !</span></div>
+            <div class="fr">
+                <img src="./hwgw7_files/shijidelvdi_02.png" title="images/shijidelvdi_02.png" alt="">
+                <span style="display:block;">绿地集团董事长、总裁：张玉良</span>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="content2">
+            <img src="./hwgw7_files/shijidelvdi_03.png" title="images/shijidelvdi_03.png" alt="">
+        </div>
+    </div>
+
+<div class="foot">
+	<div class="toplink">
+		<div class="center">
+			<span style="font-size:14px; "><a href="javascript:if(confirm(&#39;http://www.greenlandsc.com/  \n\n该文件无法用 Teleport Ultra 下载, 因为 它是一个域或路径外部被设置为它的启始地址的地址。  \n\n你想在服务器上打开它?&#39;))window.location=&#39;http://www.greenlandsc.com/&#39;" title="http://www.greenlandsc.com/" target="_blank">绿地集团</a></span>
+		</div>
+	</div>
+	<div class=" center">
+		<div class="fl">
+			<div class="links">
+				<ul>
+					<li style="font-size:14px">合作企业</li>
+					<li><a href="">麦肯锡</a></li>
+					<li><a href="">摩高</a></li>
+					<li><a href="">UA国际</a></li>
+					<li><a href="javascript:if(confirm(&#39;http://www.sasaki.com/  \n\n该文件无法用 Teleport Ultra 下载, 因为 它是一个域或路径外部被设置为它的启始地址的地址。  \n\n你想在服务器上打开它?&#39;))window.location=&#39;http://www.sasaki.com/&#39;" title="http://www.sasaki.com/" target="_blank">SASAKI</a></li>
+					<li><a href="javascript:if(confirm(&#39;http://populous.com/  \n\n该文件无法用 Teleport Ultra 下载, 因为 它是一个域或路径外部被设置为它的启始地址的地址。  \n\n你想在服务器上打开它?&#39;))window.location=&#39;http://populous.com/&#39;" title="http://populous.com/" target="_blank">POPULOUS</a></li>
+					<li><a href="javascript:if(confirm(&#39;http://www.equriding.com/  \n\n该文件无法用 Teleport Ultra 下载, 因为 它是一个域或路径外部被设置为它的启始地址的地址。  \n\n你想在服务器上打开它?&#39;))window.location=&#39;http://www.equriding.com/&#39;" title="http://www.equriding.com/" target="_blank">天星调良</a></li>
+				</ul>
+				<ul>
+					<li style="font-size:14px">&nbsp; </li>
+					
+
+					<li><a href="">HWCD</a></li>
+					<li><a href="">JWDA</a></li>
+					<li><a href="">迪利安达</a></li>
+					<li><a href="">尼克劳斯</a></li>
+					<li><a href="">EKISTICS</a></li>	
+					<li style="width:124px"><a href="">NDA恩蒂埃建筑设计</a></li>	
+				</ul>
+				<div class="copyright">
+				<span style="font-family:&#39;Microsoft YaHei&#39; ;color: #00adc3;font-size: 12px;font-weight: bold;">长岛24小时售楼热线: 
+					<span style="font-size: 20px;">021-5107 9115</span></span>&nbsp; &nbsp; 
+					绿地海湾 <span style="font-family: Verdana, Geneva, sans-serif;">&#169;</span> 版权所有
+			 				 </div>
+			 
+			</div>	
+		</div>
+		<div class="fr">
+			<img src="./hwgw7_files/weibo.png" title="images/weibo.png" alt="">
+			<img src="./hwgw7_files/weixin.png" title="images/weixin.png" alt="">
+			<img src="./hwgw7_files/erwei.png" title="images/erwei.png" alt="">
+		</div>
+	</div>
+</div>
+
+<div style="display:none"><script>var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "//hm.baidu.com/hm.js?c8072f7e6f2c657ea047d959e5141321";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script><script src="./hwgw7_files/stat.php" language="JavaScript"></script><script src="./hwgw7_files/core.php" charset="utf-8" type="text/javascript"></script><a href="http://www.cnzz.com/stat/website.php?web_id=1253877531" target="_blank" title="站长统计">站长统计</a></div><script src="./hwgw7_files/qq.js.下载" type="text/javascript"></script><div id="qqqq" style="position:fixed;bottom:50px;left:0px;z-index:999;background:url(http://www.jundiweilin.com/greenhw/images/zixun.jpg) no-repeat 0 0;"><table width="196px" height="250px" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="232px" align="center" valign="top"><table width="196" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="font-size:14px;color:#ffffff;padding-top:155px;" align="left"><a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2918894533&amp;site=qq&amp;menu=yes"><img src="./hwgw7_files/zixun1.jpg"></a></td></tr></tbody></table><table width="196px" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="font-size:14px;color:#ffffff;" align="left"><a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="http://www.shfangzhixiao.com/greenhw/yydd.aspx.htm"><img src="./hwgw7_files/zixun2.jpg"></a></td></tr></tbody></table></td></tr></tbody></table></div>
+
+</body></html>

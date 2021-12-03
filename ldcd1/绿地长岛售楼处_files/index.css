@@ -1,0 +1,45 @@
+﻿*{margin: 0; padding: 0; font-family: "微软雅黑", "Microsoft Yahei", Arial;}
+body { margin: 0px; }
+img {border:0;}
+.header_1 {width: 1125px; height: 99px; margin-right: auto; margin-left: auto; text-align:center; }
+.header_2 {width: 100%; height: 51px; background-image: url(../images/header_bg.jpg); background-repeat: repeat-x; background-position: center center;}
+.header_2_1 { width: 1101px; height: 51px; margin-right: auto; margin-left: auto; text-align:center; }
+.banner1 { background-image: url(../images/gydyh_03.jpg); background-repeat: no-repeat; background-position: center center; height: 164px; width: 100%; }
+.banner2 { height: 147px; width: 100%; }
+.banner2_1 { height: 147px; width: 1383px; margin-right: auto; margin-left: auto; text-align:center;}
+.banner3 { background-image: url(../images/gydyh_05.jpg); background-repeat: no-repeat; background-position: center center; height: 239px; width: 100%; }
+.a1 { background-image: url(../images/gydyh_06.jpg); background-repeat: no-repeat; background-position: center center; height: 253px; width: 100%; }
+.b1 { background-image: url(../images/gydyh_07.jpg); background-repeat: no-repeat; background-position: center center; height: 153px; width: 100%; }
+.a1_1 { height: 253px; width: 990px; margin-right: auto; margin-left: auto; text-align:center;}
+.b1_1 { height: 153px; width: 939px; margin-right: auto; margin-left: auto; text-align:center;}
+.c1 { background-image: url(../images/gydyh_08.jpg); background-repeat: no-repeat; background-position: center center; height: 188px; width: 100%; }
+.c2 { background-image: url(../images/gydyh_09.jpg); background-repeat: no-repeat; background-position: center center; height: 321px; width: 100%; }
+.c3 { background-image: url(../images/gydyh_10.jpg); background-repeat: no-repeat; background-position: center center; height: 253px; width: 100%; }
+.d1 { background-image: url(../images/gydyh_11.jpg); background-repeat: no-repeat; background-position: center center; height: 189px; width: 100%; }
+.d2 { background-image: url(../images/gydyh_12.jpg); background-repeat: no-repeat; background-position: center center; height: 674px; width: 100%; }
+.d2_1 { height: 674px; width: 991px; margin-right: auto; margin-left: auto; text-align:center; }
+.e1 { background-image: url(../images/gydyh_13.jpg); background-repeat: no-repeat; background-position: center center; height: 196px; width: 100%; }
+.e2 { background-image: url(../images/gydyh_14.jpg); background-repeat: no-repeat; background-position: center center; height: 363px; width: 100%; }
+.e3 { background-image: url(../images/gydyh_15.jpg); background-repeat: no-repeat; background-position: center center; height: 208px; width: 100%; }
+.f1 { background-image: url(../images/gydyh_16.jpg); background-repeat: no-repeat; background-position: center center; height: 205px; width: 100%; }
+.f2 { background-image: url(../images/gydyh_17.jpg); background-repeat: no-repeat; background-position: center center; height: 397px; width: 100%; }
+.f2_1 { height: 397px; width: 991px; margin-right: auto; margin-left: auto; text-align:center; }
+.f3 { background-image: url(../images/gydyh_18.jpg); background-repeat: no-repeat; background-position: center center; height: 469px; width: 100%; }
+.g1 { background-image: url(../images/gydyh_19.jpg); background-repeat: no-repeat; background-position: center center; height: 188px; width: 100%; }
+.g2 { background-image: url(../images/gydyh_20.jpg); background-repeat: no-repeat; background-position: center center; height: 391px; width: 100%; }
+.g2_1 { height: 391px; width: 991px; margin-right: auto; margin-left: auto; text-align:center; }
+.h1 { background-image: url(../images/gydyh_21.jpg); background-repeat: no-repeat; background-position: center center; height: 205px; width: 100%; }
+.h2 { background-image: url(../images/gydyh_22.jpg); background-repeat: no-repeat; background-position: center center; height: 658px; width: 100%; }
+.h2_1 { height: 636px; width: 991px; margin-right: auto; margin-left: auto; text-align:center; }
+.i1 { background-image: url(../images/gydyh_23.jpg); background-repeat: no-repeat; background-position: center center; height: 212px; width: 100%; }
+.i2 { background-image: url(../images/gydyh_24.jpg); background-repeat: no-repeat; background-position: center center; height: 574px; width: 100%; }
+.i2_1 { height: 574px; width: 991px; margin-right: auto; margin-left: auto; text-align:center; }
+.i2_1_1 { height: 574px; width: 628px; float: left; background-image: url(../images/gydyh_24_1.jpg); background-repeat: no-repeat; background-position: center center;  }
+.i2_1_2 { height: 574px; width: 363px; float: left; }
+.i2_1_1_2 { height: 32px; width: 596px; padding-top: 35px; }
+.i2_1_1_3 { height: 262px; width: 628px; margin-top: 25px; }
+.i2_1_1_3 p { margin-top: 15px; }
+.xuanfu { height: 234px; width: 100%; z-index:999; position: fixed; left:0; bottom:0; background-image: url(http://www.zcdcyxdl.com/images/xuanfu.png); background-repeat: no-repeat; background-position: center; }
+.xuanfu_1 { height: 234px;  }
+
+.left_xuanfu { height: 831px; width: 166px; z-index:999; position: fixed; left:0; bottom:100; background-image: url(../images/left_xuanfu.png); background-repeat: no-repeat; background-position: center; }

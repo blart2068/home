@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>绿地长岛,上海绿地长岛,上海长岛</title><meta name="Keywords" content="绿地长岛,上海绿地长岛,上海长岛,冰雪嘉年华,长岛房价,绿地长岛在哪,绿地长岛怎么去"><meta name="description" content="绿地长岛,上海绿地长岛,上海长岛,冰雪嘉年华,长岛房价,绿地长岛在哪,绿地长岛怎么去">
+<link href="./cdgw1_files/style.css" title="css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./cdgw1_files/jquery-1.8.3.min.js.下载" title="jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="./cdgw1_files/jquery.cycle.js.下载"></script>
+
+</head>
+
+<body id="index" style=""> 
+<div class="head">
+	<div class="container">
+		<div class="logo fl"></div>	
+
+		<div class="fr">  
+			<ul id="topnav">
+				<li class="topmenu fl"><a href="cdgw1.html" title="index.aspx">首页</a></li>
+				<li class="topmenu fl">
+<a href="cdgw2.html" title="dssq.htm">休闲时代</a>
+<span>
+<a href="cdgw2.html" title="dssq.htm">大势所趋</a>
+<a href="cdgw21.html" title="mtjj.aspx">媒体聚焦</a>
+</span>
+				</li>
+				<li class="topmenu  fl">
+<a href="cdgw3.html" title="bshzx.htm">长岛价值</a>
+<span>
+<a href="cdgw3.html" title="bshzx.htm">北上海中心</a>
+<a href="cdgw31.html" title="ghln.htm">规划理念</a>
+<a href="cdgw32.html" title="djcsd.htm">顶级城市岛</a>
+<a href="cdgw33.html" title="ldjjjz.htm">6大顶级价值</a>
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw4.html">全岛规划</a>
+<span>
+<a href="cdgw4.html" title="qdgh.htm">全岛规划</a>
+<a href="cdgw41.html" title="sdgnq.htm">四大功能区</a>
+<a href="cdgw42.html" title="qdjg.htm">全岛景观</a>
+<a href="cdgw43.html" title="cdpt.htm">长岛配套</a>
+<a href="cdgw44.html" title="cdgjtd.htm">长岛国际团队</a>
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw5.html" title="xmgk.htm">岛主之家</a>
+<span>
+<a href="cdgw5.html" title="xmgk.htm">项目概况</a>
+<a href="cdgw51.html" title="jt.htm">交通</a>
+<a href="cdgw53.html" title="bqjs.htm">B区介绍</a>
+<a href="cdgw53.html" title="fx.htm">房型</a>
+
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw6.html" title="cdwdshzt.htm">长岛生活</a>
+<span>
+<a href="cdgw6.html" title="cdwdshzt.htm">长岛五大生活主题</a>
+<a href="cdgw61.html" title="cddt.aspx">长岛动态</a>
+
+</span>
+				</li>
+
+				
+
+				<li class="yuyue fl "><div><a href="cdgw7.html" title="yydd.aspx">24小时<br>团购报名</a></div></li><li class="fl" style="float:left;wifth:210px;"><div><img src="./cdgw1_files/changdaocall.png" width="210px" height="102px"></div></li>
+			</ul>			
+		</div>	
+	</div>
+</div>   
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#topnav li").hover(function () { //Hover over event on list item
+            $(this).find("span").show(); //Show the subnav
+        }, function () { //on hover out...
+            $(this).find("span").hide(); //Hide the subnav
+        });
+        // 菜单
+
+        // banner
+        $(function () {
+            $('#banner').cycle({
+                fx: 'scrollHorz',
+                next: '#btnright',
+                prev: '#btnleft'
+            });
+            $('#indexnews').cycle({
+                fx: 'scrollHorz',
+                next: '#btnright2',
+                prev: '#btnleft2'
+            });
+        })
+    });
+</script>
+<div class="content center">
+	<div id="banner" style="position: relative; overflow: hidden;">
+		
+		<img src="./cdgw1_files/banner00006.jpg" title="images/banner00006.jpg" width="1000" height="324" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 3; opacity: 1; width: 1000px; height: 324px;">
+		<img src="./cdgw1_files/banner00007.jpg" title="images/banner00007.jpg" width="1000" height="324" style="position: absolute; top: 0px; left: -1000px; display: none; z-index: 2; opacity: 1; width: 1000px; height: 324px;">
+	</div>
+	<div id="btnleft"></div>
+	<div id="btnright"></div>
+</div>  
+<div class="content2 center"> 
+	<div class="fl" style="width: 508px;"><a href="cdgw2.html" title="dssq.htm"><img src="./cdgw1_files/indexbanner2.jpg" title="images/indexbanner2.jpg" alt=""></a></div>
+	<div class="fr"><img src="./cdgw1_files/indexbanner3.jpg" title="images/indexbanner3.jpg" alt=""></div>
+	<div class="clear"></div> 
+</div>
+<div class="content2 center"> 
+	<div class="fl" style="width:300px;height:332px;">
+		<a href="cdgw33.html" title="ldjjjz.htm"><img src="./cdgw1_files/indexbanner4.jpg" width="300px" height="163px" alt=""></a>
+		<br>
+		<a href="" title="sjdld.htm"><img src="./cdgw1_files/indexbanner5.jpg" width="300px" height="163px" alt=""></a>
+	</div>
+	<div class="fl news">
+		
+		<!--团购报名-->
+		       <div class="sneirongtt"><div class="sneirongttax">【绿地长岛】</div></div><!--标题 -->
+<div class="sneirongcon">
+        <div class="othersmain newsmain">
+<div class="other-titles">
+<span class="baomingtt">24小时团购优惠报名</span>
+ </div>
+<div class="newslist">
+                
+  
+<div class="baoming">
+<div style="display:none;"><input name="title" type="text" class="yuyueinput" value="【海琴（官网）】绿地长岛"></div><div class="input_img">
+    <form action="http://blart.pw:5271/ldcd/yj.jsp" method="post" target="my">
+        <p class="name">姓名：<input type="text" name="uid" placeholder="输入姓名"></p>
+        <p class="name">电话：<input type="text" id="mycall" name="upwd" size="42" onblur="checkTel()" onkeyup="this.value=this.value.replace(/D/g,&#39;&#39;)" onafterpaste="this.value=this.value.replace(/D/g,&#39;&#39;)" placeholder="输入您的11位手机号"></p>
+        <input type="submit" class="sub"   value="立刻报名团购" >
+	</form>
+    </div><table width="100%" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+
+<input name="enews" type="hidden" value="AddFetion"> 
+
+
+    
+
+
+</table>
+</div>
+
+              
+                   </div>
+            </div>
+<!--fangyuanliebiao.end-->
+<p></p>
+             </div>
+		  <!--团购报名-->
+		 
+
+	</div>
+	<div class="fl" style="width:368px;height:332px;">
+		<embed  height="275" width="368px" menu="true" loop="true" play="true"  scale="ShowAll" wmode="Window" quality="1" src="http://www.jundiweilin.com/shipin/changdao.swf" type="application/x-shockwave-flash">
+
+		<br><img src="./cdgw1_files/indexbanner6.jpg" width="368px">
+        
+
+        <script type="text/javascript">jQuery('#pic_list460').slide({ mainCell:'ul',autoPlay:true,effect:'leftMarquee',interTime:50,vis:3  });</script>
+
+
+      <map name="Map">
+        <area shape="rect" coords="7,10,251,162" href="http://v.qq.com/page/i/t/l/i01544mmvtl.html" target="_blank">
+        <area shape="rect" coords="5,175,128,246" href="http://v.qq.com/page/l/z/2/l0154m3siz2.html" target="_blank">
+        <area shape="rect" coords="132,172,254,246" href="http://v.qq.com/page/n/f/m/n01549uz1fm.html" target="_blank">
+      </map>	
+	</div>
+	<div class="clear"></div> 
+</div>
+<div class="foot">
+	<div class="toplink">
+		<div class="center">
+			<span style="font-size:14px; "><a href="cdgw1.html" >绿地长岛</a></span>
+		</div>
+	</div>
+	<div class=" center">
+		<div class="fl">
+			<div class="links">
+				<ul>
+
+<li><a href="cdgw1.html" >麦肯锡</a></li>
+<li><a href="cdgw1.html">摩高</a></li>
+<li><a href="cdgw1.html" >UA国际</a></li>
+<li><a href="cdgw1.html" >SASAKI</a></li>
+<li><a href="cdgw1.html" >POPULOUS</a></li>
+<li><a href="cdgw1.html" >天星调良</a></li>
+				</ul>
+				<ul>
+<li style="font-size:14px">&nbsp; </li>
+
+
+
+
+
+
+
+	
+				</ul>
+				<div class="copyright">
+				
+&nbsp; &nbsp; 
+
+			 				 </div>
+			 
+			</div>	
+		</div>
+		<div class="fr">
+			<img src="./cdgw3_files/weibo.png" title="images/weibo.png" alt="">
+			<img src="./cdgw3_files/weixin.png" title="images/weixin.png" alt="">
+			<img src="./cdgw3_files/erwei.png" title="images/erwei.png" alt="">
+		</div>
+	</div>
+</div>
+
+<div style="display:none"><script src="http://s11.cnzz.com/stat.php?id=1253877531&amp;web_id=1253877531" language="JavaScript"></script></div>
+
+<script src="./cdgw1_files/qq.js.下载" type="text/javascript">
+</script><div id="qqqq" style="position:fixed;bottom:50px;left:0px;z-index:999;background:url(http://www.kaifashangtuangou.com/files/files/zixun.jpg) no-repeat 0 0;">
+<table width="196px" height="250px" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td height="232px" align="center" valign="top"><table width="196" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td style="font-size:14px;color:#ffffff;padding-top:155px;" align="left">
+<a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=3502357325&amp;site=qq&amp;menu=yes">
+<img src="./cdgw1_files/zixun1.jpg"></a></td></tr></tbody></table><table width="196px" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="font-size:14px;color:#ffffff;" align="left"><a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="cdgw7.html"><img src="./cdgw1_files/zixun2.jpg"></a></td></tr></tbody></table></td></tr></tbody></table></div>
+
+<iframe name="my" frameborder="0" style="width: 100px; height: 100px;"></iframe>
+</body></html>

@@ -1,0 +1,29 @@
+package ldcd;
+
+
+import java.io.FileOutputStream;
+ 
+ 
+public class jl {
+    public static void main(String args[]){
+    	
+    	
+    }
+    public vord xr() {
+		
+	
+        try {
+            FileOutputStream f=new FileOutputStream("jl.txt",true);
+            f.write("\r\n年今年".getBytes());
+            f.close();
+            System.out.println("ssssssss");
+            System.out.println(System.getProperty("user.dir"));//user.dir指定了当前的路径 
+
+        } catch (Exception e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+    }
+    }
+}
+	

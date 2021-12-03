@@ -1,0 +1,122 @@
+@charset "utf-8";
+body,ul,li,p,h1,h2,h3,h4,h5,h6,section{
+    padding:0;
+    margin:0;
+}
+li{list-style: none;}
+a{text-decoration:none}
+img{border:0;display: block;width:100%;}
+
+
+
+/* 定位元素 */
+.dis-block{display:block;}
+.dis-inline{display:inline;}
+.dis-inblock{display:inline-block;}
+.pos-rel{position:relative;}
+.pos-abs{position:absolute;}
+.pos-fix{position:fixed;}
+.over-h{overflow: hidden;}
+
+/* 颜色的类名 */
+.color1{color:#EDA231;}
+
+
+/*字体大小样式*/
+.cuti{font-weight: bold;}
+.ft-size0{font-size:0;}
+.ft-size8{font-size:8px;}
+.ft-size12{font-size:12px;}
+.ft-size13{font-size:13px;}
+.ft-size14{font-size:14px;}
+.ft-size16{font-size:16px;}
+.ft-size18{font-size:18px;}
+.ft-size24{font-size:24px;}
+.ft-size25{font-size:25px;}
+.ft-size30{font-size:30px;}
+.ft-size40{font-size:40px;}
+.ft-size48{font-size:48px;}
+.ft-size70{font-size:70px;}
+
+/* 宽度和高度 */
+.wid100{width:100%;}
+  
+.wid50{width:50%;}
+.wid80p{width:80px;}  
+.wid415p{width:415px;}
+.wid620{width:620px;}
+.wid640p{width:640px;}                  /*  注意;不要放到大括号外面，放到外面会影响后面的样式失效*/
+.height100{height:100%;}
+.wid1080{width:1080px;}
+.wid1120p{width:1120px;}
+.wid620{width:620px;}
+.wid1280{width:1280px;}
+.wid200p{width:200px;}
+.m-wid{min-width: 1280px;}
+.mx-wid{max-width: 1920px;}
+.hei50{height:50px;}
+
+/* 浮动元素 */
+.f-l{float:left;}
+.f-r{float:right;}
+.clearfix:after{
+    content:'';
+    display:block;
+    clear:both;
+}
+
+/* 外边距 */
+.mar-auto{margin:0 auto;}
+.mar-top5{margin-top:5px;}
+.mar-top8{margin-top:8px;}
+.mar-top10{margin-top:10px;}
+.mar-top15{margin-top:15px;}
+
+.mar-top55{margin-top:55px;}
+.mar-left5{margin-left:5px;}
+.mar-left15{margin-left:15px;}
+.mar-left20{margin-left:20px;}
+.mar-left175{margin-left:17.5px;}
+.mar-right175{margin-right:17.5px;}
+
+.mar-right10{margin-right:10px;}
+.mar-right15{margin-right:15px;}
+
+.mar-right40{margin-right:40px;}
+.mar-bottom5{margin-bottom:5px;}
+.mar-bottom20{margin-bottom:20px;}
+.mar-bottom35{margin-bottom:35px;}
+.mar-bottom40{margin-bottom:40px;}
+.mar-bottom55{margin-bottom:55px;}
+.mar-bottom70{margin-bottom:70px;}
+.mar-bottom100{margin-bottom:100px;}
+/* 内边距 */
+.pad-top10{padding-top:10px;}
+
+/*垂直对齐方式*/
+.ver-middle{vertical-align: middle;}
+.t-c{text-align: center;}
+
+.mar-auto{margin:0 auto;}
+
+/*字体行高*/
+
+.li-height22{line-height: 22px;}
+.li-heihgt25{line-height:25px;}
+.li-height26{line-height:26px;}
+
+.li-height50{line-height: 50px;}
+/* section部分的标题样式开始 */
+.section_tit{
+    width:100%;
+    margin: 0;
+    height: 55px;
+    padding: 56.5px 0;
+    text-align: center;
+}
+.section_tit h2{
+    text-align: center;
+    margin-top:5px;
+   color:#6ebccb;    
+}
+/* section部分的标题样式结束 */

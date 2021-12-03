@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport"
+          content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0">
+    
+    <script language=javascript>
+    	var yhm = sessionStorage.getItem("yhm");
+    	if (yhm=="8888") {
+			
+		}else {
+			document.location.href="denglu.html";
+			
+		}
+			
+		</script>
+    <title>空调</title>
+    <link type="text/css" rel="stylesheet" href="css/newkongtiao.css" />
+
+
+
+</head>
+<body>
+<!-- 代码 开始 -->
+<h1>空调系统</h1>
+<div style="position: fixed;left: 0;right: 0">
+
+	<a href="daohang.html" ><img src="img/15.png"  height="50" width="50" / style="margin: 10px;"></a>
+	<a href="denglu.html" style="float:right;"><img src="img/17.png"  height="50" width="50" / style="margin: 10px;"></a>
+
+</div>
+<ul>
+		<input type="radio" name="radio" data-icon="客厅" onchange="ktkt()"/>
+		<input type="radio" name="radio" data-icon="主卧" onchange="zwkt()"/>
+		<input type="radio" name="radio" data-icon="次卧" onchange="cwkt()"/>
+
+</ul>
+<div class="main">
+    <div class="container">
+        <div class="box">
+            <figure class="front">
+                <select  id="sid" onchange="">
+                    <option>自动模式：</option>
+                    <option>制冷</option>
+                    <option>制热</option>
+                    <option>除湿</option>
+                </select>
+
+
+                <span id="num">18 ºC</span>
+                <div class="light-1"></div>
+                <div class="light-2" id="light"></div>
+            </figure>
+            <figure class="back"></figure>
+            <figure class="right"></figure>
+            <figure class="left"></figure>
+            <figure class="top"></figure>
+            <figure class="bottom"></figure>
+            <div class="div-1" id="div_1"></div>
+            <div class="div-1" id="div_2"></div>
+        </div><!--box-->
+    </div><!--container-->
+    <ul>
+       <li> <span id="openOrClose"><input type="checkbox" data-icon1="♀ " data-icon2="♂ "  /></span></li>
+        <li class="mymy"><span id="add">＋</span></li>
+        <li class="mymy">  <span id="reduce">－</span></li>
+        <li class="mymy"><span id="wind">风向</span></li>
+    </ul>
+
+</div><!--main-->
+
+<
+<!-- 代码 结束 -->
+<script>
+    window.onload = function(){
+
+        var getIdObject = function(id){
+            return document.getElementById(id);
+        }
+        var openOrClose = getIdObject('openOrClose'),
+                add = getIdObject('add'),
+                reduce = getIdObject('reduce'),
+                wind = getIdObject('wind'),
+                num = getIdObject('num'),
+                light = getIdObject('light'),
+                div_1 = getIdObject('div_1'),
+                div_2 = getIdObject('div_2'),
+                windStatus = 0,
+                status = 0;
+        openOrClose.onclick = function(){
+            if(!status){
+                status = 1;
+                light.className = 'light-2 active';
+            }else{
+                status = 0;
+                light.className = 'light-2';
+                windStatus = 0;
+                div_1.className = 'div-1';
+                div_2.className = 'div-1';
+            }
+        }
+        add.onclick = function(){
+            var numVal = parseInt(num.innerHTML);
+            if(!status || numVal >= 32){
+                return;
+            }else{
+                num.innerHTML = ++numVal + ' ºC';
+            }
+        }
+        reduce.onclick = function(){
+            var numVal = parseInt(num.innerHTML);
+            if(!status || numVal <= 16){
+                return;
+            }else{
+                num.innerHTML = --numVal + ' ºC';
+            }
+        }
+        wind.onclick = function(){
+            if(!status) return;
+            if(!windStatus){
+                windStatus = 1;
+                div_1.className = 'div-1 animate-cycle';
+                div_2.className = 'div-1 animate-cycle';
+            }else{
+                windStatus = 0;
+                div_1.className = 'div-1';
+                div_2.className = 'div-1';
+            }
+        }
+
+    }
+     function ktkt(){
+         var h1= document.getElementsByTagName("h1")[0];
+         h1.innerHTML = "客厅空调";
+    };
+    function zwkt(){
+        var h1= document.getElementsByTagName("h1")[0];
+        h1.innerHTML = "主卧空调";
+    };
+    function cwkt(){
+        var h1= document.getElementsByTagName("h1")[0];
+        h1.innerHTML = "次卧空调";
+    };
+
+</script>
+
+
+</body>
+</html>

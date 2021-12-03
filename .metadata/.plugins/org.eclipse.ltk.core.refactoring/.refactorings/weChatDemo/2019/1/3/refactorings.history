@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="将资源“weChatDemo/WebContent/01/images/guyudaolpgo.jpg”重命名为“guyudaologo.jpg”" description="重命名资源“guyudaolpgo.jpg”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/01/images/guyudaolpgo.jpg" name="guyudaologo.jpg" stamp="1547883229487" updateReferences="true"/>&#x0A;<refactoring accessors="true" comment="Delete element from 项目“weChatDemo”&#x0D;&#x0A;－ 原始项目：“weChatDemo”&#x0D;&#x0A;－ 原始元素：“guyudaologo.jpg”" description="删除元素" element1="WebContent/01/images/guyudaologo.jpg" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1547883355640" subPackages="false" version="1.0"/>
+</session>

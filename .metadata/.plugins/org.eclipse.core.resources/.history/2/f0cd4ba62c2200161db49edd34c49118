@@ -1,0 +1,6 @@
+led1 = 1  
+led2 = 2  
+gpio.mode(led1, gpio.OUTPUT)  
+gpio.mode(led2, gpio.OUTPUT)
+ 
+gpio.mode(3,gpio.INT) gpio.write(3, gpio.LOW) function cs(dp)if(dp==1)then gpio.trig(3, "low") else gpio.trig(3, "high")end print(gpio.read(3)..dp)end gpio.trig(3, "high",cs)

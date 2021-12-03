@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ym.js&apos; to &apos;js&apos;&#x0D;&#x0A;－ 原始项目：“ldcd”&#x0D;&#x0A;－ 目标元素：“js”&#x0D;&#x0A;－ 原始元素：“ym.js”" description="复制文件" element1="WebContent/index/ym.js" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1528122366032" target="/ldcd/WebContent/js" units="0" version="1.0"/>
+</session>

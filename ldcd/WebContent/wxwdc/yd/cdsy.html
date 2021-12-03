@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<html>
+<meta name="viewport"
+	content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css.css">
+
+
+
+
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>无锡万达城</title>
+
+
+<style>
+.li {
+	float: left;
+	width: 33%;
+	text-align: center;
+	list-style-type: none;
+}
+
+.ft {
+	display: block;
+	color: red;
+	font-size: 20px;
+	font-family: "微软雅黑";
+	line-height: 22px;
+}
+</style>
+
+
+
+</head>
+
+
+
+<body id="bodyimg">
+
+<script language="javascript">
+            function toVaild(){//判读11位电话号码
+            	var temp = document.getElementById("ff").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+            
+            function toVaild2(){//判读11位电话号码
+            	var temp = document.getElementById("f2").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+            
+    </script>
+
+
+
+	<div align="center">
+		<img alt="" src="img/head.jpg" style="width: 100%;height: 50px;"> 
+		<img alt="" src="../hwgw1_files/banner00001.jpg" style="width: 100%;"> 
+		
+		
+		<video width="100%" height="180px" src="http://www.shtrdc.com/shipin/wxwdc.mp4" controls="controls" poster="img/sptp.jpg" ></video>
+     	<h2 style="color: red;" id="tgbbn">24小时团购报名</h2>
+     	<p align="center">(活动)团购预约，可报销车费500元，即享团购价</p>
+     	<div style="background-color:#90ee90; ">
+     	<br>
+  		<form class="info_form" name="info_form" id="dataForm" action="/ldcd/wxwdcyj.jsp" method="post" target="my" onsubmit="return toVaild()">
+            <input type="text" required="required" placeholder="姓名:" name="uid"></input>  
+			<br>	<br>
+            <input type="text" required="required" placeholder="电话:" name="upwd" id='ff' ></input> 
+            <input id="xm" type='hidden'name='xm'  value=""/><script src="/ldcd/xmmc.js"></script>  
+            <br>	<br>
+
+            <button class="but" type="submit" >团购报名</button>  
+             </form> <br>
+		</div>
+     	
+	</div>
+	
+		
+	
+	
+	
+   
+
+	<div class="nav">
+		<ul>
+			<li style="background: red;"><a href="tel:4001285168" ><span><img src="img/lpxq.jpg"
+						height="40"></span><span style="color: white;">电话咨询</span></a></li>
+			<li style="background: yellow;"><a href="#tgbbn"><span><img
+						src="img/sy.jpg" height="40"></span><span style="color: blue;">团购报名</span></a></li>
+			
+		</ul>
+	</div>
+	
+	<br>
+	<h2>无锡万达城</h2>
+	<p style="color: gray;">别名:溪湾雅苑</p>
+	<h2 style="color: red;">商住: 20000元/㎡</h2>
+	<h2 style="color: red;">周边均价: 21101元/㎡</h2>
+	<h3 style="color: ;">开盘: 2018-03-26</h3>
+	<h3 style="color: ;">交房: 2020-09-30</h3>
+	<h3 style="color: ;">地址: 滨湖-太湖 蠡湖大道与具区路交叉口往南150米</h3>
+	<br><br>
+	<img alt="" src="img/dt.jpg" style="width: 100%;"> 
+	<img alt="" src="img/hxzj.jpg" style="width: 100%;"> 
+	<img alt="" src="img/hx.jpg" style="width: 100%;"> 
+	
+	<h2 style="color: red;" align="center">24小时团购报名</h2>
+	<p align="center">(活动)团购预约，可报销车费500元，即享团购价</p>
+     	<div style="background-color:#90ee90; " align="center">
+     	<br>
+  		<form class="info_form" name="info_form" id="dataForm" action="/ldcd/wxwdcyj.jsp" method="post" target="my" onsubmit="return toVaild2()">
+            <input type="text" required="required" placeholder="姓名:" name="uid"></input>  
+			<br>	<br>
+            <input type="text" required="required" placeholder="电话:" name="upwd" id='f2' ></input>  
+            <br>	<br>
+			<input id="xm1" type='hidden'name='xm'  value=""/><script  src="/ldcd/xmmc1.js"></script> 
+            <button class="but" type="submit" >团购报名</button>  
+            
+             </form> <br>
+		</div>
+	<div style="background-color:#909090; " align="center">
+		<p style="color: white;">无锡万达城</p>
+		<p style="color: white;">@万达集团</p>
+	</div>
+	<br><br><br><br>
+	<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+</body>
+
+</html>

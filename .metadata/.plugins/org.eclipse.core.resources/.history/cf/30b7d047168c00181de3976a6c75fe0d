@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style type="text/css">
+        #low_right
+        {
+            position: fixed;
+            width: 100px;
+            height: 600px;
+            background: #eee;
+            bottom: 50%;
+            right: 0px;
+            background-color: red;
+            border: 2px double yellow;
+            text-align: center;
+            padding: 0px;
+            margin: 0px;
+        }
+    </style>
+
+
+ 
+<img id="image" src="../imges/hscq3/00.jpg" onmousedown="secound(this)" onmouseup="first(this)">
+
+
+
+    <div id="low_right">
+    <button onclick="change()"><img alt="" src="../imges/hscq3/button.jpg"></button>
+    </div>
+
+
+<script>
+    function change() {
+          var x = document.getElementById("image").getAttribute("src");
+ 
+          if (x=="../imges/hscq3/00.jpg"){
+              document.getElementById("image").src="../imges/hscq3/201.jpg";
+          }
+          else{
+              document.getElementById("image").src="../imges/hscq3/00.jpg";
+          }
+          //alert(x);
+    }
+ 
+   
+</script>
+ 
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="UTF-8">
+<title>HTML</title>
+<!-- 引用css文件 1:href 文件地址 2: type 文件类型  3: rel 外部文件-->
+<link href="c01.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+	<h1>测试css测试</h1>
+</body>
+</html>

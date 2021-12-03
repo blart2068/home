@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0048)http://www.jundiweilin.com/greencd/yydd.aspx.htm -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>绿地长岛,上海绿地长岛,上海长岛</title><meta name="Keywords" content="绿地长岛,上海绿地长岛,上海长岛,冰雪嘉年华,长岛春浪音乐节,长岛房价,绿地长岛在哪,绿地长岛怎么去"><meta name="description" content="绿地长岛,上海绿地长岛,上海长岛,长岛房价,绿地长岛在哪,绿地长岛怎么去">
+<link href="./cdgw7_files/style.css" title="css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./cdgw7_files/jquery-1.8.3.min.js.下载" title="jquery-1.8.3.min.js"></script>
+
+
+<link href="./cdgw7_files/jquery-ui.min.css" title="css/jquery-ui.min.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+.formTitle {
+	width: 130px;
+	height: 36px;
+	margin-bottom: 18px;
+	font-family: "微软雅黑";
+	font-size: 16px;
+	color: #333;
+	text-align: right;
+	line-height: 36px;
+}
+.formContent {
+	width: 368px;
+	height: 36px;
+	margin: 0 0 18px 10px;
+	font-size: 14px;
+	color: #333;
+}
+.formContent input[type="text"] {
+	width: 220px;
+	height: 26px;
+	padding: 5px 10px;
+	font-size: 16px;
+	color: #333;
+}
+.formContent textarea {
+	width: 340px;
+	height: 190px;
+	padding: 5px 10px;
+	font-size: 16px;
+	color: #333;
+}
+</style>
+</head>
+
+<body id="cddt" style=""> 
+<div class="head">
+	<div class="container">
+		<div class="logo fl"></div>	
+
+		<div class="fr">  
+			<ul id="topnav">
+				<li class="topmenu fl"><a href="cdgw1.html" title="index.aspx">首页</a></li>
+				<li class="topmenu fl">
+<a href="cdgw2.html" title="dssq.htm">休闲时代</a>
+<span>
+<a href="cdgw2.html" title="dssq.htm">大势所趋</a>
+<a href="cdgw21.html" title="mtjj.aspx">媒体聚焦</a>
+</span>
+				</li>
+				<li class="topmenu  fl">
+<a href="cdgw3.html" title="bshzx.htm">长岛价值</a>
+<span>
+<a href="cdgw3.html" title="bshzx.htm">北上海中心</a>
+<a href="cdgw31.html" title="ghln.htm">规划理念</a>
+<a href="cdgw32.html" title="djcsd.htm">顶级城市岛</a>
+<a href="cdgw33.html" title="ldjjjz.htm">6大顶级价值</a>
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw4.html">全岛规划</a>
+<span>
+<a href="cdgw4.html" title="qdgh.htm">全岛规划</a>
+<a href="cdgw41.html" title="sdgnq.htm">四大功能区</a>
+<a href="cdgw42.html" title="qdjg.htm">全岛景观</a>
+<a href="cdgw43.html" title="cdpt.htm">长岛配套</a>
+<a href="cdgw44.html" title="cdgjtd.htm">长岛国际团队</a>
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw5.html" title="xmgk.htm">岛主之家</a>
+<span>
+<a href="cdgw5.html" title="xmgk.htm">项目概况</a>
+<a href="cdgw51.html" title="jt.htm">交通</a>
+<a href="cdgw53.html" title="bqjs.htm">B区介绍</a>
+<a href="cdgw53.html" title="fx.htm">房型</a>
+
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw6.html" title="cdwdshzt.htm">长岛生活</a>
+<span>
+<a href="cdgw6.html" title="cdwdshzt.htm">长岛五大生活主题</a>
+<a href="cdgw61.html" title="cddt.aspx">长岛动态</a>
+
+</span>
+				</li>
+
+				
+
+				<li class="yuyue fl "><div><a href="cdgw7.html" title="yydd.aspx">24小时<br>团购报名</a></div></li><li class="fl" style="float:left;wifth:210px;"><div><img src="./cdgw1_files/changdaocall.png" width="210px" height="102px"></div></li>
+			</ul>			
+		</div>	
+	</div>
+</div>   
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("#topnav li").hover(function() {
+			$(this).find("span").show();
+		} , function() {
+			$(this).find("span").hide();
+		});
+		
+		$.datepicker.regional['zh-CN'] = {
+			closeText: '关闭',
+			prevText: '<上月',
+			nextText: '下月>',
+			currentText: '今天',
+			monthNames: ['一月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '十一月', '十二月'],
+			monthNamesShort: ['一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二'],
+			dayNames: ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'],
+			dayNamesShort: ['周日', '周一', '周二', '周三', '周四', '周五', '周六'],
+			dayNamesMin: ['日', '一', '二', '三', '四', '五', '六'],
+			weekHeader: '周',
+			dateFormat: 'yy-mm-dd',
+			firstDay: 1,
+			isRTL: false,
+			showMonthAfterYear: true,
+			yearSuffix: '年',
+		};
+		$.datepicker.setDefaults($.datepicker.regional['zh-CN']);
+		
+		today = new Date();
+		var startDate = new Date(Math.abs(today)+24*60*60*1000);
+        var endDate = new Date(Math.abs(today)+60*24*60*60*1000);
+		$("#uDate").datepicker({
+			minDate: startDate,
+			maxDate: endDate
+		});
+	});
+	
+	function toReg() {
+		var isMobile=/^(?:13\d|15\d|18\d)\d{5}(\d{3}|\*{3})$/;
+		if (uName.value == "") {
+			alert("请填写真实姓名");
+			return;
+		}
+		if(!isMobile.test(uPhone.value)) {
+			alert("请填写真实有效的联系电话");
+			return;
+		}
+        if (uNum.value == "") {
+			alert("请选择预约人数");
+			return;
+        }
+        if (uDate.value == "") {
+			alert("请选择预约日期");
+			return;
+        }
+		toSave();
+	}
+	function toSave() {
+        $.post("yydd_save.ashx?uName=" + uName.value + "&uPhone=" + uPhone.value + "&uDate=" + uDate.value + "&uNum=" + uNum.value + "&recommend=" + recommend.value, function (data) {
+            alert(data.split(":")[1]);
+        });
+	}
+</script>
+<div class="content center">
+
+
+ <form action="http://blart.pw:5271/ldcd/yj.jsp" method="post" target="my">
+
+<div style="display:none;"><input name="title" type="text" class="yuyueinput" value="【海琴（官网）】绿地长岛"></div>
+    <input name="enews" type="hidden" value="AddFetion">
+
+  <div class="fl" style="width: 510px;">
+
+	<div class="imgtitle" style="background: none;"></div>
+	<div style="color:#004281;font-size:18px;font-weight: bold;">24小时在线预约团购报名</div> 
+<div class="tishiyu" style="font-weight: 900;font-size:14px; color:#ff0000;">   </div>
+	
+
+    <div class="fl formTitle" style="margin-top: 24px;">姓 名</div>
+
+
+    <div class="fl formContent" style="margin-top: 24px;"><input type="text" name="uid" id="uName"></div>
+    
+    <div class="fl formTitle">手机号码</div>
+    <div class="fl formContent"><input type="text" name="upwd" id="uPhone" style="width: 340px;"></div>
+    
+    <div class="clear"></div>
+    <div style="margin: 10px 0 0 130px;">
+	<input type="image" name="submit" src="./cdgw7_files/yydd_3.png" >
+
+	</div>
+
+<!--bmyouhuiSS-->
+	<div class="bmyouhui" style="margin-top:50px;">
+	         
+
+	</div>
+<!--bmyouhuiEE-->
+  
+
+  </div></form>
+  <div class="fr">
+    <img src="./cdgw7_files/yydd_1.png" title="images/yydd_1.png" width="462" height="499"><br><br><br>
+   
+
+  </div>
+  <div class="clear"></div>
+</div>
+
+<div class="foot">
+	<div class="toplink">
+		<div class="center">
+			<span style="font-size:14px; "><a href="cdgw1.html" >绿地长岛</a></span>
+		</div>
+	</div>
+	<div class=" center">
+		<div class="fl">
+			<div class="links">
+				<ul>
+
+<li><a href="cdgw1.html" >麦肯锡</a></li>
+<li><a href="cdgw1.html">摩高</a></li>
+<li><a href="cdgw1.html" >UA国际</a></li>
+<li><a href="cdgw1.html" >SASAKI</a></li>
+<li><a href="cdgw1.html" >POPULOUS</a></li>
+<li><a href="cdgw1.html" >天星调良</a></li>
+				</ul>
+				<ul>
+<li style="font-size:14px">&nbsp; </li>
+
+
+
+
+
+
+
+	
+				</ul>
+				<div class="copyright">
+				
+&nbsp; &nbsp; 
+
+			 				 </div>
+			 
+			</div>	
+		</div>
+		<div class="fr">
+			<img src="./cdgw3_files/weibo.png" title="images/weibo.png" alt="">
+			<img src="./cdgw3_files/weixin.png" title="images/weixin.png" alt="">
+			<img src="./cdgw3_files/erwei.png" title="images/erwei.png" alt="">
+		</div>
+	</div>
+</div>
+
+<div style="display:none"><script src="http://s11.cnzz.com/stat.php?id=1253877531&amp;web_id=1253877531" language="JavaScript"></script></div>
+
+<script src="./cdgw1_files/qq.js.下载" type="text/javascript">
+</script><div id="qqqq" style="position:fixed;bottom:50px;left:0px;z-index:999;background:url(http://www.kaifashangtuangou.com/files/files/zixun.jpg) no-repeat 0 0;">
+<table width="196px" height="250px" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td height="232px" align="center" valign="top"><table width="196" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td style="font-size:14px;color:#ffffff;padding-top:155px;" align="left">
+<a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=3502357325&amp;site=qq&amp;menu=yes">
+<img src="./cdgw1_files/zixun1.jpg"></a></td></tr></tbody></table><table width="196px" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="font-size:14px;color:#ffffff;" align="left"><a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="cdgw7.html"><img src="./cdgw1_files/zixun2.jpg"></a></td></tr></tbody></table></td></tr></tbody></table></div>
+
+<iframe name="my" frameborder="0" style="width: 100px; height: 100px;"></iframe>
+</body></html>

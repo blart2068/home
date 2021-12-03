@@ -1,0 +1,19 @@
+package ldcd;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+ 
+ 
+public class jl {
+    public static void main(String args[]){
+        try {
+            FileOutputStream f=new FileOutputStream("d:/test1111.txt",true);
+            f.write("\r\nÄãºÃ,this is a demo".getBytes());
+            f.close();
+        } catch (Exception e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+    }
+}
+	

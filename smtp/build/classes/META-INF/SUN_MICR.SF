@@ -1,0 +1,28 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: rTYIYvJrrDzdLdeUTZU/o1mtTZg=
+Created-By: 1.3.1_04 (Sun Microsystems Inc.)
+
+Name: com/sun/mail/smtp/SMTPSSLTransport.class
+SHA1-Digest: hF2D3A+kQQvpRdRg1n4X8h22XCk=
+
+Name: com/sun/mail/smtp/SMTPOutputStream.class
+SHA1-Digest: 0p1kVNZYH8abdcatkA58cVyFCp4=
+
+Name: com/sun/mail/smtp/SMTPAddressFailedException.class
+SHA1-Digest: LLTQjng9fQWXFrTqdEMBq+QKfbo=
+
+Name: com/sun/mail/smtp/SMTPAddressSucceededException.class
+SHA1-Digest: MaHaONlTAgpTducqSj/OimXDDIg=
+
+Name: com/sun/mail/smtp/SMTPMessage.class
+SHA1-Digest: 6AqUF8o+8r1/7SnWHHfhXbxTz0s=
+
+Name: com/sun/mail/smtp/DigestMD5.class
+SHA1-Digest: 9mHKfCdjUq20HAoz8L0z1ZqhVPg=
+
+Name: com/sun/mail/smtp/SMTPTransport.class
+SHA1-Digest: BchC/dWz/bppdF1W8NlZr2E2Jq8=
+
+Name: com/sun/mail/smtp/SMTPSendFailedException.class
+SHA1-Digest: CJy68VpzT8EwWxk/ElcruxwYpf0=
+

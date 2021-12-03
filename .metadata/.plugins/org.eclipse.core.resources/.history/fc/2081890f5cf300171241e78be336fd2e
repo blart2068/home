@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)http://www.jundiweilin.com/greencd/ghln.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>绿地长岛,上海绿地长岛,上海长岛</title><meta name="Keywords" content="绿地长岛,上海绿地长岛,上海长岛,冰雪嘉年华,长岛春浪音乐节,长岛房价,绿地长岛在哪,绿地长岛怎么去"><meta name="description" content="绿地长岛,上海绿地长岛,上海长岛,冰雪嘉年华,长岛春浪音乐节,长岛房价,绿地长岛在哪,绿地长岛怎么去">
+
+    <link href="./cdgw31_files/style.css" title="css/style.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="./cdgw31_files/jquery-1.8.3.min.js.下载" title="jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="./cdgw31_files/jquery.cycle.js.下载" title="jquery.cycle.js"></script>
+    <style>
+        .left {
+            float: left;
+        }
+
+        .block {
+            margin: 10px 0px;
+        }
+
+            .block .left span {
+                display: block;
+                font-family: "Microsoft YaHei";
+                height: 37px;
+                text-align: center;
+                background-color: #eaf4fa;
+                line-height: 37px;
+            }
+    </style>
+</head>
+
+<body id="index" style="">
+
+<div class="head">
+	<div class="container">
+		<div class="logo fl"></div>	
+
+		<div class="fr">  
+			<ul id="topnav">
+				<li class="topmenu fl"><a href="cdgw1.html" title="index.aspx">首页</a></li>
+				<li class="topmenu fl">
+<a href="cdgw2.html" title="dssq.htm">休闲时代</a>
+<span>
+<a href="cdgw2.html" title="dssq.htm">大势所趋</a>
+<a href="cdgw21.html" title="mtjj.aspx">媒体聚焦</a>
+</span>
+				</li>
+				<li class="topmenu  fl">
+<a href="cdgw3.html" title="bshzx.htm">长岛价值</a>
+<span>
+<a href="cdgw3.html" title="bshzx.htm">北上海中心</a>
+<a href="cdgw31.html" title="ghln.htm">规划理念</a>
+<a href="cdgw32.html" title="djcsd.htm">顶级城市岛</a>
+<a href="cdgw33.html" title="ldjjjz.htm">6大顶级价值</a>
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw4.html">全岛规划</a>
+<span>
+<a href="cdgw4.html" title="qdgh.htm">全岛规划</a>
+<a href="cdgw41.html" title="sdgnq.htm">四大功能区</a>
+<a href="cdgw42.html" title="qdjg.htm">全岛景观</a>
+<a href="cdgw43.html" title="cdpt.htm">长岛配套</a>
+<a href="cdgw44.html" title="cdgjtd.htm">长岛国际团队</a>
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw5.html" title="xmgk.htm">岛主之家</a>
+<span>
+<a href="cdgw5.html" title="xmgk.htm">项目概况</a>
+<a href="cdgw51.html" title="jt.htm">交通</a>
+<a href="cdgw53.html" title="bqjs.htm">B区介绍</a>
+<a href="cdgw53.html" title="fx.htm">房型</a>
+<a href="cdgw54.html" title="jgsjzs.htm">景观、实景展示</a>
+</span>
+				</li>
+				<li class="topmenu fl">
+<a href="cdgw6.html" title="cdwdshzt.htm">长岛生活</a>
+<span>
+<a href="cdgw6.html" title="cdwdshzt.htm">长岛五大生活主题</a>
+<a href="cdgw61.html" title="cddt.aspx">长岛动态</a>
+
+</span>
+				</li>
+
+				
+
+				<li class="yuyue fl "><div><a href="cdgw7.html" title="yydd.aspx">24小时<br>团购报名</a></div></li><li class="fl" style="float:left;wifth:210px;"><div><img src="./cdgw1_files/changdaocall.png" width="210px" height="102px"></div></li>
+			</ul>			
+		</div>	
+	</div>
+</div>   
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $("#topnav li").hover(function () { //Hover over event on list item
+
+                $(this).find("span").show(); //Show the subnav
+            }, function () { //on hover out...
+
+                $(this).find("span").hide(); //Hide the subnav
+            });
+            // 菜单
+
+            // banner
+            $(function () {
+                $('#banner').cycle({
+                    fx: 'scrollHorz',
+
+
+                    next: '#btnright',
+                    prev: '#btnleft'
+                });
+                $('#indexnews').cycle({
+                    fx: 'scrollHorz',
+
+
+                    next: '#btnright2',
+                    prev: '#btnleft2'
+                });
+            })
+
+        });
+    </script>
+
+
+
+    <div class="content center">
+        <div><img src="./cdgw31_files/cdjz-ghln_03.png" title="images/cdjz-ghln_03.png"></div>
+    </div>
+    <div class="content2 center">
+        <div class="block" style="height:282px;">
+            <img src="./cdgw31_files/cdjz-ghln_14.png" title="images/cdjz-ghln_14.png" class="left" style="margin-right:6px;">
+
+            <img src="./cdgw31_files/cdjz-ghln_14-16.png" title="images/cdjz-ghln_14-16.png" class="left">
+        </div>
+        <div class="block" style="height:390px;">
+            <div><img src="./cdgw31_files/cdjz-ghln_07.png" title="images/cdjz-ghln_07.png"></div>
+        </div>
+        <div class="block" style="height:236px;">
+            <div class="left" style="margin-right:6.5px;">
+                <span>类似摩纳哥的海洋度假生活</span>
+                <img src="./cdgw31_files/cdjz-ghln_14-22.png" title="images/cdjz-ghln_14-22.png">
+            </div>
+            <div class="left" style="margin-right:6.5px;">
+                <span>类似纽约伦敦的精彩都市生活</span>
+                <img src="./cdgw31_files/cdjz-ghln_14-24.png" title="images/cdjz-ghln_14-24.png">
+            </div>
+            <div class="left">
+                <span>类似澳洲的自然湿地生活</span>
+                <img src="./cdgw31_files/cdjz-ghln_14-26.png" title="images/cdjz-ghln_14-26.png">
+            </div>
+        </div>
+        <div class="block" style="height:238px;">
+            <div class="left" style="margin-right:6px;">
+                <span>类似纽约中央公园的大型公园生活</span>
+                <img src="./cdgw31_files/cdjz-ghln_14-30.png" title="images/cdjz-ghln_14-30.png">
+            </div>
+            <div class="left">
+                <span>类似体育公园的运动主题生活</span>
+                <img src="./cdgw31_files/cdjz-ghln_14-32.png" title="images/cdjz-ghln_14-32.png">
+            </div>
+        </div>
+    </div>
+<div class="foot">
+	<div class="toplink">
+		<div class="center">
+			<span style="font-size:14px; "><a href="cdgw1.html" >绿地长岛</a></span>
+		</div>
+	</div>
+	<div class=" center">
+		<div class="fl">
+			<div class="links">
+				<ul>
+
+<li><a href="cdgw1.html" >麦肯锡</a></li>
+<li><a href="cdgw1.html">摩高</a></li>
+<li><a href="cdgw1.html" >UA国际</a></li>
+<li><a href="cdgw1.html" >SASAKI</a></li>
+<li><a href="cdgw1.html" >POPULOUS</a></li>
+<li><a href="cdgw1.html" >天星调良</a></li>
+				</ul>
+				<ul>
+<li style="font-size:14px">&nbsp; </li>
+
+
+
+
+
+
+
+	
+				</ul>
+				<div class="copyright">
+				
+&nbsp; &nbsp; 
+
+			 				 </div>
+			 
+			</div>	
+		</div>
+		<div class="fr">
+			<img src="./cdgw3_files/weibo.png" title="images/weibo.png" alt="">
+			<img src="./cdgw3_files/weixin.png" title="images/weixin.png" alt="">
+			<img src="./cdgw3_files/erwei.png" title="images/erwei.png" alt="">
+		</div>
+	</div>
+</div>
+
+<div style="display:none"><script src="http://s11.cnzz.com/stat.php?id=1253877531&amp;web_id=1253877531" language="JavaScript"></script></div>
+
+<script src="./cdgw1_files/qq.js.下载" type="text/javascript">
+</script><div id="qqqq" style="position:fixed;bottom:50px;left:0px;z-index:999;background:url(http://www.kaifashangtuangou.com/files/files/zixun.jpg) no-repeat 0 0;">
+<table width="196px" height="250px" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td height="232px" align="center" valign="top"><table width="196" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+<td style="font-size:14px;color:#ffffff;padding-top:155px;" align="left">
+<a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2918894533&amp;site=qq&amp;menu=yes">
+<img src="./cdgw1_files/zixun1.jpg"></a></td></tr></tbody></table><table width="196px" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="font-size:14px;color:#ffffff;" align="left"><a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" href="cdgw7.html"><img src="./cdgw1_files/zixun2.jpg"></a></td></tr></tbody></table></td></tr></tbody></table></div>
+
+
+</body></html>

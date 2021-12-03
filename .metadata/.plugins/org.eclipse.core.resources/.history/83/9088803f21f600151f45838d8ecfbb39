@@ -1,0 +1,7 @@
+package tank;
+
+import javax.swing.*;
+
+public class Mypanel extends JPanel{
+
+}

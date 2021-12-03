@@ -1,0 +1,116 @@
+.bottomNav{
+	display: none;
+	width: 100%;
+	height: 76px;
+	background-color: #454851;
+	position: fixed;
+	bottom: 0;
+	z-index: 20;
+}
+.bottomNav2{background-color: #fff !important;}
+/*.bottomNav2 a{color: #333!important;}*/
+.bottomNav2 .bN-btn{border-left: 1px solid #d7d7d7;border-right: 1px solid #d7d7d7;}
+.bottomNav2 .bN-btn span{margin-top: 48px; display: block; color: #333 !important;}
+.bottomNav2 .bN-btn:hover{background-color: rgba(255,0,0,0.6) !important;}
+.bottomNav2 .bN-btn:hover span{color: #fff!important;}
+
+.bottomNav .bottomNav-menu{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+.bottomNav a{
+	text-decoration: none;
+}
+.bottomNav .bN-btn,.bNItem{
+	width: 33%;
+	height: 100%;
+	text-align: center;
+	float: left;
+	position: relative;
+	cursor: pointer;
+	transition: all 0.5s;
+}
+.bottomNav .bN-btn:hover{
+	background-color: #00923f;
+}
+.bottomNav .bottomNav-share .bNItem:hover{
+	background-color: rgba(0,0,0,0.08);
+}
+.bottomNav .img-phone{
+	background: url(phone.png) no-repeat center 12px;
+}
+.bottomNav .img-qq{
+	background: url(qq.png) no-repeat center 12px;
+}
+.bottomNav .img-qr{
+	background: url(qr.png) no-repeat center 12px;
+}
+.bottomNav .img-share{
+	background: url(share.png) no-repeat center 12px;
+}
+
+
+.bottomNav2 .img-phone2{background: url(icon_phone2.png) no-repeat center 12px; background-size: 30px;}
+.bottomNav2 .img-car{background: url(icon_car.png) no-repeat center 14px;background-size: 30px;}
+.bottomNav2 .img-message{background: url(icon_message.png) no-repeat center 10px;background-size: 30px;}
+.bottomNav2 .img-time{background: url(icon_time.png) no-repeat center 12px;background-size: 30px;}
+
+.bottomNav .bN-btn span{
+	display: block;
+	width: 100%;
+	margin-top: 48px;
+	color: #e6e6e6;
+	font-size: 0.9em;
+}
+.bottomNav .bottomNav-qr{
+	display: none;
+	position: absolute;
+	width: 100%;
+	margin-top: -320px;
+}
+.bottomNav .qr-img{
+	width: 200px;
+	height: 200px;
+	background-color: #fff;
+	margin: auto;
+	border-radius: 10px;
+	box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+	padding: 5px;
+}
+.bottomNav .qr-img img{
+	width: 100%;
+}
+.bottomNav .bottomNav-share{
+	display: none;
+	width: 100%;
+	position: absolute;
+	margin-top: -170px;
+}
+.bottomNav .share-menu{
+	width: 95%;
+	height: 70px;
+	background-color: #fff;
+	margin: auto;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px rgba(0,0,0,0.2);
+	padding: 5px;
+}
+.bottomNav .share-qzone{
+	background: url(qzone.png) no-repeat center center;
+}
+.bottomNav .share-weibo{
+	background: url(weibo.png) no-repeat center center;
+}
+.bottomNav .share-renren{
+	background: url(renren.png) no-repeat center center;
+}
+.bottomNav .share-weixin{
+	background: url(weixin.png) no-repeat center center;
+}
+@media (max-width: 768px){
+
+	.bottomNav{
+		display: inherit;
+	}
+}

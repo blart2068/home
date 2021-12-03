@@ -1,0 +1,22 @@
+﻿//读取域名
+ym=document.domain; 
+document.getElementById("p2").innerText= "新房网www.shfangzhixiao.com隶属于上海劲港房地产营销策划有限公司。";
+if (ym=="www.shfangzhixiao.com") { //document.write(ym)
+	//劲港  
+	document.getElementById("p2").innerText= "新房网www.shfangzhixiao.com隶属于上海劲港房地产营销策划有限公司。"; 
+	 //document.getElementById("p").innerText= "nice";  
+	 
+	 
+}else if(ym=="www.shtrdc.com"){
+	//台仁
+	document.getElementById("p2").innerText= "新房网www.shtrdc.com隶属于上海台仁房地产营销策划有限公司。"; 
+}else if(ym=="www.ghbgs.com"){
+	//屏歌
+	document.getElementById("p2").innerText= "新房网www.ghbgs.com隶属于上海屏歌房地产营销策划有限公司。";
+}else if(ym=="www.lwjkjdsn.com"){
+	//郦湾
+	document.getElementById("p2").innerText= "新房网www.lwjkjdsn.com隶属于上海郦湾房地产营销策划有限公司。";
+}else if(ym=="www.cshzjdc.com"){
+	//舟津
+	document.getElementById("p2").innerText= "新房网www.cshzjdc.com隶属于上海舟津房地产经纪中心。";
+}

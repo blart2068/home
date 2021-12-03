@@ -1,0 +1,452 @@
+@charset "utf-8";
+
+#wrap{
+    position: relative;
+    width:736px;
+    margin:auto;
+}
+/* 头部开始 */
+#wrap header{
+    position: fixed;
+    top:0;
+    left:7px;
+   width:736px;
+   height:142px; 
+    margin:auto;
+   z-index: 99;
+   background-color:#fff; 
+}
+
+.headtop{
+    width:736px;
+    margin:auto; 
+    font-size: 0; 
+}
+.headtop>div{
+    display: inline-block;
+    height:75px;
+   
+    vertical-align: top;
+}
+.headtel{
+    width:301px;
+    color:#6ebccb;
+}
+.headtel .icon-tel{
+    font-size: 40px;
+}
+#wrap .nav{
+    width:100%;
+    margin:auto;
+    font-size:0;
+    padding-bottom: 10px;
+    background-color:#fff;
+}
+#wrap .nav li{
+    display: inline-block;
+    width:113px;
+    height:54px;
+    background-color:#6ebccb;
+    text-align: center;
+    line-height: 54px;   
+}
+#wrap .nav li+li{
+    margin-left:11.6px;
+    
+}
+#wrap .nav li:hover{
+    background-color:#ccc;
+
+}
+#wrap .nav li:hover a{
+    color:#FFF;
+}
+#wrap .nav li>a{
+    color:#fff;
+    font-size:24px;
+    cursor: pointer;
+}
+
+
+/* 头部结束 */
+
+/* 轮播 */
+#wrap .banner{
+    margin-top:152px;
+    width:100%;
+    height:500px;
+    
+}
+
+/* 轮播结束*/
+
+
+/* 项目优势开始 */
+.youshi{
+    width:690px;
+    margin:auto;
+}
+
+.youshi .youshi_con ul{font-size: 0;}
+.youshi .youshi_con li{
+    display: inline-block;
+}
+.youshi .youshi_con li:nth-child(even){
+    margin-left:14px;
+}
+.youshi .youshi_con li:nth-child(3),.youshi .youshi_con li:nth-child(4),.youshi .youshi_con li:nth-child(5),.youshi .youshi_con li:nth-child(6){
+    margin-top:14px;
+}
+
+/* 项目优势结束 */
+/* 户型品鉴 */
+.huxinbtn{
+    margin-bottom: 5px;
+}
+.huxinbtn ul{
+    font-size:0;
+}
+.huxinbtn ul+ul{
+    margin-top:2px;
+}
+.huxinbtn li{
+    display: inline-block;
+    width:146.2px;
+    height:50px;
+    font-size:20px;
+    border:1px solid #EDA231;
+    background-color:#fff;
+    line-height: 50px;
+    color:#000;
+    cursor: pointer;
+   
+}
+.huxinbtn li+li{
+    
+    margin-left:5px;
+}
+.huxinbtn li:hover{
+    background-color :#6ebccb;
+    color:#fff;
+    border:none;
+}
+.hu_btn.on{
+    background-color :#6ebccb;
+    color:#fff;
+    border:none;
+}
+.huxinbtn li:hover a{
+    color:#fff;
+}
+.huxinbtn li a{
+    color:#000;
+}
+/* 户型图片和文字 */
+.huxin-content{
+    position: relative;
+    display: none;
+    width:736px;
+    height:535px;
+    color:#fff;
+}
+.huxin-content.on{
+    display:block;
+}
+.huxin-con-right-wrap{
+    position: absolute;
+    
+    top:0;
+    left:0;
+    width:100%;
+    height: 210px;
+    padding: 182.5px 0; 
+    
+}
+.huxin-con-right-wrap:hover{
+    background-color:rgba(0, 0, 0, .5);
+}
+.huxin-con-right-wrap:hover .huxin-con-right{
+    display: block;
+}
+.huxin-con-right{
+   display: none;
+    width:375px;
+    height: 210px;
+    margin:auto;
+}
+.huxin-con-right h3{
+    margin-bottom:3px;
+}
+.huxin-con-right h4{
+    margin-bottom:5px;
+}
+.huxin-con-right h2>i{
+    color:#fff;
+    margin-left:3px;
+    margin-right:3px;
+}
+.huxin-con-right div{
+    width:60px;
+    height:3px;
+    margin:auto;
+    background-color:#384395;
+    margin-bottom:5px;   
+}
+/* 立即咨询 */
+.nowask{
+    display: block;
+    margin:auto;
+    margin-top:18px;
+    width:50%;
+    height:30px;
+    font-size:16px;
+    color:#fff;
+ 
+    text-align:center;
+    line-height: 30px;
+    background-color:#6ebccb;
+}
+.nowask a{
+    color:#fff;
+}
+/* 立即咨询介绍 */
+
+/* 户型品鉴结束 */
+/* 物业 */
+
+/* 物业 */
+/* 投资价值开始 */
+.touzi{
+    width:690px;
+    margin:auto;
+}
+.touzi_con{
+    width:690px;
+    background-color:#fafafa;
+    overflow: hidden;
+
+}
+.touzi_con_big{
+    display: none;
+}
+.touzi_con_big.on{
+    display: block;
+}
+
+.touzi_con ul{
+    position: relative;
+    width:680px;
+    height: 490px;
+    margin:auto;
+    overflow: hidden;
+    font-size:0;
+}
+.touzi_con ul li{
+    position: absolute;
+    top: 0;
+    left:0;
+    width:680px;
+    height: 490px;
+}
+
+.touzi_scon{
+    width:690px;
+    height: 100px;
+    padding:4px 0;
+    background-color:#fafafa;
+    
+}
+.touzi_scon>div{
+    width:680px;
+    height: 100px;
+    margin: 0 5px;
+    overflow: hidden;
+}
+.touzi_scon ul{
+    width:855px;
+    height: 100px;
+    background-color:#fff;
+    font-size: 0;
+    margin:auto;
+}
+.touzi_scon ul li{
+    position: relative;
+    display: inline-block;
+    width:160px;
+    height: 100px;
+}
+.touzi_scon .touzi_scon_zhezhao{
+    position: absolute;
+   
+    top:0;
+    left:0;
+    width:100%;
+    height: 100%;
+    background-color:rgba(0, 0, 0, .5);
+}
+.touzi_scon .touzi_scon_zhezhao.on{
+    display:none;
+}
+.touzi_scon img{
+    display: block;
+    width: 100%;
+    height: 100px;
+}
+/* .touzi_scon ul li+li{
+    margin-left:13px;
+} */
+/* 投资价值结束 */
+
+
+/* 专业服务 */
+.sevice{
+    width:690px;
+    margin:auto;
+}
+.sevice .sevice_text ul{
+    font-size: 0;
+}
+.sevice .sevice_text ul li{
+    display: inline-block;
+    width:100%;
+    height:130px;
+    font-size: 0;
+}
+.sevice_text li div{
+    display: inline-block;
+}
+.sevice_text li div img{
+    display: block;
+    
+}
+.sevice_textcon{
+    height: 130px;
+    vertical-align: top;
+}
+.sevice_textcon h3{
+    font-size: 30px;
+    margin-top:30px;
+    font-weight: normal;
+}
+.sevice_textcon p{
+    font-size: 20px;
+    margin-top:5px;
+}
+/* 专业服务结束 */
+/* 看房showing开始 */
+.showing{
+    width:690px;
+    margin:auto;
+    margin-bottom: 100px;
+}
+.showing_con{
+    width:640px;
+    margin:auto;
+}
+.showing_con ul{
+    width:100%;
+    margin-top:45px;
+}
+.showing_con ul li{
+    width:100%;
+    height:127px;
+    margin-top:5px;
+    padding-top:15px;
+    background-color:#f8f8f8;
+}
+.showing_con .showing_text{
+    width:540px;
+    margin:auto;
+}
+.showing_text div{
+    width:200px;
+    height:38px;
+    line-height: 38px;
+    font-size: 38px;
+    color:#323232;
+    
+    margin:auto;
+    
+}
+.showing_text p{
+    font-size: 25px;
+    text-align: center;
+    margin-top:15px;
+    color:#b3b3b3;
+}
+.showing_text span{
+    margin-left:10px;
+}
+.showing_con img{
+    display:inline-block;
+    vertical-align:top;
+    width:38px;
+}
+/* 看房showing结束 */
+.showing_text .showing_tel{
+    font-weight:bold;
+    font-size:24px;
+    animation: big 3.5s infinite;
+    -webkit-animation: big 3.5s infinite;
+    color:#EDA231;
+}
+@keyframes big{
+    0%, 100% {
+        -webkit-transform: translateX(0) scale(1);
+    }
+    10%,
+    30%,
+    50%,
+    70%,
+    90% {
+        -webkit-transform: translateX(-5px) scale(1.2);
+    }
+    20%,
+    40%,
+    60%,
+    80% {
+        -webkit-transform: translateX(5px) scale(1.4);
+    }
+}
+@-webkit-keyframes big{
+    0%, 100% {
+        -webkit-transform: translateX(0) scale(1);
+    }
+    10%,
+    30%,
+    50%,
+    70%,
+    90% {
+        -webkit-transform: translateX(-5px) scale(1.5);
+    }
+    20%,
+    40%,
+    60%,
+    80% {
+        -webkit-transform: translateX(5px) scale(1.8);
+    }
+}
+.ing{
+    display:inline-block;
+    color:#DD5E0E;
+    font-size:24px;
+    font-weight: bold;
+    animation: tada 1s infinite;
+    -webkit-animation: tada 1s infinite;
+}
+@keyframes tada{
+    0%{transform:scale(1);}
+    10%,20%{transform:scale(0.9) rotate(-3deg);}
+    30%,50%,70%,90%{transform:scale(1.2) rotate(3deg);}
+    40%,60%,80%{transform:scale(1.2) rotate(-3deg);}
+    100%{transform:scale(1) rotate(0);}
+}
+
+@-webkit-keyframes tada{
+    0%{-webkit-transform:scale(1);}
+    10%,20%{-webkit-transform:scale(0.9) rotate(-3deg);}
+    30%,50%,70%,90%{-webkit-transform:scale(1.2) rotate(3deg);}
+    40%,60%,80%{-webkit-transform:scale(1.2) rotate(-3deg);}
+    100%{-webkit-transform:scale(1) rotate(0);}
+}
+

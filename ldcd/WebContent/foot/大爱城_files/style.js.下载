@@ -1,0 +1,18 @@
+// JavaScript Document
+
+$(function(){
+	$('.maximg img').css({"max-width":"100%"});
+	function imgs (){
+		var pmW = $(window).width();
+		if ( pmW <= 991 ){
+			$('body').removeClass('hover')
+		}else{
+			$('body').addClass('hover')
+		}
+	}
+	imgs();	
+	$(window).resize(function(){
+		imgs()
+	})
+})
+						

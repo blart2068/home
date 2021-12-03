@@ -1,0 +1,114 @@
+
+<!-- saved from url=(0043)/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="stylesheet" type="text/css" href="css/qmyx.css">
+<title>新房网</title>
+
+
+
+
+
+<script language="javascript">
+            function toVaild(){//判读11位电话号码
+            	var temp = document.getElementById("ff").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+    </script>
+
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="">
+<div style="text-align: center;">
+<div align="center" class="sz"><img src="img/index_1.jpg" width="1000" height="77" alt=""></div>
+
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+	<tbody><tr>
+		<td colspan="3">
+			<img src="img/index_2.jpg" width="1000" height="429" alt=""></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="img/index_3.jpg" width="1000" height="118" alt=""></td>
+			
+	</tr>
+</tbody>
+
+</table>
+<h1 style="font-size: 50px;color: red;">进行中的团购活动项目:</h1>
+	<div >
+	
+ 		<div  >
+		          <div class="fanglistaimg"><a target="_blank" href="http://www.jundiweilin.com/ldcd/cdgw/cdgw1.html">
+		          <img src="./index_files/lvcd.jpg" width="600px" height="200px"></a></div>
+                  <div class="fanglistatt1"><span class="fanglistattname1"style="font-size: 40px;">绿地长岛</span></div>
+				  
+				  <div class="fanglistatt2"><div class="fanglistattname2" style="font-size: 40px;">参考均价</div></div>
+				  <div class="fanglistatt3"><div class="fanglistattname3"style="font-size: 40px;">12000元/㎡</div></div>
+		 </div><br><br>
+		 <div  >
+		          <div class="fanglistaimg"><a target="_blank" href="http://www.jundiweilin.com/ldcd/hwgw/hwgw1.html">
+		          <img src="./index_files/ldhw.jpg" width="600px" height="200px"></a></div>
+                  <div class="fanglistatt1"><span class="fanglistattname1"style="font-size: 40px;">绿地海湾</span></div>
+				 
+				  <div class="fanglistatt2"><div class="fanglistattname2"style="font-size: 40px;">参考均价</div></div>
+				  <div class="fanglistatt3"><div class="fanglistattname3"style="font-size: 40px;">100000元/㎡</div></div>
+		 </div>
+		</div>
+	</div>
+
+		
+        <div style="text-align: center;">
+        <div>
+        	<img alt="" src="./index_files/2wm.jpg">
+        	<h2 style="color: red;">团购网活动细则:</h2>
+        	<h2>1) 扫描上图二维码关注团购网公众号</h2>
+        	<h2>2) 填写报名信息获取团购优惠码</h2>
+        	<h2>3) 进入公众号分享或推荐活动中的团购项目</h2>
+        	<h2> 推荐方和购买方都能获得现金奖励哦!!</h2>
+        	<h2>4)更多详情请关注公众号后咨询或来电询问 </h2>
+        </div>
+
+       
+  		<form action="/weChatDemo/ldcd2/tgm.jsp" method="post" target="my" onsubmit="return toVaild()">
+            <input type="text" required="required" placeholder="姓名:" name="uid"></input>  
+			<br>	<br>
+            <input type="text" required="required" placeholder="电话:" name="upwd" id='ff' ></input>  
+            <br>	<br>
+
+            <button class="but" type="submit" >点击获团购优惠码</button>  
+             </form> 
+      		<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+    </div>  
+   
+	
+	
+	
+	
+		
+			<div>
+			  <div align="center">
+			    <p class="STYLE2">&nbsp;</p>
+			    <p class="STYLE3"><a href="index.html">首页</a> / <a href="gywm.html">关于我们</a> / <a href="lxwm.html">联系我们</a></p>
+			    <p class="STYLE3">新房网 - <a href="http://www.miibeian.gov.cn/">沪ICP备16006605号-1</a></p>
+			  </div>
+			</div>
+	
+	
+
+<!-- End ImageReady Slices -->
+
+
+<!--hongbaoend-->
+
+
+
+</body></html>

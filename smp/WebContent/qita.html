@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>导航</title>
+<link type="text/css" rel="stylesheet" href="css/datouwang.css" />
+<meta name="viewport"
+	content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0"> 
+    
+    <script language=javascript>
+    	var yhm = sessionStorage.getItem("yhm");
+    	if (yhm=="8888") {
+			
+		}else {
+			document.location.href="denglu.html";
+			
+		}
+			
+		</script>
+    
+</head>
+<body id="daohang">
+<!-- 代码 开始 -->
+	<h1>其他设备</h1>
+	<div style="position: fixed;left: 0;right: 0">
+
+	<a href="daohang.html" ><img src="img/15.png"  height="50" width="50" / style="margin: 10px;"></a>
+	<a href="denglu.html" style="float:right;"><img src="img/17.png"  height="50" width="50" / style="margin: 10px;"></a>
+
+</div>
+<ul id="myul" >
+	<li>
+		<input type="radio"  data-icon="门锁" checked="checked" onclick="chkRadio(this)"/>
+		<input type="radio"  data-icon="安防" checked="checked" onclick="chkRadio1(this)"/>
+		<input type="radio"  data-icon="燃气监测" checked="checked" onclick="chkRadio2(this)"/>
+	</li>
+	
+</ul>
+
+<script >
+
+var flag = false;
+var flag1 = false;
+var flag2 = false;
+function chkRadio(id) {
+id.checked = flag;
+flag = !flag;
+}
+function chkRadio1(id) {
+	id.checked = flag1;
+	flag1 = !flag1;
+	}
+function chkRadio2(id) {
+	id.checked = flag2;
+	flag2 = !flag2;
+	}
+
+
+</script>
+
+<!-- 代码 结束 -->
+</body>
+</html>

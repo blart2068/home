@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring accessors="true" comment="Delete element from 项目“HTML5”&#x0D;&#x0A;－ 原始项目：“HTML5”&#x0D;&#x0A;－ 原始元素：“NewFile.html”" description="删除元素" element1="WebContent/1101/NewFile.html" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1477967129875" subPackages="false" version="1.0"/>&#x0A;<refactoring accessors="true" comment="Delete element from 项目“HTML5”&#x0D;&#x0A;－ 原始项目：“HTML5”&#x0D;&#x0A;－ 原始元素：“用户名登陆.html”" description="删除元素" element1="WebContent/1101/用户名登陆.html" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1477967322183" subPackages="false" version="1.0"/>
+</session>

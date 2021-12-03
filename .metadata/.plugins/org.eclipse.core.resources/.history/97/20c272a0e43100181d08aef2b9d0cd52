@@ -1,0 +1,143 @@
+.reveal-modal-bg{position: fixed;height: 100%;width: 100%; background:url(../images/f00.png);z-index:98;display:none;top: 0;left: 0;}
+.reveal-modal{visibility: hidden;width: 440px; height:380px; top:12%; left:50%; margin-left:-220px;background:#fff;position:fixed;z-index: 101;}
+.reveal-modal .close-reveal-modal{ display:block; background:url(../images/close.jpg) no-repeat; width:18px; height:18px; margin-top:15px; cursor:pointer;}
+.reveal-modal h3{ background:#fbfbfb; height:50px; padding:0 20px; font-size:20px; line-height:50px;}
+.reveal-modal h4{ display:block; font-size:14px; text-align:center; margin:20px 0;} 
+.reveal-modal h4 span { font-size:20px; display:block;}
+.reveal-modal h4 span img{ display:inline-block; vertical-align:middle; margin-right:10px;}
+.reveal-modal .text{ height:40px; padding-left:5px; border:1px #ccc solid; line-height:40px;}
+.reveal-modal .text.w280{ width:275px;}
+.reveal-modal .text.w150{ width:195px;}
+.reveal-modal .text.w190{ width:275px;}
+.reveal-modal  .button{ width:180px; height:40px; font-size:16px; margin-left:40px; color:#fff; line-height:40px; text-align:center; background:#f00; border:none;cursor: pointer;}
+.reveal-modal ul{ width:280px; margin:0 auto;}
+.reveal-modal li{ margin-bottom:20px; font-size:14px; position:relative;}
+.reveal-modal li b{ font-weight:normal; color:#f00; position:absolute; left:0; top:-20px;}
+.reveal-modal li b i{ font-style:normal; color:#393}
+.reveal-modal li span{ display:block; color:#999; line-height:30px;}
+.reveal-modal li span a{ color:#999;}
+.mtj{ margin:0 30px;}
+.mtj ul{ width:auto;}
+.mtj li{ text-align:left;}
+.mtj  b{ font-size:18px; margin-bottom:10px; display:block; font-weight:normal;text-align:center; text-align:center;}
+.mfkf{ display:none;height:56px;line-height:56px; background:#fff; font-size:24px;border-top:3px #ee4433 solid; position:relative; z-index:99;}
+.nav_scroll { display:block;left: 0; margin: 0;position: fixed;top: 0;width: 100%; z-index:98;}
+.mfkf span{ color:#ee4433; margin-left:40px;}
+.mfkf span img{ display:inline-block;}
+.mfkf  a{ display:block; float:right;width:100px; height:56px; line-height:56px; color:#fff;background:url(../images/hc.jpg) no-repeat 10px center #ee4433; padding-left:40px;}
+.mfkf  a:hover{ background-color:#DB3424;}
+/*index*/
+
+/*head*/
+
+.d1{overflow: hidden;background:#ADDCE6;}
+
+.head{overflow: hidden;position:relative;}
+
+
+.head4{font:36px "微软雅黑";color:#ffffff;position:absolute;left:626px;top:248px;font-weight: bold;}
+.bg{background:#addce6;}
+
+.bg_bai{width:1080px;margin:40px auto 15px;overflow: hidden;background:#d1eef4;border: 10px solid #3699ac;}
+.ss{margin: auto;width:180px;height:48x;background:#3699ac;margin-top:32px;margin-bottom:29px; }
+.ss a{display:block;width:180px;height:48px;text-align: center;overflow:hidden;}
+.ss a h2{font:14px "微软雅黑";color:#ffffff;margin-top:7px;display:block;}                   
+.ss a span{font:14px "微软雅黑";color:#ffffff;font-weight: bold;}
+.ss a:hover h2{color:#fee901;}
+.ss a:hover span{color:#fee901;}
+.top_lft{width:480px;float: left;margin-left:10px;overflow: hidden; }
+.top_lft h1{color:#3699ac;font:30px "微软雅黑";text-align: center;font-weight: bold;margin-bottom:10px; }
+.bbox_lft{width:237px;overflow: hidden;float:left;margin-top:10px; }
+.bbox_rht{width:216px;overflow: hidden;float: right;}
+.bbox_lft h2{color:#3699ac;font:14px "微软雅黑";text-align: center;}
+.video{width:486px;height:272px;float: right;}
+.top{margin: auto;overflow: hidden;}
+.tt{font:30px "微软雅黑";color:#b68a67;text-align: center;}
+.m1{overflow:hidden;margin:50px auto 0px;max-width:1000px;}
+.tit{background: url(../images/4.jpg) repeat-x left center;height:18px;text-align: center;}
+.tit span{color:#3699ac;font:12px/18px "Arial";width:150px;height: 18px;margin: auto;border-radius: 5px;background: #d1eef4;display: inline-block;}
+
+p.p1{font:14px/25px "微软雅黑";color:#3699ac;text-align: justify;font-weight: bold;margin-top:10px;}
+p.p2{font:14px/25px "微软雅黑";color:#3699ac;text-align: justify;font-weight: bold;margin-top:10px;text-indent: 2em;}
+.span{display:block;width:322px;height:40px;background: #3699ac;font:20px/40px "微软雅黑";font-weight: bold;color: #ffffff;padding-left:6px;margin-top:10px;}
+.s2 h1{color:#3699ac;font:36px "微软雅黑";text-align: left;font-weight: bold;}
+.s2 h2{color: #3699ac;font:36px "微软雅黑";font-weight:bold;}
+.s1{width:501px;}
+.s2{width:470px;}
+.h1{font:36px "微软雅黑";color:#3699ac;text-align: center;margin: 20px auto 20px;}
+
+.m1 ul{width: 130%;overflow:hidden;}
+.m1 li{width: 471px;float: left;overflow: hidden;margin-right:66px;height:292px;margin-top:27px; }
+.m1 li h1{color: #3699ac;font:24px "微软雅黑";font-weight: bold;}
+.m1 li p.p1{height:45px;font:14px/18px "微软雅黑";}
+
+.box{overflow:hidden;margin:40px auto 0px;width:1000px;}
+.coo{width: 100%;height:47px;background: #3699ac;overflow: hidden;text-align: center;font-weight: bold;color: #fff;font:24px/47px "微软雅黑";}
+.zbptzt{font-size: 20px;color: black;text-align: center;}
+
+
+.formTitle {
+	width: 130px;
+	height: 36px;
+	margin-bottom: 18px;
+	font-family: "΢���ź�";
+	font-size: 16px;
+	color: #333;
+	text-align: right;
+	line-height: 36px;
+}
+.formContent {
+	width: 368px;
+	height: 36px;
+	margin: 0 0 18px 10px;
+	font-size: 14px;
+	color: #333;
+}
+.formContent input[type="text"] {
+	width: 220px;
+	height: 26px;
+	padding: 5px 10px;
+	font-size: 16px;
+	color: #333;
+}
+.formContent textarea {
+	width: 340px;
+	height: 190px;
+	padding: 5px 10px;
+	font-size: 16px;
+	color: #333;
+}
+
+ .block {
+            float: left;
+            text-align: center;
+        }
+
+            .block div {
+                margin-top: 10px;
+            }
+
+            .block p {
+                font-size:12px;
+                 font-family: "Microsoft YaHei";
+                
+            }
+
+        .content2 {
+            height: 450px;
+        }
+
+        .title {
+            color: #33cccc;
+            font-family: "SimHei";
+            font-size: 20px;
+            font-weight: 900;
+        }
+
+
+/*head end*/
+
+
+/*footer-background:url(../images/13.jpg) no-repeat*/
+
+/*index end*/

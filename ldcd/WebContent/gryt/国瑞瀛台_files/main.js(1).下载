@@ -1,0 +1,39 @@
+var huxinbtn=document.getElementsByClassName("hu_btn");
+var huxin_len=huxinbtn.length;
+var huxin_con=document.getElementsByClassName("huxin-content");
+var index;
+
+for(var i=0;i<huxin_len;i++){
+    huxinbtn[i].data=i;
+    
+    huxinbtn[i].ontouchstart=function(){
+        index=this.data;
+        for(var j=0;j<huxin_len;j++){
+            huxinbtn[j].className="hu_btn";
+            huxin_con[j].className="huxin-content";
+        }
+        huxinbtn[index].className="hu_btn on";
+        huxin_con[index].className="huxin-content on"
+    }
+}
+// 户型图按钮切换结束
+
+// 投资价值开始
+var touzi_con = document.getElementsByClassName("touzi_con_big");
+var touzi_btn = document.getElementsByClassName("touzi_btn");
+var touzi_len = touzi_btn.length;
+var touzi_zhezhao = document.getElementsByClassName("touzi_scon_zhezhao");
+var touzi_inx;
+for(var x=0;x<touzi_len;x++){
+    touzi_btn[x].data = x;
+    touzi_btn[x].ontouchstart = function(){
+        touzi_inx=this.data;
+        for(var y=0;y<touzi_len;y++){
+            touzi_zhezhao[y].className="touzi_scon_zhezhao";
+            touzi_con[y].className="touzi_con_big";
+        }
+        touzi_zhezhao[touzi_inx].className="touzi_scon_zhezhao on";
+        touzi_con[touzi_inx].className="touzi_con_big on";    
+    }
+}
+// 投资价值结束

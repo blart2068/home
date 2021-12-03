@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    	
+   		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<title>大爱城</title>
+		 <link rel="stylesheet" href="foot.css">
+		<link rel="stylesheet" href="bootstrap.min.css">
+		
+		
+		
+		<script >
+            function toVaild(){//判读11位电话号码
+            	var temp = document.getElementById("tel").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+            
+            function toVaild2(){//判读11位电话号码
+            	var temp = document.getElementById("f2").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！!");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+            
+    </script>
+		
+</head>
+
+<body>
+
+
+<div class="text-8">
+			<div class="biankuang"></div>
+			<div class="box">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-xs-12 clearfix">
+							<div class="textbox pull-left">
+								<div class="mc clearfix">
+									<div class="biaoti pull-left">开发商直销</div>
+									<div class="qita pull-left">400-9988-705</div>
+								</div>
+								<div class="jieshao">最多的优惠，赶紧报名领取吧！</div>
+							</div>
+							<div class="biaodan pull-left">
+
+
+
+								 <form  action="/ldcd/cs.jsp" method="post" target="my" onsubmit="return toVaild()">
+									<div class="hang pull-left">
+										<div class="mc pull-left">姓名:</div>
+										<input type="text" class="pull-left tr" id="name1" name="uid" required="" placeholder="您的姓名">
+									</div>
+									<div class="hang pull-left">
+										<div class="mc pull-left">手机:</div>
+										<input type="text" class="pull-left tr" id="tel" name="upwd" required="" placeholder="请输入您的手机号">
+										<input id="xm1" type='hidden'name='xm'  value=""/><script  src="/ldcd/xmmc1.js"></script> 
+										<input type="hidden" id="id" name="id" value="14">
+									</div>
+									<button class="pull-left tr" type="submit">立即预约</button>
+								</form>
+								<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		
+</body>
+</html>

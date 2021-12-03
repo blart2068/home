@@ -1,0 +1,31 @@
+package ldcd;
+
+
+import java.io.FileOutputStream;
+ 
+ 
+public class jl {
+	String nr ="";
+    public static void main(String args[]){
+    	
+    	
+    }
+    
+    
+    
+    public void xr() {
+		
+	
+        try {
+            FileOutputStream f=new FileOutputStream("jl.txt",true);
+            f.write("\r\nÄê½ñÄê".getBytes());
+            f.close();
+           
+        } catch (Exception e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
+    }
+    
+}
+	

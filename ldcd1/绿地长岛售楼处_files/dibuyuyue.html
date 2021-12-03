@@ -1,0 +1,57 @@
+
+<!-- saved from url=(0038)http://www.shhsdc.com/a/dibuyuyue.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=GBK"><link href="./index.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="./jquery-1.8.3.min.js.下载"></script>
+<script type="text/javascript">
+	$(function(){
+		var paras=parent.location.href;
+	 	$("#paras").val(paras);
+	});
+</script>
+ </head><body marginwidth="0" marginheight="0"><form name="dede_diyform1" action="http://www.shhsdc.com/plus/diy.php" enctype="multipart/form-data" method="post" onsubmit="return xxg()" accept-charset="gb2312" style="margin-top:150px;&gt; 
+ &lt;input type=" hidden"="" value="post">  <input type="hidden" name="diyid" value="1"> 
+ <input type="hidden" name="do" value="2">  <span style="font-family:&#39;微软雅黑&#39;; font-size:18px; color:#FFF; margin-left:600px;">姓名：</span><input style="width:160px; height:36px; margin-top:21px;" name="title" id="title" type="text"><span style="font-family:&#39;微软雅黑&#39;; font-size:18px; color:#FFF;">电话：</span><input style="width:200px; height:36px;" name="mobile2" id="mobile2" onchange="checkSubmitMobile2()" type="text"><div style="width:145px; height:56px; margin-top:-50px; margin-left:1110px;">    
+ <input type="image" src="./tj.png">     
+ </div><table style="width:97%;" cellpadding="0" cellspacing="1">  
+   
+    
+    
+   
+ <input type="hidden" name="paras" id="paras" value="http://www.shhsdc.com/a/ldcd/">   
+ <input type="hidden" name="time" id="time" value="2017-12-27 10:20:6">  
+ <script type="text/javascript">                     
+ window.onload = function(){      
+ var nowDate = new Date();               
+ var str = nowDate.getFullYear()+"-"+(nowDate.getMonth() + 1)+"-"+nowDate.getDate()+" "+nowDate.getHours()+":"+nowDate.getMinutes()+":"+nowDate.getSeconds();      
+ document.getElementById("time").value=str;                   
+ }  </script>     
+          
+ <input type="hidden" name="dede_fields" value="title,text;mobile2,text;time,datetime;paras,text;mobile22,text;paras2,text">
+ <input type="hidden" name="dede_fieldshash" value="37c4d8c8dff00d06bc083e9db1046a82"></table>  
+
+ <script language="javascript" type="text/javascript">
+function xxg(){
+	if (document.dede_diyform1.title.value=="")
+	{ 
+		alert("您没有填姓名");
+		document.dede_diyform1.title.focus();
+	return false;
+	}
+	if (document.dede_diyform1.mobile2.value=="")
+	{ 
+		alert("您没有填联系电话");
+		document.dede_diyform1.mobile2.focus();
+		return false;
+	}
+	if (document.dede_diyform1.mobile2.value.length<11 || document.dede_diyform1.mobile2.value.length>11)
+	{ 
+		alert("手机或电话格式不正确");
+		document.dede_diyform1.mobile2.focus();
+		return false;
+	}
+return true;
+}
+</script>
+
+    </form>       
+</body></html>

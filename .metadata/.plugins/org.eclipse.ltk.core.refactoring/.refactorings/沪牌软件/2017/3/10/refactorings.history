@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;lib&apos; to &apos;沪牌服务器&apos;&#x0D;&#x0A;－ 原始项目：“沪牌软件”&#x0D;&#x0A;－ 目标元素：“沪牌服务器”&#x0D;&#x0A;－ 原始元素：“lib”" description="复制文件夹" element1="lib" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1488961584428" target="/沪牌服务器" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="UTF-8">
+<title>HTML</title>
+</head>
+<body>
+<div id="login" style="width:100%;text-align:center" >  
+
+        <h1 >【绿地长岛】24小时团购报名</h1>  
+        <br>
+
+        <form action="/ldcd/yzdljm.jsp" method="post" >   
+
+            <input type="text" required="required" placeholder="用户名:" name="uid"></input>  
+			<br>	<br>
+            <input type="text" required="required" placeholder="密码:" name="upwd" ></input>  
+ 			
+            <button class="but" type="submit">查询</button>  
+            
+            
+          	
+
+        </form>  
+
+    </div>  
+
+</body>
+</html>

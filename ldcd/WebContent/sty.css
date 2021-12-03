@@ -1,0 +1,25 @@
+.but{   
+
+    width: 100%;   
+
+    min-height: 20px;   
+
+    display: block;   
+
+    background-color: red;   
+
+   
+
+    color: #fff;   
+
+    padding: 9px 14px;   
+
+    font-size: 12px;   
+
+     
+
+    border-radius: 5px;   
+
+   margin:auto;
+
+}  

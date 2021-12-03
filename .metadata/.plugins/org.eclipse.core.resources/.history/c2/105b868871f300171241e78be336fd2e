@@ -1,0 +1,281 @@
+/* CSS Document */
+
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+a {
+	text-decoration: none;
+	border: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: 100%;
+}
+
+ul,
+ol,
+li {
+	list-style: none;
+}
+
+em,
+i {
+	font-style: normal;
+}
+
+img {
+	border: none;
+}
+
+input,
+img {
+	vertical-align: middle;
+	border: none;
+	display: inline-block;
+	height: auto;
+}
+
+input {
+	-webkit-appearance: none;
+	outline: none;
+}
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-size: 14px;
+	margin: 0 auto;
+	width: 100%;
+	font-family: Arial, 微软雅黑, 黑体, sans-serif;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.hide {
+	display: none;
+}
+
+.container {
+	max-width: 1440px;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.main_container {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	max-width: 1440px;
+	overflow: hidden;
+}
+
+.space50 {
+	height: 50px;
+	padding: 0;
+	margin: 0;
+}
+
+.phone_box {
+	    position: fixed;
+    right: 0;
+    bottom: 13%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    opacity: 0.7;
+    text-align: center;
+    padding: 8px 10px;
+}
+
+.fixed_box {
+	position: fixed;
+	bottom: 0;
+	height: auto;
+	background: #ebebeb;
+	border-top: 1px solid #fff;
+	max-width: 1440px;
+	width: 100%;
+}
+
+.fixed_box .content {
+	width: 100%;
+	padding: 10px 0;
+	float: left;
+	position: relative;
+}
+
+.fixed_box input {
+	height: 28px;
+	border: 1px solid #d5d5d5;
+	border-radius: 6px;
+	width: 90%;
+	padding: 0 6px;
+	font-size: 14px;
+	font-weight: 700;
+	color: #000000;
+}
+
+.fixed_box ul li.width20 {
+	width: 20%;
+	text-align: left;
+	float: left;
+	margin-left: 3%;
+}
+
+.fixed_box ul li.width30 {
+	width: 30%;
+	text-align: left;
+	float: left;
+	margin-left: 3%;
+}
+
+.fixed_box ul li.width50 {
+	width: 40%;
+	text-align: left;
+	float: left;
+	margin-left: 3%;
+}
+
+.fixed_box button {
+	border-radius: 6px;
+	height: 30px;
+	width: 90%;
+	padding: 2px 0;
+	border: none;
+	font-weight: 700;
+	font-size: 14px;
+}
+
+.color_white {
+	color: #FFF;
+}
+
+.bg_color_white {
+	background-color: #FFF;
+}
+
+.bg_color_black {
+	background-color: #fff;
+}
+
+.bg_color_blue {
+	background-color: #0564a7;
+}
+
+.bg_color_yellow {
+	background-color: #e9deb0;
+}
+
+.bg_color_red {
+	background-color: #be1735;
+}
+
+.bg_color_green {
+	background-color: green;
+}
+
+.bg_color_other{
+	background-color: #aa8960;
+}
+.bg_color_dustyBlue{
+	color: #729DC0;
+}
+.call {
+	height: 120px;
+	background-color: #FFFFFF;
+	text-align: center;
+	font-size: large;
+}
+.fenji{
+	letter-spacing: 4px;
+	color: red;
+	padding-top: 5px;
+	font-weight: bold;
+}
+.call_button {
+	
+	background: red;
+	color: #FFFFFF;
+	width: 22% !important;
+	height: 30px !important;
+	line-height: 30px !important;
+	padding: 0 !important;
+}
+
+@-webkit-keyframes tada {
+	0% {
+		-webkit-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1)
+	}
+	10%,
+	20% {
+		-webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+		transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+	}
+	30%,
+	50%,
+	70%,
+	90% {
+		-webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+		transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+	}
+	40%,
+	60%,
+	80% {
+		-webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+		transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+	}
+	100% {
+		-webkit-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1)
+	}
+}
+
+@keyframes tada {
+	0% {
+		-webkit-transform: scale3d(1, 1, 1);
+		-ms-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1)
+	}
+	10%,
+	20% {
+		-webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+		-ms-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+		transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+	}
+	30%,
+	50%,
+	70%,
+	90% {
+		-webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+		-ms-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+		transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+	}
+	40%,
+	60%,
+	80% {
+		-webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+		-ms-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+		transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+	}
+	100% {
+		-webkit-transform: scale3d(1, 1, 1);
+		-ms-transform: scale3d(1, 1, 1);
+		transform: scale3d(1, 1, 1)
+	}
+}
+
+.tada {
+	-webkit-animation: tada ease-out 1s infinite;
+	-webkit-animation-delay: 0.5s
+}

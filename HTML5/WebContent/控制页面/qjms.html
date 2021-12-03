@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>情景模式</title>
+<meta name="viewport"
+	content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0">
+    
+    <script language=javascript>
+    	var yhm = sessionStorage.getItem("yhm");
+    	if (yhm=="8888") {
+			
+		}else {
+			document.location.href="denglu.html";
+			
+		}
+			
+		</script>
+    
+</head>
+<style type="text/css">
+a:link, a:visited {
+	text-decoration: none; /*超链接无下划线*/
+}
+
+a:hover {
+	text-decoration: underline; /*鼠标放上去有下划线*/
+}
+
+body {
+	margin: 5px; /*设置网页顶格*/
+	background: #4A374A;
+	
+}
+
+div#container {
+	background-color: bisque; /*设置背景颜色*/
+	width: 100%; /*设置宽度*/
+	height: 100% /*设置高度*/;
+	font-size:40px; 
+}
+
+div#heading {
+	width: 50%;
+	background-color: brown;
+	float: left; /*设置向左排列*/
+}
+
+div#chanting {
+	width: 50%;
+	background-color: #00FF00;
+	float: left; /*设置向左排列*/
+}
+
+div#container_menu {
+	width: 50%;
+	background-color: cyan;
+	float: left; /*设置向左排列*/
+}
+
+div#container_body {
+	width: 50%;
+	background-color: blueviolet;
+	float: left;
+}
+div#footing {
+	width: 100%;
+	background-color: PaleVioletRed;
+	clear: both; /*恢复默认*/
+}
+
+</style>
+<body>
+	<h1 align="center">
+		<font color="DarkMagenta">情景模式</font>
+	</h1>
+	<h2><a href="zhuye.html" style=" color: yellow;"> 主菜单</a></h2>
+	
+	<div id="container">
+		<div id="heading" align="center">
+			<a href="ms.jsp" target="my">演示全开</a>
+		</div>
+		<div id="chanting" align="center">
+			<a href="msg.jsp" target="my">演示全关</a>
+		</div>
+		<div id="container_menu" align="center">
+			<a href=""  target="my">自定义开</a>
+		</div>
+		<div id="container_body" align="center">
+			<a href=""  target="my">自定义关</a>
+		</div>
+		<div id="footing" align="center">
+			<a href="zhuye.html">返回</a>
+		</div>
+	</div>
+		<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+
+</body>
+</html>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from 项目“ldcd”&#x0D;&#x0A;－ 原始项目：“ldcd”&#x0D;&#x0A;－ 原始元素：“大爱城官网pc.js”" description="删除元素" element1="WebContent/js/百度商桥/大爱城官网pc.js" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1535341294808" subPackages="false" version="1.0"/>
+</session>

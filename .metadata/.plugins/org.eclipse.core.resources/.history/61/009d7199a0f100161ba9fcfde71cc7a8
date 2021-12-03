@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>联系方式</title>
+<meta name="viewport"
+	content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0">
+    
+</head>
+<style type="text/css">
+body {
+	margin: 5px; /*设置网页顶格*/
+	background: #4A374A;
+	
+}
+
+a:link, a:visited {
+	text-decoration: none; /*超链接无下划线*/
+}
+
+a:hover {
+	text-decoration: underline; /*鼠标放上去有下划线*/
+}
+</style>
+<body>
+	<h1 align="center">
+		<font color="DarkMagenta"></font>
+	</h1>
+	<h2><a href="index.html" style=" color: yellow">返回主页</a></h2>
+	<p style=" color: yellow">T:18939970876 ; 15601682437</p>
+	<p style=" color: yellow">微信:blart2068</p>
+	<p style=" color: yellow">QQ:362244844</p>
+	<p><img alt="" src="css/images/wx.jpg" style="max-width:50%;max-width: 60%"></p>
+
+</body>
+</html>

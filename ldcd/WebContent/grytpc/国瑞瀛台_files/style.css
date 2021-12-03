@@ -1,0 +1,482 @@
+@charset 'utf-8';
+.maolj{
+    position: relative;
+    top:-125px;
+}
+#wrap{
+    position: relative;
+    margin:auto;
+    border:1px solid #000;
+}
+/* 头部导航开始 */
+#wrap .head{
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    z-index: 999;
+    background-color:#fff;
+
+    
+  
+}
+.head .headtop{
+    width:1280px;
+    height:75px;
+    margin:auto;
+    white-space: nowrap;
+    font-size:0;
+   
+}
+.head .headtop img{
+    display:inline-block;
+}
+.head .headtop .logo_text{
+    width:400px;
+    height:75px;
+   display: inline-block;
+    margin-left:210px;
+    vertical-align: top;
+
+} 
+.head .headtop .headtel{
+    display: inline-block;
+    width:255px;
+    height:75px; 
+    
+    font-size:0; 
+    vertical-align: top;
+    margin-left:240px;
+}
+.headtop .headtel div{
+    color:#6ebccb;
+    height:65px;
+    vertical-align: middle;
+}
+#wrap .icon-tel{
+    font-size:45px;
+}
+.head .nav{
+    width:100%;
+    font-size:0;
+    text-align:center;
+    background-color:#6ebccb;
+    cursor: pointer;
+}
+.head .nav li{
+    display: inline-block;
+    font-size:24px;
+    width:213px;
+    cursor: pointer;  
+}
+.head .nav li a{
+    color:#fff;
+}
+/* 头部导航结束 */
+/* 录播图开始 */
+#wrap .banner{
+    width:100%;
+    /* height:700px; */
+    margin-top:125px;
+}
+
+/* 轮播图结束 */
+/* 项目优势开始 */
+.advantage{
+    margin-top:50px;
+}
+.advantage .ad_text{
+    font-size:28px;
+    margin-bottom:35px;
+}
+.ad_text h2{
+    font-size: 30px;
+    color: #6ebccb;
+    text-align: center;
+}
+.ad_text p{
+    
+    font-size: 24px;
+    text-align: center;
+}
+.advantage ul li{
+    display:inline-block;
+    list-style: none;
+    width:360px;
+    
+    transition-duration: .3s;
+    -moz-transition-duration: .3s; /* Firefox 4 */
+    -webkit-transition-duration: .3s; /* Safari 和 Chrome */
+    -o-transition-duration: .3s; /* Opera */
+}
+.advantage ul li+li{
+    margin-left:100px;
+}
+.advantage ul li img{
+    display:block;
+}
+.advantage ul li:hover{
+    -ms-transform:scale(1.05,1.05); 	/* IE 9 */
+    -moz-transform:scale(1.05,1.05); 	/* Firefox */
+    -webkit-transform:scale(1.05,1.05); /* Safari 和 Chrome */
+    -o-transform:scale(1.05,1.05); 
+}
+.advantage ul li div{
+    height: 90px;
+    background-color:#ccc;
+    color:white; 
+    padding-left:20px;
+}
+.advantage ul li:hover div{
+    background-color:rgba(0,0,0,.5);
+}
+.advantage ul li div p{
+    font-size: 12px;
+    color:white;
+}
+/* 项目优势结束 */
+/* 户型图和样板房开始 */
+.huxin{
+    margin-top:50px;
+}
+.huxin .huxin_text{
+    margin-bottom: 35px;
+}
+.huxin .huxin_text h2{
+    font-size: 30px;
+    color: #6ebccb;
+    text-align: center;
+}
+.huxin .huxin_text p{
+    
+    font-size: 24px;
+    text-align: center;
+}
+.huxin .huxinbtn ul {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0;
+}
+.huxinbtn ul li{
+    display:inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.huxin .huxinbtn ul .on{
+    background-color: #6ebccb;
+    color: #fff;
+}
+.huxinbtn ul li a{
+    color:#000;
+}
+.huxin .huxinbtn ul li:hover{
+    background-color:#6ebccb;
+    color:#fff;
+}
+.huxin .huxinbtn ul li:hover a{
+    
+    color: #fff;
+}
+.huxin .huxin_con{
+    display: none;
+    width:1280px;
+    height:450px;
+    padding:25px 0;
+    background-image: url(../img/huxinbg.jpg);
+    margin:auto;
+    
+}
+.huxin .huxin_con.on{
+    display: block;
+}
+.huxin .huxin_con div{
+    width:720px;
+    height:450px;
+    background-color:#fff;
+    margin:auto;
+}
+.huxin .huxin_con img{
+    display: block;
+    width:100%;
+    height: 100%;
+}
+/* 户型图和样板房结束 */
+
+/* 投资潜力开始 */
+.invest{
+    margin-top:50px;
+}
+.invest .invest_text{
+    margin-bottom: 35px;
+}
+.invest .invest_text h2{
+    font-size: 30px;
+    color: #6ebccb;
+    text-align: center;
+}
+.invest .invest_text p{
+    
+    font-size: 24px;
+    text-align: center;
+}
+        /* 下面投资潜力内容开始 */
+    .invest_con{
+        width:1280px;
+        height:775px;
+        margin:auto;
+    }
+    /*上面设置 投资模块整体的宽高 */
+    .invest_con_pic{
+        width:100%;
+        height:685px;
+        
+    }
+    /* 上面设置图片区块宽高 */
+    .invest_con_pic .invest_con_pic_left{
+        width:977px;
+        height:685px;
+        background-color:#ccc;
+    }
+    /* 上面设置左边大图宽高 */
+    .invest_con_pic .invest_con_pic_right{
+        position: relative;
+        width:241px;
+        height: 623px;
+        padding:31px;
+        background-color:#ccc;
+    }
+    /* 这里用一个div把3个小图套起来 */
+    .invest_con_pic .invest_con_pic_right .invest_pic_small_wrap{
+        position: relative;
+        width:241px;
+        height:546.82px;
+        overflow: hidden;   
+    }
+     /* 这里用一个div把3个小图套起来 */
+    /* 上面设置右边小图预览部分宽高 */
+    .invest_con_text{
+        width:100%;
+        height:90px;
+         background-color:#386168;
+    }
+    /* 上面设置下面文字部分宽高 */
+    .invest_con_pic_left ul{
+        width:100%;
+        height:100%;
+        overflow: hidden;
+    }
+    .invest_pic_big{
+        display: none;
+    }
+    .invest_pic_big.on{
+        display: block;
+    }
+    .invest_pic_big img{
+        display: block;
+        width:100%;
+    }
+    .invest_pic_small_wrap{
+        position: relative;
+       overflow: hidden;
+    }
+    .invest_con_pic_right .invest_pic_swrap{
+        position: relative;
+        top:0px;
+        height:547px;
+        transition: top .5s .3s;
+        -moz-transition: top .5s .3s; /* Firefox 4 */
+        -webkit-transition: top .5s .3s; /* Safari 和 Chrome */
+        -o-transition: top .5s .3s;    
+    }
+    .invest_pic_small{
+        position: relative;
+        
+        cursor: pointer;
+    }
+    .invest_pic_small.on div{
+        display: none;
+    }
+    .invest_pic_small:hover div{
+        display:none;
+    }
+    .invest_pic_small div{
+        position:absolute;
+        width:100%;
+        height:100%;
+        background-color:rgba(255,255,255,.4);
+        top:0;
+        left:0;
+    }
+    .invest_pic_small+.invest_pic_small{
+        margin-top:20px;
+    }
+    .invest_pic_small img{
+        display: block;
+        width:100%;
+
+    }
+    .invest_btn{
+        position: absolute;
+        bottom:31px;
+        width:241px;
+        height:56px;
+        text-align: center;
+        z-index: 99;
+        background-color:rgba(0,0,0,.5);
+    }
+    .invest_btn i{
+        font-size:40px;
+        color:#ccc;
+        cursor: pointer;
+        
+    }
+    .invest_btn i:hover{
+        color:#fff;
+    }
+    .invest_btn i+i{
+        margin-left:20px;
+    }
+    
+    .invest_con_text_li{
+       display: none; 
+        width:100%;
+        height:90px;
+        color:#fff;
+        overflow: hidden;
+        margin-left:10px;
+        
+    }
+    .invest_con_text_li h4{
+        font-size:20px;
+    }
+    .invest_con_text_li.on{
+        display: block;
+    }
+        /* 投资潜力内容结束 */
+/* 投资潜力结束 */
+
+/* 专业服务开始 */
+.services{
+    margin-top:50px;
+}
+.services_text{
+    margin-bottom:35px;
+}
+.services_text h2{
+    font-size: 30px;
+    color: #6ebccb;
+    text-align: center;
+}
+.services_text p{
+    font-size: 24px;
+    text-align: center;
+}
+.services_con_son{
+    display: inline-block;
+    width:390px;
+    margin-top:30px;
+}
+.services_con_son dt{
+    width:100px;
+    float: left;
+}
+.services_con_son dt img{
+    display: block;
+    width:100%;
+}
+.services_con_son h3{
+    font-size:18px;
+    margin-bottom:20px;
+}
+.services_con_son dd{
+    width:260px;
+    float: right;
+    margin-left:30px;
+}
+.services_con_son p{
+    font-size: 14px;
+}
+/* 专业服务结束 */
+
+/* 购房优惠开始 */
+.preferences{
+    margin-top:50px;
+}
+.preference_text{
+    margin-bottom:35px;
+}
+.preference_text h2{
+    font-size: 30px;
+    color: #6ebccb;
+    text-align: center; 
+}
+.preference_text p{
+    
+    text-align: center;
+}
+.preference_con li{
+    display: inline-block;
+    width:213.3px;
+    text-align: center;
+}
+.preference_con li h3{
+    font-size:14px;
+    font-weight: normal;
+    color:#222;
+}
+.preference_con li span{
+    display: inline-block;
+    width:72px;
+    height:72px;
+    border-radius: 50%;
+    border:1px solid #fff;
+    font-size: 0;
+    transition:  .8s;
+    -moz-transition:  .8s; /* Firefox 4 */
+    -webkit-transition:  .8s; /* Safari 和 Chrome */
+    -o-transition:  .8s; /* Opera */
+}
+.preference_con li i{
+    font-size:38px;
+    line-height: 72px;
+    color:#c96;
+}
+.preference_con li:hover span{
+    width:88px;
+    height:88px;
+    background-color:#c96;
+}
+.preference_con li:hover i{
+    color:#fff;
+    line-height: 88px;
+    font-size:41px;
+}
+.preference_con li:hover h3{
+    font-size:18px;
+}
+/* 购房优惠结束 */
+/* 底部开始 */
+.footer{
+    height:100px;
+    background-color:#6ebccb;
+    
+}
+.footer li{
+    display: inline-block;
+    width:426px;
+    height:100px;
+    line-height: 100px;
+    text-align: center;
+}
+.footer li i{
+    font-size:35px;
+    color:#fff;
+    margin-right:10px;
+}
+.footer li span{
+    font-size:18px;
+}
+/* 底部结束 */

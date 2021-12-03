@@ -1,0 +1,64 @@
+var huxinbtn=document.getElementsByClassName("hu_btn");
+var huxin_len=huxinbtn.length;
+var huxin_con=document.getElementsByClassName("huxin_con");
+var index;
+
+for(var i=0;i<huxin_len;i++){
+    huxinbtn[i].data=i;
+    
+    huxinbtn[i].onclick=function(){
+        index=this.data;
+        for(var j=0;j<huxin_len;j++){
+            huxinbtn[j].className="hu_btn";
+            huxin_con[j].className="huxin_con";
+        }
+        huxinbtn[index].className="hu_btn on";
+        huxin_con[index].className="huxin_con on"
+    }
+}
+// 投资价值效果开始
+var invest_big = document.getElementsByClassName("invest_pic_big");
+var invest_len = invest_big.length;
+
+var invest_small = document.getElementsByClassName("invest_pic_small");
+var invest_text = document.getElementsByClassName("invest_con_text_li");
+var invest_index;
+for (var i=0;i<invest_len;i++){
+    invest_small[i].data = i;
+    invest_small[i].onclick = function(){
+        invest_index = this.data;
+        for(var j=0;j<invest_len;j++){
+            invest_small[j].className="invest_pic_small";
+            invest_big[j].className="invest_pic_big";
+            invest_text[j].className="invest_con_text_li";
+        }
+        invest_small[invest_index].className="invest_pic_small on";
+        invest_big[invest_index].className="invest_pic_big on";
+        invest_text[invest_index].className="invest_con_text_li on";
+    }
+}
+var invest_up = document.getElementById("invest_up");
+var invest_down = document.getElementById("invest_down");
+var invest_pic_swrap = document.getElementsByClassName("invest_pic_swrap")[0];
+var m = 0;
+var innitTop = 0;  //设置一个初始的top值
+var v = invest_len - 3;  // 设置一个来确定他能上移几次；
+invest_down.onclick=function(){
+    m = m - 188.94;
+    if(m  <= v*(-188.94)){
+        m = v*(-188.94); 
+    }
+    console.log(m);
+
+    invest_pic_swrap.style.top = m +'px';
+   
+}
+invest_up.onclick = function(){
+    m = m + 188.94;
+    console.log(m);
+    if(m >= innitTop){
+        m = innitTop;
+    }
+    invest_pic_swrap.style.top = m +'px';
+}
+// 投资价值效果结束

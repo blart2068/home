@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+        <g id="Artboard" transform="translate(-255.000000, -266.000000)" fill-rule="nonzero" fill="#333333">
+            <g id="预约看房" transform="translate(253.000000, 264.000000)">
+                <path d="M24.5,7 C24.5,5.06700338 22.9329966,3.5 21,3.5 L7,3.5 C5.06700338,3.5 3.5,5.06700338 3.5,7 L3.5,41.5 L24.5,41.5 L24.5,7 Z M7,2.5 L21,2.5 C23.4852814,2.5 25.5,4.51471863 25.5,7 L25.5,42.5 L2.5,42.5 L2.5,7 C2.5,4.51471863 4.51471863,2.5 7,2.5 Z" id="Rectangle-8"></path>
+                <polygon id="Line" points="14 14.5 14 33.3121127 15 33.3121127 15 14.5"></polygon>
+                <path d="M25.5,41.5 L41.5,41.5 L41.5,13.5 L25.5,13.5 L25.5,41.5 Z M42.5,12.5 L42.5,42.5 L24.5,42.5 L24.5,12.5 L42.5,12.5 Z" id="Rectangle-11"></path>
+                <polygon id="Line-5" points="28.6243885 24 38.9991846 24 38.9991846 23 28.6243885 23"></polygon>
+                <polygon id="Line-5-Copy" points="29.1243885 33 38.4991846 33 38.9991846 33 38.9991846 32 28.6243885 32 28.6243885 33"></polygon>
+        </g>
+    </g>
+</svg>

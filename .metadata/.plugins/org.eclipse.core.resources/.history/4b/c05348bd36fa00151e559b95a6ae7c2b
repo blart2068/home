@@ -1,0 +1,11 @@
+package tank;
+
+public class Ditank extends Tank implements Runnable{
+	int sd=super.getSd()-3;
+	Ditank(int x,int y){
+		super(x,y);
+	}
+	public void run(){
+		
+	}
+}

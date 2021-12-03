@@ -1,0 +1,34 @@
+package tank;
+import java.awt.BorderLayout;
+
+import javax.swing.*;
+public class Main extends JFrame{
+	Mypanel mb;
+	Guanka gk;
+	JMenuBar cdl;
+	JMenuItem cda,cdb;
+	public static void main(String [] args){
+		new Main();
+	}
+	Main(){
+		mb=new Mypanel();
+		gk=new Guanka();
+		cdl=new JMenuBar();
+		cda=new JMenuItem("新游戏");
+		cdb=new JMenuItem("退出游戏");
+		Thread xcgk=new Thread(gk);
+		xcgk.start();
+		cdl.add(cda);cdl.add(cdb);
+		add(cdl,BorderLayout.NORTH);
+		add(gk);
+//		Thread xc=new Thread(mb);
+//		xc.start();
+//		add(mb);
+//		addKeyListener(mb);
+		setTitle("坦克大战");
+		setSize(1200,700);
+		setLocation(222,122);
+		setVisible(true);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	}
+}

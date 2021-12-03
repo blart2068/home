@@ -1,0 +1,23 @@
+//读取域名
+ym=document.domain; 
+
+if (ym=="www.shfangzhixiao.com") { //document.write(ym)
+	//劲港  www.shfangzhixiao.com
+	 document.getElementById("p0").innerText= "新房网 - 沪ICP备17007614号-1";  
+}else if(ym=="www.shtrdc.com"){
+	//台仁
+	document.getElementById("p0").innerText= "新房网 - 沪ICP备18007312号"; 
+}else if(ym=="www.ghbgs.com"){
+	//屏歌
+	document.getElementById("p0").innerText= "新房网 - 沪ICP备18011778号"; 
+}else if(ym=="www.lwjkjdsn.com"){
+	//郦湾
+	document.getElementById("p0").innerText= "新房网 - 沪ICP备18013284号"; 
+}else if(ym=="www.cshzjdc.com"){
+	//舟津
+	document.getElementById("p0").innerText= "新房网 - 沪ICP备18013231号"; 
+}
+else if(ym=="www.shhgdc.cn"){
+	//航光
+	document.getElementById("p0").innerText= "新房网 - 沪ICP备18032293号"; 
+}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="将“tgm.jsp”移至“jsp”" description="将“tgm.jsp”移至“jsp”" destination="WebContent/jsp" element1="WebContent/ldcd2/tgm.jsp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1523015815323" updateReferences="true"/>&#x0A;<refactoring comment="Copy element &apos;fool.png&apos; to &apos;img&apos;&#x0D;&#x0A;－ 原始项目：“weChatDemo”&#x0D;&#x0A;－ 目标元素：“img”&#x0D;&#x0A;－ 原始元素：“fool.png”" description="复制文件" element1="WebContent/qmldcd/img/fool.png" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1523031006502" target="/weChatDemo/WebContent/qmyx/img" units="0" version="1.0"/>
+</session>

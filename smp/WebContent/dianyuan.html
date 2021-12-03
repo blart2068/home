@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>窗电源</title>
+<link type="text/css" rel="stylesheet" href="css/datouwang.css" />
+<meta name="viewport"
+	content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0"> 
+    
+    <script language=javascript>
+    	var yhm = sessionStorage.getItem("yhm");
+    	if (yhm=="8888") {
+			
+		}else {
+			document.location.href="denglu.html";
+			
+		}
+			
+		</script>
+    
+</head>
+<body >
+<!-- 代码 开始 -->
+	<h1 >电源插座控制系统</h1>
+	<div style="position: fixed;left: 0;right: 0">
+
+	<a href="daohang.html" ><img src="img/15.png"  height="50" width="50" / style="margin: 10px;"></a>
+	<a href="denglu.html" style="float:right;"><img src="img/17.png"  height="50" width="50" / style="margin: 10px;"></a>
+
+</div>
+
+<ul style="    
+    position: absolute;   
+
+   	top: 40%; 
+
+    left:50%;   
+
+    margin: -150px 0 0 -150px;   
+
+    width: 300px;   
+
+    height: 300px; ">
+		<input type="radio" name="radio" data-icon="客厅" onchange="kt()"/>
+		<input type="radio" name="radio" data-icon="主卧" onchange="zw()"/>
+		<input type="radio" name="radio" data-icon="次卧" onchange="cw()"/>
+		<input type="radio" name="radio" data-icon="餐厅" onchange="ct()"/>
+		<input type="radio" name="radio" data-icon="厨房" onchange="cf()"/>
+<h1 >***********</h1>
+<h2>电源(1)</h2>
+<input type="checkbox" data-icon1="♀ " data-icon2="♂ " onclick='xg()' />
+<h2>电源(2)</h2>
+<input type="checkbox" data-icon1="♀ " data-icon2="♂ " onclick='xg()' />
+</ul>
+
+<script type="">
+function kt(){
+         var h2= document.getElementsByTagName("h2")[0];
+         var h1= document.getElementsByTagName("h2")[1];
+         h2.innerHTML = "客厅电源(1)";
+         h1.innerHTML = "客厅电源(2)";
+    };
+function zw(){
+         var h2= document.getElementsByTagName("h2")[0];
+         var h1= document.getElementsByTagName("h2")[1];
+         h2.innerHTML = "主卧电源(1)";
+         h1.innerHTML = "主卧电源(2)";
+    };
+function cw(){
+         var h2= document.getElementsByTagName("h2")[0];
+         var h1= document.getElementsByTagName("h2")[1];
+         h1.innerHTML = "次卧电源(2)";
+         h2.innerHTML = "次卧电源(1)";
+    };
+function ct(){
+         var h2= document.getElementsByTagName("h2")[0];
+         var h1= document.getElementsByTagName("h2")[1];
+         h1.innerHTML = "餐厅电源(2)";
+         h2.innerHTML = "餐厅电源(1)";
+    };
+function cf(){
+         var h2= document.getElementsByTagName("h2")[0];
+         var h1= document.getElementsByTagName("h2")[1];
+         h1.innerHTML = "厨房电源(2)";
+         h2.innerHTML = "厨房电源(1)";
+    };
+
+
+
+
+</script>
+
+
+
+
+
+
+
+<!-- 代码 结束 -->
+</body>
+</html>

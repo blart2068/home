@@ -1,0 +1,28 @@
+<%@ page contentType="text/html; charset=UTF-8" language="java"
+	errorPage=""%>
+
+<%@ page import="ldcd.*"%>
+
+
+<%
+
+	邮件发送系统;
+try{
+	youj.sendEmil("362244844@qq.com","blart2068@gmail.com" ,"孙悟空");
+}catch (Exception e) {
+	out.println("发送失败");
+    e.printStackTrace();
+}
+
+%>
+
+<script>
+	
+	alert("您的置业顾问已收到你的报名信息，将尽快于您取得联系！");
+</script>
+
+
+
+
+
+

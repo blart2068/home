@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)http://www.yinshengfdc.com/ny.asp?id=24 -->
+<html lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>南通海上传奇</title>
+<link rel="stylesheet" href="./moban_files/bootstrap.min.css">
+<link rel="stylesheet" href="./moban_files/navigation.css">
+<link rel="stylesheet" href="./moban_files/tabBar.css">
+<link rel="stylesheet" href="./moban_files/swiper.min.css">
+<link rel="stylesheet" href="./moban_files/style.css">
+<link rel="stylesheet" href="./moban_files/animate.min.css">
+<script charset="utf-8" src="./moban_files/v.js.下载"></script>
+<script src="./moban_files/hm.js.下载"></script>
+<script src="./moban_files/wow.min.js.下载"></script>
+<script src="./moban_files/jquery.min.js.下载"></script>
+
+<script>
+	new WOW().init();
+</script>
+<!-- yinshengfdc.com Baidu tongji analytics -->
+
+</head>
+
+<body class="hover">
+
+	<header> </header>
+
+	<div class="banner maximg text-center">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="swiper-container swiper-container-horizontal">
+						<div class="swiper-wrapper">
+
+							<div class="swiper-slide swiper-slide-active"
+								style="width: 1367px;">
+
+								<img src="../imges/njhscq/00.jpg" alt=""
+									style="max-width: 100%;"> <img
+									src="../imges/njhscq/01.jpg" alt="" style="max-width: 100%;">
+									
+								<img src="" alt=""
+									style="max-width: 100%;"> <img
+									src="" alt="" style="max-width: 100%;">
+								
+							</div>
+
+
+						</div>
+					</div>
+					<div
+						class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets">
+						<span
+							class="swiper-pagination-bullet swiper-pagination-bullet-active"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="content">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12">
+
+					<div class="main-pad-3"
+						style="background: url(../imges/njhscq/aa.jpg)">
+						<div class="main-pad-4 main-Background-2">
+							<div class="main-2">
+								<div class="jiao lt"></div>
+								<div class="jiao rt"></div>
+								<div class="jiao rb"></div>
+								<div class="jiao lb"></div>
+								<div class="bian l"></div>
+								<div class="bian t"></div>
+								<div class="bian r"></div>
+								<div class="bian b"></div>
+								<div class="title-2 text-center" style="color: white;">南通海上传奇</div>
+								<div class="border-1"></div>
+								<div class="main-pad-5 main-Background-3">
+									<div class="pictrue-2 maximg text-center">
+										<img src="../imges/njhscq/02.jpg" alt=""
+											style="max-width: 100%;">
+									</div>
+									<div class="pictrue-3">
+										<ul class="list-unstyled clearfix">
+											<li class="pull-left">
+												<div class="biaoti text-center">
+													<div class="zhubiaoti">
+														<b></b>
+													</div>
+													<div class="fubiaoti"></div>
+												</div>
+												<div class="imgbox sizeCover maximg"
+													style="background-image: url(uploadpic/201805081611478437.jpg)">
+													<img src="../imges/njhscq/03.jpg" alt=""
+														style="max-width: 100%;">
+												</div>
+											</li>
+											<li class="pull-left">
+												<div class="biaoti text-center">
+													<div class="zhubiaoti"></div>
+													<div class="fubiaoti">
+														<b></b>
+													</div>
+												</div>
+												<div class="imgbox sizeCover maximg"
+													style="background-image: url(uploadpic/201805081614077168.jpg)">
+													<img src="../imges/njhscq/04.jpg" alt=""
+														style="max-width: 100%;">
+												</div>
+											</li>
+										</ul>
+									</div>
+								</div>
+								<div class="title-3 text-center main-Background-2">楼盘相册</div>
+								<div class="main-pad-5 main-Background-3">
+
+									<div class="pictrue-4 maximg">
+										<ul class="list-unstyled clearfix">
+											<li class="pull-left text-center">
+												<div class="box">
+
+													<div class="imgbox sizeCover"
+														style="background-image: url(uploadpic/201805081516554725.jpg)">
+														<img src="../imges/njhscq/05.jpg" alt=""
+															style="max-width: 100%;">
+													</div>
+													<div class="qita"></div>
+												</div>
+											</li>
+											<li class="pull-left text-center">
+												<div class="box">
+
+													<div class="imgbox sizeCover"
+														style="background-image: url(uploadpic/201805081517299512.jpg)">
+														<img src="../imges/njhscq/06.jpg" alt=""
+															style="max-width: 100%;">
+													</div>
+													<div class="qita"></div>
+												</div>
+											</li>
+											<li class="pull-left text-center">
+												<div class="box">
+
+													<div class="imgbox sizeCover"
+														style="background-image: url(uploadpic/201805081517524416.jpg)">
+														<img src="../imges/njhscq/07.jpg" alt=""
+															style="max-width: 100%;">
+													</div>
+													<div class="qita"></div>
+												</div>
+											</li>
+											<li class="pull-left text-center">
+												<div class="box">
+
+													<div class="imgbox sizeCover"
+														style="background-image: url(uploadpic/201805081518057285.jpg)">
+														<img src="../imges/njhscq/08.jpg" alt=""
+															style="max-width: 100%;">
+													</div>
+													<div class="qita"></div>
+												</div>
+											</li>
+										</ul>
+									</div>
+									<div class="title-4 clearfix">
+
+										<div class="mc pull-left">&nbsp;—户型</div>
+									</div>
+									<div class="pictrue-5">
+										<div class="ul"></div>
+										<div class="li">
+
+
+											<div class="imgbox maximg">
+												<ul class="list-unstyled clearfix">
+													<li class="pull-left">
+														<div class="imgs sizeCover"
+															style="background-image: url()">
+															<img src="../imges/njhscq/11.jpg" alt=""
+																style="max-width: 100%;">
+														</div>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+										<div class="li">
+											<div class="biaoti clearfix"></div>
+
+											<div class="imgbox maximg">
+												<ul class="list-unstyled clearfix">
+													<li class="pull-left">
+														<div class="imgs sizeCover"
+															style="background-image: url()">
+															<img src="../imges/njhscq/09.jpg" alt=""
+																style="max-width: 100%;">
+														</div>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+										<div class="li">
+
+											<div class="jieshao"></div>
+											<div class="imgbox maximg">
+												<ul class="list-unstyled clearfix">
+													<li class="pull-left">
+														<div class="imgs sizeCover"
+															style="background-image: url()">
+															<img src="../imges/njhscq/10.jpg" alt=""
+																style="max-width: 100%;">
+														</div>
+													</li>
+
+												</ul>
+											</div>
+										</div>
+
+
+									</div>
+
+									<div  align="center">
+
+										<!-- 报名系统 -->
+										<h1 style="font-size: 30px; color: red;" id="tgbm">24小时团购报名</h1>
+
+
+
+
+										<div style="text-align: center;" id="pc">
+
+
+
+											<form action="/ldcd/nthscq.jsp" method="post" target="my"
+											onsubmit="return toVaild2()">
+												<input type="text" required="required" placeholder="姓名:"
+													name="uid"></input> <br> <br> <input type="text"
+													required="required" placeholder="电话:" name="upwd" id='f2'></input>
+												<input id="xm1" type='hidden' name='xm' value="" />
+												<script src="/ldcd/xmmc1.js"></script>
+												<br> <br>
+
+												<button class="but" type="submit" >24小时团购报名</button>
+												<p align="center">(活动)团购预约，即享团购价</p>
+											</form>
+											<iframe name="my" frameborder="0"
+												style="width: 0px; height: 0px;"></iframe>
+										</div>
+
+
+										<img src="../imges/njhscq/wx.jpg" width="250px"><br>
+										<br>
+
+
+										<p align="center">(活动)团购预约，即享团购价</p>
+
+
+									</div>
+
+
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+	<footer>
+
+
+
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="bg">
+						<div class="biaoti text-center">
+							<div class="box">
+								<div class="en text-uppercase">about us</div>
+							</div>
+						</div>
+						<div class="jieshao">
+
+
+
+							<span class="sss">售楼热线：400-1727-818</span>&nbsp;<br> <br>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<div id="tanchuang">
+		<div class="sec text-center">×</div>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="main-1 clearfix">
+						<div class="left pull-left">
+							<div class="top clearfix">
+								<div class="tel pull-right">
+									<a href="tel:400-1727-818">400-1727-818</a>
+								</div>
+								<div class="mc pull-right">预约报名 团购优惠</div>
+							</div>
+							<div class="bot">
+								<script type="text/javascript">
+									function abc() {
+										var myreg = /^(((13[0-9]{1})|(15[0-9]{1})|(17[0-9]{1})|(18[0-9]{1}))+\d{8})$/;
+										if (!myreg.test($("#tel").val())) {
+											alert('请输入有效的手机号码！');
+											return false;
+										}
+										callback();
+									}
+								</script>
+
+
+								<form action="/ldcd/nthscq.jsp" method="post" target="my"
+									onsubmit="return toVaild()">
+									<ul class="list-unstyled clearfix">
+										<li class="pull-left">
+											<div class="box clearfix">
+												<div class="mc pull-left">姓名</div>
+												<div class="biaodan pull-left">
+													<input type="text" id="name1" name="uid" requeired="">
+													<input id="xm" type='hidden' name='xm' value="" />
+													<script src="/ldcd/xmmc.js"></script>
+												</div>
+											</div>
+										</li>
+										<li class="pull-left">
+											<div class="box clearfix">
+												<div class="mc pull-left">手机</div>
+												<div class="biaodan pull-left">
+													<input type="text" name="upwd" id='ff'>
+												</div>
+											</div>
+										</li>
+										<li class="pull-left">
+											<button type="submit">24小时团购报名</button>
+										</li>
+										<li class="pull-left">
+											
+												<a href="tel:400-1727-818"   >
+												<p style="color: red; font-size:20px; background: yellow;">
+												24小时电话咨询</p></a>
+											
+										</li>
+									</ul>
+								</form>
+								<iframe name="my" frameborder="0"
+									style="width: 0px; height: 0px;"></iframe>
+							</div>
+						</div>
+						<div class="right pull-left">
+							降低成本-免佣金，享受折上团购价<br> 充分知情-楼盘信息严格核实，保障您各类信息知情权
+							更多选择-一站尽览优质盘，充分选择之上的量身定做
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+	<script src="./moban_files/bootstrap2.js.下载"></script>
+	<script src="./moban_files/ie10-viewport-bug-workaround.js.下载"></script>
+	<script src="./moban_files/swiper.min.js.下载"></script>
+	<script src="./moban_files/navigation.js.下载"></script>
+	<script src="./moban_files/tabBar.js.下载"></script>
+	<script src="./moban_files/banner.js.下载"></script>
+	<script src="./moban_files/style.js.下载"></script>
+
+	<script>
+		$('#tanchuang .sec').click(function() {
+			$('#tanchuang').hide();
+		})
+	</script>
+
+	<script>
+		$(function() {
+			var p6swiper = new Swiper('.pictrue-6 .swiper-container', {
+				speed : 500,
+				autoplay : 5000,
+				autoplayDisableOnInteraction : false,
+				prevButton : '.pictrue-6 .swiper-button-prev',
+				nextButton : '.pictrue-6 .swiper-button-next'
+			})
+		})
+	</script>
+
+	<script>
+		function toVaild() {//判读11位电话号码
+			var temp = document.getElementById("ff").value;
+			var re = /^1\d{10}$/
+			if (!re.test(temp)) {
+				alert("请正确输入11位手机号码！");
+				return false;
+			} else {
+				return true;
+			}
+		}
+		
+		function toVaild2() {//判读11位电话号码
+			var temp = document.getElementById("f2").value;
+			var re = /^1\d{10}$/
+			if (!re.test(temp)) {
+				alert("请正确输入11位手机号码！");
+				return false;
+			} else {
+				return true;
+			}
+		}
+	</script>
+
+
+
+</body>
+<script type="text/javascript">
+	//电脑  手机 分别显示
+	var system = {
+		win : false,
+		mac : false,
+		xll : false
+	};
+	var p = navigator.platform;
+	system.win = p.indexOf("Win") == 0;
+	system.mac = p.indexOf("Mac") == 0;
+	system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+	if (system.win || system.mac || system.xll) {
+
+		//document.getElementById('img').setAttribute("src","../imges/xyszhgy/14.jpg"); 
+		document.getElementById("tanchuang").style.display = "none";
+
+	}else  {
+		document.getElementById("pc").style.display = "none";
+	}
+</script>
+
+
+</html>

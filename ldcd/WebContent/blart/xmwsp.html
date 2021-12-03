@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/css.css">
+<title>厦门湾视频</title>
+<style type="text/css">
+body {
+	background-image: url("img/bj.jpg");
+	background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+}
+
+h1 {
+	color: white;
+	font-size: 50px;
+}
+
+/*  底部菜单*/
+
+.btfoot {
+				color: rgba(127,255,255,0.75);
+				background: transparent;
+				outline: 1px solid rgba(127,255,255,0.75);
+				border: 0px;
+				padding: 5px 10px;
+				cursor: pointer;
+			}
+			#menu {
+				
+				bottom: 20px;
+				width: 100%;
+				text-align: center;
+			}
+			.bfoot {
+			
+			
+			color: rgba(127,255,255,0.75);
+				background: transparent;
+				outline: 1px solid rgba(127,255,255,0.75);
+				border: 20px;
+				padding: 15px 30px;
+				cursor: pointer;
+				font-size: 25px;
+				color: white;
+			margin : 10px 0px 15px 10px;
+			}
+			
+</style>
+
+
+
+
+
+</head>
+
+<body>
+	<script>
+            function toVaild(){//判读11位电话号码
+            	var temp = document.getElementById("ff").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+            
+            function toVaild2(){//判读11位电话号码
+            	var temp = document.getElementById("f2").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！!");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+            
+    </script>
+
+	
+
+
+	<div style="width: 1000" align="center">
+		<br>
+		<h1>厦门湾视频</h1>
+		<video id="video" width="90%"
+			src="http://www.hndhgf.com/shipin/xmw.mp4" controls="controls"
+			poster="../imges/hssg/xmwsp.jpg" webkit-playsinline="true"
+			playsinline="true"></video>
+	</div>
+	<br><br><br><br>
+	<h1>报名参团</h1>
+
+	<div style="text-align: center;">
+
+
+
+		<form action="/ldcd/blart.jsp" method="post" target="my"
+			onsubmit="return toVaild2()">
+			<input type="text" required="required" placeholder="姓名:" name="uid"></input>
+			<br> <br> <input type="text" required="required"
+				placeholder="电话:" name="upwd" id='f2'></input> <input id="xm1"
+				type='hidden' name='xm' value="" />
+			<script src="/ldcd/xmmc1.js"></script>
+			<br> <br>
+
+			<button class="but" type="submit">立刻报名</button>
+			<br> <br> 
+				<h1>预约看房周末免费游厦门</h1>
+				<br> <br> 
+
+
+			
+
+		</form>
+		<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+	</div>
+
+
+
+	<div id="menu">
+		
+			<a href="blartxmw.html" class="bfoot">楼盘首页</a>
+		
+		
+			<a href="hdp/tp.html" class="bfoot">图文简介</a>
+		
+		
+			<a href="#" class="bfoot">预约报名</a>
+		
+	
+			<a href="tel:+8618939970876" class="bfoot">电话预约</a>
+		
+	</div>
+	<p></p>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+
+
+</body>
+</html>

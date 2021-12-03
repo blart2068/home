@@ -1,0 +1,71 @@
+/* ************ */
+/* Author:小龙哥jkey */
+/* ************ */
+
+
+.popmask{width:100%; height: 100%; position: fixed; top:0; left:0; background: #000; opacity: 0.8; filter:alpha(opacity=80); display: none;z-index:1000001}
+.monyePop{ width:1200px; height: 700px; position: fixed; top:50%; left:50%; margin-left: -600px; margin-top:-350px;  display: none;z-index:1000002}
+.popHead .moneyNum{  font-size: 30px; font-weight: bold; margin: 0 2px; }
+.popHead .moneyNumPos{ position: absolute; right:332px;  top:126px; font-size:18px; font-weight: bold;}
+.monyePop .headBanner{ margin-left:212px;}
+.popCloseBtn{width: 66px; height: 66px; background: url(popclose.jpg) no-repeat; position: absolute;top: 155px; right: 150px;}
+.popCont{margin:-36px auto 0; border-radius:6px; background: #FFF;}
+.popRightPic{ position: absolute; right:-70px; top:-46px;}
+.popCont1{width:680px; padding:53px 0;}
+.popCont1 .hbbg{width:453px; height: 230px; background: url(bigMoney.png) no-repeat; margin-left:120px;}
+.popCont1 .moneyNum{position: absolute; top:116px; right:307px; font-size:34px; width:112px; text-align: center;}
+.popCont1 .menNum{width:85px; position: absolute; top:155px; right:317px;  font-size:18px; line-height: 22px; opacity: 0.8; filter:alpha(opacity=80);}
+
+.popCont1 .takebtn{font-size:16px; width:170px; height: 60px; line-height: 60px; font-size: 30px; background: #ffeb01; color:#e83532; text-align: center; border-radius:5px; display:block; margin:45px 0 0 70px;}
+
+.takebtn:hover{text-decoration: none; color:#e83532;}
+.popCont1 .hbbg .right{float:right; width:311px;font-size: 28px; line-height:40px;margin-top:20px;text-align:center;margin-right:0;}
+.popCont2{width:910px; padding:29px 0; float: left; margin-left:141px;}
+.popCont2 .hbbg{width:453px; height: 231px; background: url(bigMoney.png) no-repeat; margin-left:35px;}
+.popCont2 .moneyNum{position: absolute; top:82px; right:224px; font-size:22px; width:98px; text-align: center;}
+.popCont2 .menNum{width:85px; position: absolute; top:110px; right:235px;  font-size:14px; line-height: 18px; opacity: 0.8; filter:alpha(opacity=80);text-align: center;}
+.popCont2 .takebtn{font-size:16px; width:126px; height: 44px; line-height: 44px; font-size: 22px; background: #ffeb01; color:#e83532; text-align: center; border-radius:5px; display:block; margin:36px 0 0 50px; +margin-left:0px;}
+.popCont2 .hbbg .right{float:right; width:226px;font-size: 20px; line-height:30px;margin-top:15px;text-align:center;margin-right:0;}
+.popCont3{width:1150px; height:210px; padding:30px 0 33px 50px; float: left; margin-left:0; }
+.needScrolly{width: 1150px; height:210px;  overflow-y:auto; }
+.popCont3 .hbbg{margin:0 30px 30px 0;}
+.popRightPic1{ position: absolute; right:4px; top:-35px;}
+.popRightPic2{ position: absolute; right:-73px; top:175px;}
+.hide{display: none;}
+.fred1{color:#e83532;}
+.fred2{color:#9b1b0a;}
+.fred3{color:#ef412f;}
+.fwhite{color:#FFF;}
+.fyellow{color:#fff600;}
+.w1150{margin:0 auto; width:1150px;}
+.moneybtn{width: 182px;height: 205px;   background: url(moneyBtn.png) no-repeat; position: fixed;bottom:300px; right:10px;z-index:1000000;}
+.getMoneybtn{width:87px; height:32px;cursor:pointer; margin:3px 0 0 47px;}
+.hbp1{font-size:16px; color:#ff3300; margin-top:101px; margin-left:13px;} 
+.hbp2{font-size:12px; color:#ff3300;margin-left:30px;} 
+.hbp1 span{font-size:24px; font-weight:bold}
+/*非渠道广告楼盘红包*/
+.popCont1 .pt_box{ font-size: 30px; line-height: 30px;top: 105px;} 
+.pt_box_btn{ margin: 60px 0 0 70px !important;} 
+.pt_box_text p{ padding-top: 20px;}
+ a:hover{ text-decoration:none;} 
+.by_a1{text-decoration:none; color:#FFF; } 
+.by_a1:hover{text-decoration:none;color:#FFF;} 
+.by_a2{text-decoration:none; color:#e83532; } 
+.by_a2:hover{text-decoration:none;color:#e83532;} 
+.fwhite .by_btn1{ margin: 60px auto 0 !important;}  
+.moneybtn a:hover{text-decoration:none;}
+.hbbg p{text-align:center;}
+
+.detailPopClose{width:30px; height:30px; background:url('tc_close.png') left center no-repeat;position:absolute;top:-30px; right:0;}
+.detailPopClose:hover{background-position:right center;}
+
+
+/*报名*/
+.fpjbaoming .input_img{ width:340px; height:180px; float:left;}
+.fpjbaoming .classname{ margin:36px 0 20px 46px; width:340px; font-family:΢���ź�; font-size:18px; text-align:left;font-weight:900;}
+.fpjbaoming .name input{ border:1px solid #CECECE; width:216px; height:33px; text-indent:10px; line-height:47px;}
+.fpjbaoming .name{  margin-top:10px;font-size:18px; }
+.fpjbaoming input:focus {outline:none;}
+.fpjbaoming .sub{  font-size:16px; width:170px; height: 60px; line-height: 60px; font-size: 30px; background: #ffeb01; color:#e83532; text-align: center; border-radius:5px; display:block; margin:30px 0 0 70px;}
+
+/*报名*/

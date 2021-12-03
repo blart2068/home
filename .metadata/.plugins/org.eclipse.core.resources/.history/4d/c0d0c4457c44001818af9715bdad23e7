@@ -1,0 +1,1408 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<!-- 让IE浏览器用最高级内核渲染页面 还有用 Chrome 框架的页面用webkit -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport"
+	content="width=device-width, initial-scale=0.1,initial-scale=0.1, maximum-scale=0.1,user-scalable=0">
+<!--[if IE 8]><meta http-equiv="refresh" content="2; url=index_ie8.html">  <![endif]-->
+<title>绿地长岛</title>
+<meta name="keywords" content="绿地长岛">
+<meta name="description" content="绿地长岛">
+<link rel="stylesheet" type="text/css" href="./hwpczc_files/style.css">
+<link rel="stylesheet" type="text/css" href="./hwpczc_files/main.css">
+</head>
+<body style="">
+<br><br>
+	<div class="box" id="he">
+
+		<header>
+
+
+			<div class="container over">
+
+				<div class="headLogo left">
+					<a href="">
+
+						<ul>
+
+							<li class="logoTit">绿地长岛</li>
+
+							<li class="logoTxt"><span>绿地集团投资500亿</span> <small>打造中国首个生态居住样板小镇</small>
+							</li>
+
+						</ul>
+
+					</a>
+				</div>
+
+				<div class="headRight right">
+
+					<dl>
+
+						<dt>
+							<img src="./hwpczc_files/telLog.png">
+						</dt>
+
+						<dd>
+							<small>免费服务热线：</small> <strong>021-5107-9115</strong>
+						</dd>
+
+					</dl>
+
+				</div>
+
+			</div>
+
+		</header>
+
+		<nav id="nav" style="position: fixed; top: 0px;">
+
+			<div class="container">
+
+				<li class="active"><a
+					href="#he">首页</a></li>
+
+				<li><a href="#a">项目优势</a></li>
+
+				<li><a href="#b">项目介绍</a></li>
+
+				<li><a href="#c">投资潜力</a></li>
+
+				<li><a href="#d">专业服务</a></li>
+
+				<li><a href="#e">预约看房</a></li>
+
+				<li><a
+					href="#lxwm"
+					target="_blank">联系我们</a></li>
+
+			</div>
+
+		</nav>
+
+		<div class="banner">
+
+			<div class="flexslider">
+
+				<ul class="slides">
+
+					<li
+						style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"
+						class=""><img src="./hwpczc_files/banner1.jpg"
+						draggable="false"></li>
+
+					<li
+						style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;"
+						class=""><img src="./hwpczc_files/banner2.jpg"
+						draggable="false"></li>
+
+					<li
+						style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;"
+						class="flex-active-slide"><img
+						src="./hwpczc_files/banner3.jpg" draggable="false"></li>
+
+				</ul>
+
+				<ol class="flex-control-nav flex-control-paging">
+					<li><a class="">1</a></li>
+					<li><a class="">2</a></li>
+					<li><a class="flex-active">3</a></li>
+				</ol>
+				<ul class="flex-direction-nav">
+					<li><a class="flex-prev"
+						href=""></a></li>
+					<li><a class="flex-next"
+						href=""></a></li>
+				</ul>
+				<ol class="flex-control-nav flex-control-paging">
+					<li><a>1</a></li>
+					<li><a>2</a></li>
+					<li><a>3</a></li>
+				</ol>
+				<ul class="flex-direction-nav">
+					<li><a class="flex-prev"
+						href=""></a></li>
+					<li><a class="flex-next"
+						href=""></a></li>
+				</ul>
+			</div>
+
+		</div>
+
+		<div class="content">
+
+			<div class="section section1" id="a">
+
+				<div class="container">
+
+					<div class="tit">
+						<small>Project Benefits</small>
+
+						<h2>项目优势</h2>
+
+						<img src="./hwpczc_files/titBg.png">
+					</div>
+
+					<div class="txt sec1Txt">
+
+						<dl>
+
+							
+								<dt>
+									<img src="./hwpczc_files/1_004.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<p>
+										精装修不限购，享一线江景
+									
+										</p>
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/2_002.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<p>
+											将通一条高铁、两条地铁，享上海一小时生活圈
+										</p>
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/3_004.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<p>
+											有望划入上海，最靠近上海、体量最大的楼盘
+										</p>
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/4.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<p>
+											世界五百强绿地投资2000亿，建造世界级的城市级岛屿
+
+										</p>
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/5_002.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<p>
+											打造拥有90万㎡梦幻岛，20万㎡冒险谷，5.3万㎡欧洲街以及40多项<br/>
+
+                  							娱乐配套的休闲度假为一体的华东度假养生盘</P>
+
+										</p>
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/6.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<p>
+											整岛开发，岛长17公里，聚集人口几十万人，<br/>
+
+             								     直接抵上一个城镇的规模</P>
+
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+
+						</dl>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="section section2" id="b">
+
+				<div class="tit">
+					<small>Project Introduction</small>
+
+					<h2>项目介绍</h2>
+
+					<ul>
+
+						<li class="active">周边环境</li>
+
+						<li>交通规划</li>
+
+						<li><a
+							href="#lxwm"
+							target="_blank">更多咨询</a></li>
+
+					</ul>
+
+				</div>
+
+				<div class="txt sec1Txt sec2Txt">
+
+					<div>
+
+						<dl>
+
+							
+
+
+								<dt>
+									<img src="./hwpczc_files/1_003.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+										<p>
+										崇明生态、自然养生之所：崇明规划大面积绿化用地，每立方厘米可产生1000-2000个负氧离子含量<br/>
+
+                 						PM2.5值常年处于优良值，绿地长岛位其北侧，共享优越生态环境</P>
+
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+
+						</dl>
+
+						<dl>
+
+							
+								<dt>
+									<img src="./hwpczc_files/2_004.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<P>家门口的全域5A级景区：江南三民文化村、东平国家森林公园、缩小版西湖的明珠湖、西沙湿地、北湖湿地、<br/>
+
+                  						长兴青草沙湿地、长兴岛郊野公园都将为居者提供畅玩去处</P>
+
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/3_003.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<P>四大主题规划满足全家人需求：目前绿地长岛规划有度假、休闲、乐活、生态游乐四大主题区，<br/>
+
+                  可提供商、住、游、购的日常配套，满足全家人的生活所需</P>
+
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+					</div>
+
+					<div>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/1_002.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<P>可提供商、住、游、购的日常配套，满足全家人的生活所需，<br/>
+
+                  崇明岛，横沙岛，长兴岛，将全部通车地铁</P>
+
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/2_003.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<P>规划中的沪崇启铁路全长63公里，北起江苏启东，经上海崇明，南接上海枢纽网，作为北沿江铁路的重要节点。<br/>
+
+                  北沿江高铁又被称为江北的沪宁</P>
+										
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/3.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<P>政府12.5规划中，宝山方向的石洞口码头会改建成越江西线，从宝山延伸至城桥镇，这样将会解决交通问题，<br/>
+
+                 预计明年动工，以后从宝山方向过来只要50分钟就可以了，非常方便</P>
+
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+
+						</dl>
+
+					</div>
+
+					<div>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/jieshaoImg2.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<p>
+											上海生态后花园 长三角沿海廊道<br> 养老度假 不出上海
+										</p>
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+						<dl>
+
+							
+								<dt>
+									<img src="./hwpczc_files/jieshaoImg3.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<p>
+											上海生态后花园 长三角沿海廊道<br> 养老度假 不出上海
+										</p>
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+
+						</dl>
+
+						<dl>
+
+							
+
+								<dt>
+									<img src="./hwpczc_files/jieshaoImg.jpg">
+								</dt>
+
+								<dd>
+									<em></em>
+
+									<div>
+
+										<h3>绿地长岛</h3>
+
+										<p>
+											上海生态后花园 长三角沿海廊道<br> 养老度假 不出上海
+										</p>
+
+										<div class="more">
+											<span>了解更多</span>
+										</div>
+
+									</div>
+
+								</dd>
+
+							
+
+						</dl>
+
+					</div>
+
+				</div>
+
+			</div>
+			<div class="content">
+
+				<div class="section section1" id="a">
+
+					<div class="container">
+
+						<div class="tit">
+							<small>Project Benefits</small>
+							<h2>样板户型</h2>
+
+							<img src="./hwpczc_files/titBg.png">
+						</div>
+
+						<div class="txt sec1Txt">
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/1.jpg">
+									</dt>
+
+									<dd>
+										<em></em>
+
+										<div>
+
+											<h3>绿地长岛</h3>
+
+											<p>
+												精心布局，全明空间通透格局; 餐厅与厨房相连，第一时间品尝生活美味
+											</p>
+
+											<div class="more">
+												<span>了解更多</span>
+											</div>
+
+										</div>
+
+									</dd>
+
+								
+
+							</dl>
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/2.jpg">
+									</dt>
+
+									<dd>
+										<em></em>
+
+										<div>
+
+											<h3>绿地长岛</h3>
+
+											<P>客厅带观景阳台，宽敞视野美景自然延入，一把藤椅，一片悠闲的时光;<br/>
+												主次卧飘窗，享受更多阳光宠爱</P>
+
+
+											<div class="more">
+												<span>了解更多</span>
+											</div>
+
+										</div>
+
+									</dd>
+
+								
+							</dl>
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/3_002.jpg">
+									</dt>
+
+									<dd>
+										<em></em>
+
+										<div>
+
+											<h3>绿地长岛</h3>
+
+											<P>科学利用每一寸空间，动静分区; 客厅超大空间，心境开阔; <br/>
+
+                 							 进深卧室，独立卫生间，观景飘窗</P>
+
+
+											<div class="more">
+												<span>了解更多</span>
+											</div>
+
+										</div>
+
+									</dd>
+
+							</dl>
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/huxing01.jpg">
+									</dt>
+
+									<dd>
+										<em></em>
+
+										<div>
+
+											<h3>绿地长岛</h3>
+
+											<p>
+												客厅、餐厅贯通设计，活动空间宽敞舒适<br> 客厅外接超大阳台
+											</p>
+
+											<div class="more">
+												<span>了解更多</span>
+											</div>
+
+										</div>
+
+									</dd>
+
+
+							</dl>
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/huxing02.jpg">
+									</dt>
+
+									<dd>
+										<em></em>
+
+										<div>
+
+											<h3>绿地长岛</h3>
+
+											<p>
+												L型厨房设计，增加空间利用率<br> 与阳光健康更亲近
+											</p>
+
+											<div class="more">
+												<span>了解更多</span>
+											</div>
+
+										</div>
+
+									</dd>
+
+								
+
+							</dl>
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/huxing03.jpg">
+									</dt>
+
+									<dd>
+										<em></em>
+
+										<div>
+
+											<h3>绿地长岛</h3>
+
+											<p>
+												独立书房，彰显主人文化品位<br> 客厅均带阳台，提供阳光下的休闲天地
+											</p>
+
+											<div class="more">
+												<span>了解更多</span>
+											</div>
+
+										</div>
+
+									</dd>
+
+
+							</dl>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="section section3" id="c">
+
+					<div class="tit">
+						<small>Peripheral support</small>
+
+						<h2>投资潜力</h2>
+
+						<img src="./hwpczc_files/titBg.png">
+					</div>
+
+					<div class="txt sec3Txt">
+
+						<div class="container over">
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/zhoubian1.png"><img
+											src="./hwpczc_files/zhoubian1_1.png">
+									</dt>
+
+									<dd>
+
+										<h3>一大规划：崇明岛要打造成世界级的生态岛</h3>
+
+										<p>崇明岛被誉为中国的长寿之乡，每年吸引500万的旅游客流。
+                  1，森林多：上海70%的森林在崇明岛。
+                  2，珍贵鸟类多：在崇明岛的鸟类有321种。
+                  3，湿地公园多：上海7大生态景观群都在崇明。
+                  4，空气好：崇明岛空气中的负氧离子含量高于上海空气含量100倍。
+                  5，水好：直接食用的二类水占全岛50%。</p>
+
+										<span></span>
+									</dd>
+
+								
+							</dl>
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/zhoubian2.png"><img
+											src="./hwpczc_files/zhoubian2_1.png">
+									</dt>
+
+									<dd>
+
+										<h3>二大规划：崇明要打造成国际论坛岛</h3>
+
+              							<p>1，我们打造的国际论坛岛规模上完全超越博鳌亚洲论坛，为亚洲在世界发声。
+                 						2，在崇明岛核心规划区，规划建造超半个西湖崇明最大的城市人工湖，成为依托上海，辐射长三角，面向全世界的生态型，
+
+										低碳化的现代化服务业集聚区。</p>
+										
+
+										<span></span>
+									</dd>
+
+								
+
+							</dl>
+
+							<dl>
+
+								
+									<dt>
+										<img src="./hwpczc_files/zhoubian3.png"><img
+											src="./hwpczc_files/zhoubian3_1.png">
+									</dt>
+
+									<dd>
+
+										<h3>三大规划：崇明岛国家级交通规划</h3>
+
+              							<p>一条高铁：18年开建北沿江高铁，自上海引出，刮越崇明岛至南通启东，经南通，泰州，扬州至南京。
+										一条高速：G40、陈海公路、会新增永兴东路高速出口，届时上海到我们项目仅需1个小时左右。
+										两条轨交：地铁1号线将延伸至崇明，后期可能将经过绿地长岛到江苏海门。项目考虑配备地铁口的短泊巴士无缝对接。</p>
+										
+
+										<span></span>
+									</dd>
+
+
+							</dl>
+
+							<dl>
+
+								
+									<dt>
+										<img src="./hwpczc_files/zhoubian4.png"><img
+											src="./hwpczc_files/zhoubian4_1.png">
+									</dt>
+
+									<dd>
+
+										<h3>四大规划：崇明岛要打造成智慧产业园、国际休闲中心</h3>
+
+              							<p>1，规划中的崇明第一个高新技术智慧产业园，预计2017年底建成投入使用，再次擎引崇明价值升腾。
+											2、占地3万亩的全球超级娱乐休闲配套——海立方，经济相当于17个迪斯尼，与亚洲顶级私人高尔夫球场一起，共同构建全球
+
+											高端娱乐休闲版图。</p>
+										
+
+										<span></span>
+									</dd>
+
+								
+							</dl>
+
+						</div>
+
+						<div class="containers">
+
+							<div class="txt">
+								<img src="./hwpczc_files/q.jpg"> 
+
+									<div class="txtMdiv1">
+										<em></em>
+
+										<div class="txtMdiv1s">
+
+											<h3>环上海所有区域当中，这里是单价最低、首付最低</h3>
+
+											<p>总价最低、规模最大、品质最高的首个中国生态样板小镇</p>
+
+											<span></span>
+
+											<p>
+												<span>免费服务热线：</span><strong>021-5107-9115</strong>
+											</p>
+
+											<div class="zixun">
+												<span>立即咨询</span>
+											</div>
+
+										</div>
+
+									</div>
+
+								
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="section section4" id="d">
+
+					<div class="container">
+
+						<div class="tit">
+							<small>professional service</small>
+
+							<h2>专业服务</h2>
+
+							<img src="./hwpczc_files/titBg.png">
+						</div>
+
+						<div class="txt sec4Txt">
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/fuwuImg1.jpg">
+									</dt>
+
+									<dd>
+										<em></em>
+
+										<div>
+											<span>01</span>
+
+											<div>
+
+												<h3>预约</h3>
+
+												<p>购买更多优惠价格可以享受， 我们省了一笔中介费。房子当然更优惠。。</p>
+
+												<span></span>
+											</div>
+
+										</div>
+
+									</dd>
+
+								
+
+							</dl>
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/fuwuImg2.jpg">
+									</dt>
+
+									<dd>
+										<em></em>
+
+										<div>
+											<span>02</span>
+
+											<div>
+
+												<h3>好房源等于高价值</h3>
+
+												<p>我们会优先帮你抢到抢手的优质房源， 哪怕别人买不到，我们能帮您买到。 好房子省到就是赚到!</p>
+
+												<span></span>
+											</div>
+
+										</div>
+
+									</dd>
+
+								
+							</dl>
+
+							<dl>
+
+								
+
+									<dt>
+										<img src="./hwpczc_files/fuwuImg3.jpg">
+									</dt>
+
+									<dd>
+										<em></em>
+
+										<div>
+											<span>03</span>
+
+											<div>
+
+												<h3>服务</h3>
+
+												<p>买房缺首付?手头紧张?贷款有问题? 别担心，我们都有办法帮您解决! 只要您想买房，我们会全力以赴帮您解决!
+													并且我们会全程跟踪，服务到底，任何问题都可以找我们。</p>
+
+												<span></span>
+											</div>
+
+										</div>
+
+									</dd>
+
+
+							</dl>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="section section5" id="e">
+
+					<div class="container">
+
+						<div class="tit">
+							<small>Book a shuttle bus</small>
+
+							<h2>预约看房</h2>
+
+							<img src="./hwpczc_files/titBg2.png">
+						</div>
+
+						
+							<div class="txt sec5Txt">
+
+								<dl>
+
+									<dt>
+										<img src="./hwpczc_files/banche.jpg">
+									</dt>
+
+									<dd class="over">
+
+										<div class="left">
+											<em></em>
+
+											<div>
+
+												<p>
+													因班车有限，提前预约可享受班车接送以及有限派车服务；<br> 非本地自驾客户提前预约可享受油费路费报销政策；<br>
+
+													<strong></strong><br>
+												</p>
+
+												<p>
+													<span>预约看房热线：</span><strong>021-5107-9115</strong>
+												</p>
+
+												<div class="yuyue">
+													<span>立即预约</span>
+												</div>
+
+											</div>
+
+										</div>
+
+
+
+									</dd>
+
+								</dl>
+
+							</div>
+
+					
+					</div>
+
+				</div>
+
+				<div class="section section6" id="f">
+
+					<div class="container">
+
+						<div class="secTit">
+							<h2 id="lxwm">联系我们</h2>
+
+						</div>
+
+						<div class="txt sec6Txt over">
+
+							<div class="over">
+
+								<dl>
+
+									<dt>
+										<img src="./hwpczc_files/teLogo.png">
+									</dt>
+
+									<dd>
+										<span>电话：</span> <strong>021-5107-9115</strong>
+									</dd>
+
+								</dl>
+
+								<dl>
+
+									<dt>
+										<img src="./hwpczc_files/ewmLogo.png">
+									</dt>
+
+									<dd>
+										<span>扫一扫</span> <span>联系客服经理</span>
+									</dd>
+
+								</dl>
+
+							</div>
+
+							<div>
+
+								<ul>
+
+									<li><a
+										href="#lxwm"
+										target="_blank">立即咨询</a></li>
+
+									<li><a href="#lxwm"
+										style="color: #FF4040; font-size: 12px;">关于我们</a></li>
+
+								</ul>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+
+			</div>
+
+			<footer>
+
+
+
+				<div class="bq">
+
+					<p>
+						<span></span>
+					</p>
+
+				</div>
+
+				<div class="foot active">
+
+					<div style="width: 1903px;">
+
+						<div class="container">
+
+							<div>
+								<span><img src="./hwpczc_files/footR.png"></span>
+
+								<div class="mDiv">
+
+									<div class="over">
+
+										<div class="foot1">
+
+											<p>在线智能获取房源信息</p>
+
+											<!--<p>输入<span>手机号</span>和想要了解的<span>户型</span>获取详细介绍<br>
+
+                     透彻了解您想要户型的最新优惠详情</p>-->
+											<p>
+												输入<span>手机号</span>获取详细介绍<br> 透彻了解您想要户型的最新优惠详情
+											</p>
+										</div>
+
+										<div class="foot2">
+
+											<p>
+												今日已有<span>116</span>人免费获取到想要户型的最新信息
+											</p>
+
+											
+											 <form class="info_form" name="info_form" id="dataForm" action="/ldcd/nhwyj.jsp" method="post" target="my" onsubmit="return toVaild()">
+
+												<div>
+
+													<label>姓名：</label> <input name="uid" type="text"
+														id="userName"> 
+												</div>
+												<div>
+
+													<label>手机号： </label> <input name="upwd" type="text"
+														id='ff'>
+
+												</div>
+
+												<div>
+													
+													<input id="xm" type='hidden'name='xm'  value=""/><script src="/ldcd/xmmc.js"></script> 
+													<input id="smt"  value="团购报名" name="" type="submit" 
+													style="font-size:20px; background: #f00;color: #ffffff;width: 150px;height: 45px;">
+													
+														
+												</div>
+
+											</form>
+
+										</div>
+
+									</div>
+
+								</div>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</footer>
+
+		</div>
+		<script type="text/javascript" src="./hwpczc_files/jquery-1.js.下载"></script>
+
+		<script type="text/javascript" src="./hwpczc_files/jquerys.js.下载"></script>
+
+		<script type="text/javascript" src="./hwpczc_files/jquery.js.下载"></script>
+
+		<script type="text/javascript">
+			$(document).ready(function() {
+
+				$('.flexslider').flexslider({
+
+					directionNav : true,
+
+					pauseOnAction : false
+
+				});
+
+			});
+		</script>
+		<script>
+			$(function() {
+
+				$('a[href*=#],area[href*=#]')
+						.click(
+								function() {
+
+									if (location.pathname.replace(/^\//, '') == this.pathname
+											.replace(/^\//, '')
+											&& location.hostname == this.hostname) {
+										var $target = $(this.hash);
+										$target = $target.length
+												&& $target
+												|| $('[name='
+														+ this.hash.slice(1)
+														+ ']');
+										if ($target.length) {
+											var targetOffset = $target.offset().top;
+											$('html,body').animate({
+												scrollTop : targetOffset
+											}, 1000);
+											return false;
+										}
+									}
+								});
+			});
+		</script>
+
+		<script language="javascript">
+            function toVaild(){//判读11位电话号码
+            	var temp = document.getElementById("ff").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+    </script>
+
+	</div>
+	<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+</body>
+</html>

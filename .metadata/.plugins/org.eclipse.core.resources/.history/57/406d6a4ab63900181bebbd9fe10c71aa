@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+   <%@ page import="my.*"%>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="css/qmyx.css">
+<title>团购码</title>
+<%
+//设置编码方式
+//try{
+response.setContentType("text/html;charset=utf-8");
+request.setCharacterEncoding("utf-8");
+String uid = request.getParameter("uid");
+String upwd = request.getParameter("upwd");
+//}catch(Exception e){}
+    %>
+   
+    
+    
+ 
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="">
+<div style="text-align: center;">
+<div align="center" class="sz"><img src="../qmyx/img/index_1.jpg" width="1000" height="77" alt=""></div>
+
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+	<tbody><tr>
+		<td colspan="3">
+			<img src="../qmyx/img/index_2.jpg" width="1000" height="429" alt=""></td>
+	</tr>
+	
+	
+	<tr>
+		<td colspan="3">
+			<img src="../qmyx/img/index_3.jpg" width="1000" height="118" alt=""></td>
+			
+	</tr>
+	
+</tbody>
+
+</table>
+</div>
+	<p align="center" style="font-size: 60px;  ">客户状态明细</p>
+	 <style>
+        table,table tr th, table tr td {  font-size: 30px; }
+        .tdtd,.td2{border:1px solid #0094ff;}
+        .td2{color: red;}
+        table { width: 800px; min-height: 25px; line-height: 150px; text-align: center; border-collapse: collapse;}
+        .but{width: 700px;height: 90px;min-height: 20px;display: block; background-color: red; 
+        border: 1px solid #3762bc;color: #fff;   padding: 9px 14px; font-size: 50px; border-radius: 5px;margin:auto; }     
+    </style>
+
+    <table align="center" class="tata">
+        <tr><td class="tdtd">客户姓名</td><td class="tdtd">项目名称</td><td class="tdtd">目前状态</td><td class="tdtd">状态变更日期</td><td class="tdtd">对接销售</td></tr>
+        <tr><td class="td2">测试</td><td class="td2">绿地长岛</td><td class="td2">以签约</td><td class="td2">2018-04-18</td><td class="td2">张三</td></tr>
+        <tr><td class="td2">测试</td><td class="td2">绿地长岛</td><td class="td2">以签约</td><td class="td2">2018-04-18</td><td class="td2">张三</td></tr>
+        <tr><td class="td2">测试</td><td class="td2">绿地长岛</td><td class="td2">以签约</td><td class="td2">2018-04-18</td><td class="td2">张三</td></tr>
+        <tr><td class="td2">测试</td><td class="td2">绿地长岛</td><td class="td2">以签约</td><td class="td2">2018-04-18</td><td class="td2">张三</td></tr>
+        
+    </table>
+    <br><br><br><br><br><br>
+	<img src="../qmyx/img/fool.png" width="1000" height="118" alt="">
+
+
+
+
+</body>
+</html>

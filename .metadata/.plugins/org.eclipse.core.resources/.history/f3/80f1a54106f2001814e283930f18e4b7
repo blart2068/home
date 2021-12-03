@@ -1,0 +1,15 @@
+.clear{clear:both;}
+.fanglist{width:1200px;margin:0 auto;}
+
+.fanglista{float:left;}
+.fanglistb{float:left;margin-left:20px;}
+
+
+.fanglistatt1{margin-top:30px;text-align:center;}
+.fanglistattname1{border-bottom:2px solid #C2C2C2;font-size:25px;color:#72716F;font-weight:700;text-align:center;padding-bottom:15px;}
+
+
+.fanglistatt2{margin-top:30px;text-align:center;}
+.fanglistattname2{color:#72716F;}
+.fanglistatt3{margin-top:10px;text-align:center;}
+.fanglistattname3{color:#14964C;font-weight:700;}

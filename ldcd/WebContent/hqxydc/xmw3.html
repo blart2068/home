@@ -1,0 +1,171 @@
+
+<!DOCTYPE html>
+
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+		<title>厦门湾</title>
+		 <link rel="stylesheet" href="../imges/foot.css">
+		<link rel="stylesheet" href="../imges/bootstrap.min.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		
+		
+		
+		<script >
+            function toVaild(){//判读11位电话号码
+            	var temp = document.getElementById("tel").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+            
+            function toVaild2(){//判读11位电话号码
+            	var temp = document.getElementById("f2").value;
+            	var re = /^1\d{10}$/
+            		if(!re.test(temp)){
+            			alert("请正确输入11位手机号码！!");
+            			return false;
+                }
+                else{
+                    return true;
+                }
+            }
+            
+    </script>
+    <!-- 百度统计代码 -->
+<script type="text/javascript" src="../baidu.js" ></script>
+    
+		
+</head>
+
+
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="">
+<div style="text-align: center;">
+<!--  //标题
+<div align="center" class="sz"><img src="img/index_1.jpg" width="1000" height="77" alt=""></div>
+-->
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+	
+	<tbody>
+	<tr>
+		<td colspan="3">
+			<img src="../imges/ldhw3/xmw3logo.jpg"  width="100%"  border="0" usemap="#Map" style="size: ">
+			
+			</td>
+	
+	</tr>
+	
+	
+	<tr>
+		<td colspan="3">
+			<img src="../imges/ldhw3/200.jpg"  width="100%"  border="0" usemap="#Map" style="size: ">
+			
+			</td>
+	
+	</tr>
+	
+	
+
+	
+	</table>
+	<div>
+			  <div align="center">
+			    <p class="STYLE2">&nbsp;</p>
+			    <p class="STYLE3"><a href="#">首页</a> / <a href="../index/gywm.html">关于我们</a> / <a href="../index/lxwm.html">联系我们</a></p>
+			    <p id="p2" style="font-size: 10px; color: gray;"> </p>
+			      <script language="javascript"  charset="UTF-8" src="../js/ym.js" ></script>
+			   
+			  </div>
+			</div>
+	<br><br><br><br><br><br><br><br><br>
+	
+	
+	
+	
+
+    
+    
+   
+	
+	
+			
+	
+   
+    
+    <!-- 底板菜单  -->
+    <div class="text-8">
+			<div class="biankuang"></div>
+			<div class="box">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-xs-12 clearfix">
+							<div class="textbox pull-left">
+								<div class="mc clearfix">
+									<div class="biaoti pull-left">报名购房立省</div>
+									<div class="qita pull-left" style="font-size: 25px; color: yellow;">20000元!!!</div>
+									<h3>全民经纪人奖金拿不停</h3>
+								</div>
+								
+								<a href="tel:4001572818" ><span style="color: yellow;" id="show">拨打售楼热线<img src="../imges/tle.jpg"
+						width="90px"></span><span style="color: white;"></span></a>
+							</div>
+							<div class="biaodan pull-left">
+
+
+
+								 <form  action="/ldcd/xwm.jsp" method="post" target="my" onsubmit="return toVaild()">
+									<div class="hang pull-left">
+										<div class="mc pull-left" >姓名:</div>
+										<input type="text" class="pull-left tr" id="name1" name="uid" required="" placeholder="您的姓名">
+									</div>
+									<div class="hang pull-left">
+										<div class="mc pull-left">电话:</div>
+										<input type="text" class="pull-left tr" id="tel" name="upwd" required="" placeholder="请输入您的手机号">
+										<input id="xm1" type='hidden'name='xm'  value=""/><script  src="/ldcd/xmmc1.js"></script> 
+										<input  type='hidden'name='xmmc'  value="厦门湾返利"/>
+									</div>
+									
+									<button class="pull-left tr" type="submit">团购报名</button>
+									
+									
+								</form>
+								<iframe name="my" frameborder="0" style="width: 0px; height: 0px;"></iframe>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		
+</body>
+<script type="text/javascript">
+
+var system ={  
+		win : false,  
+		mac : false,  
+		xll : false  
+		};  
+		var p = navigator.platform;  
+		system.win = p.indexOf("Win") == 0;  
+		system.mac = p.indexOf("Mac") == 0;  
+		system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);  
+		if(system.win||system.mac||system.xll){  
+		
+			//document.getElementById('img').setAttribute("src","../imges/xyszhgy/14.jpg"); 
+			document.getElementById( "show").style.display= "none";
+		    	
+		} 
+    
+    </script>
+
+
+</html>

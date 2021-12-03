@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>空调系统</title>
+<meta name="viewport"
+	content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0">
+    
+    <script language=javascript>
+    	var yhm = sessionStorage.getItem("yhm");
+    	if (yhm=="8888") {
+			
+		}else {
+			document.location.href="denglu.html";
+			
+		}
+			
+		</script>
+    
+</head>
+<style type="text/css">
+a:link, a:visited {
+	text-decoration: none; /*超链接无下划线*/
+}
+
+a:hover {
+	text-decoration: underline; /*鼠标放上去有下划线*/
+}
+body {
+	margin: 5px; /*设置网页顶格*/
+	background: #4A374A;
+	
+}
+
+div#zhuti{
+	width: 100%; /*设置宽度*/
+	height: 600px /*设置高度*/;
+	font-size:200%; 
+}
+div#lb{
+	width: 20%;
+	float: left;
+
+}
+a#kt{
+	background: olive;
+}
+a#zw{
+	background: orange;
+}
+a#kw{
+	background: teal;
+}
+div#tp{
+	width: 80%;
+	float: left;
+
+}
+	</style>
+	
+<body>
+	<h1 align="center">
+			<font color="DarkMagenta">空调控制系统</font>
+		</h1>
+		<h2><a href="zhuye.html" style=" color: yellow;"> 主菜单</a></h2>
+		<div id="zhuti">
+			<div id="lb">
+				<a id="kt" href="ktkt.html" target="this">客厅</a><br><br><br><br>
+				<a id="zw" href="ktzw.html" target="this">主卧</a><br><br><br><br>
+				<a id="kw" href="ktcw.html" target="this">次卧</a><br><br><br><br>
+			</div>
+			<div id="tp">
+				<iframe width="100%" height="400px" name="this"  frameborder="0" src="ktkt.html"></iframe>
+			
+			</div>
+			<h2 align="right"><a href="zhuye.html">返回</a></h2>
+		</div>
+		
+	</body>
+
+</html>

@@ -1,0 +1,25 @@
+package tank;
+
+import java.awt.Color;
+import java.awt.Graphics;
+
+import javax.swing.*;
+
+public class Mypanel extends JPanel{
+	Mytank mt;
+	Mypanel(){
+		mt=new Mytank(260,560);
+	}
+	public void paint(Graphics g){
+		super.paint(g);
+		g.fillRect(0, 0, 700, 600);
+		g.setColor(Color.YELLOW);
+		g.fill3DRect(mt.getX(), mt.getY(), 10, 40, false);
+		g.fill3DRect(mt.getX()+10, mt.getY()+10, 20, 20, false);
+		g.fill3DRect(mt.getX()+30, mt.getY(), 10, 40, false);
+		g.fillOval(mt.getX()+10, mt.getY()+8, 20, 25);
+		g.fill3DRect(mt.getX()+18, mt.getY(), 4, 15, false);
+		
+		
+	}
+}

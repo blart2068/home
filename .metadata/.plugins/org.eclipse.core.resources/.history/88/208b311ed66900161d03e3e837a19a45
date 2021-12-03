@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>表格</title>
+</head>
+<body>
+	<table border="3" >
+		<tr>11</tr>
+		<tr>11</tr>
+		<tr>11</tr>
+	</table>
+</body>
+</html>

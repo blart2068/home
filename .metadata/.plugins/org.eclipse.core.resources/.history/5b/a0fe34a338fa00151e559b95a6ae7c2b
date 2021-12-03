@@ -1,0 +1,30 @@
+package tank;
+
+public class Ditank extends Tank implements Runnable{
+	private int sd=2;
+	public int getSd() {
+		return sd;
+	}
+	public void setSd(int sd) {
+		this.sd = sd;
+	}
+	Ditank(int x,int y){
+		super(x,y);
+	}
+	public void run(){
+		for(;;){
+			if(this.getTksm()==true){
+				try {
+					Thread.sleep(50);
+				} catch (Exception e) {}
+				switch (super.getFx()) {
+				case 2:
+					int y=super.getY();
+					y-=sd;
+					super.setSd(y);
+
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>窗帘</title>
+<link type="text/css" rel="stylesheet" href="css/datouwang.css" />
+<meta name="viewport"
+	content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0"> 
+    
+    <script language=javascript>
+    	var yhm = sessionStorage.getItem("yhm");
+    	if (yhm=="8888") {
+			
+		}else {
+			document.location.href="denglu.html";
+			
+		}
+			
+		</script>
+    
+</head>
+<body >
+<!-- 代码 开始 -->
+	<h1 >窗帘控制系统</h1>
+	<div style="position: fixed;left: 0;right: 0">
+
+	<a href="daohang.html" ><img src="img/15.png"  height="50" width="50" / style="margin: 10px;"></a>
+	<a href="denglu.html" style="float:right;"><img src="img/17.png"  height="50" width="50" / style="margin: 10px;"></a>
+
+</div>
+<ul>
+		<input type="radio" name="radio" data-icon="客厅" onchange="zhaoming()"/>
+		<input type="radio" name="radio" data-icon="主卧" onchange="kongtiao()"/>
+		<input type="radio" name="radio" data-icon="次卧" onchange="chuanglian()"/>
+
+</ul>
+
+<ul >
+	<br/>
+	<li ><p class="p">窗帘: <input type="range" /></p></li>
+	<li ><p class="p">窗纱: <input type="range" /></p></li>
+	
+		
+	</ul>
+
+
+
+
+<!-- 代码 结束 -->
+</body>
+</html>

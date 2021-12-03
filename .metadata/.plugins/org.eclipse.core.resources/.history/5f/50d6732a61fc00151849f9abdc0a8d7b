@@ -1,0 +1,22 @@
+package tank;
+import javax.swing.*;
+public class Main extends JFrame{
+	Mypanel mb;
+	Guanka gk;
+	public static void main(String [] args){
+		new Main();
+	}
+	Main(){
+		mb=new Mypanel();
+		gk=new Guanka();
+		Thread xc=new Thread(mb);
+		xc.start();
+		add(mb);
+		addKeyListener(mb);
+		setTitle("Ì¹¿Ë´óÕ½");
+		setSize(1200,700);
+		setLocation(222,122);
+		setVisible(true);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	}
+}

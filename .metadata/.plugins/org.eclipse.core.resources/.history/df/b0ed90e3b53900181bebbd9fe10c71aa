@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+   <%@ page import="my.*"%>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="css/qmyx.css">
+<title>团购码</title>
+<%
+//设置编码方式
+//try{
+response.setContentType("text/html;charset=utf-8");
+request.setCharacterEncoding("utf-8");
+String uid = request.getParameter("uid");
+String upwd = request.getParameter("upwd");
+
+String s =tgm.zh(upwd,uid);
+//}catch(Exception e){}
+    %>
+   
+    
+    
+ 
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="">
+<div style="text-align: center;">
+<div align="center" class="sz"><img src="../qmyx/img/index_1.jpg" width="1000" height="77" alt=""></div>
+
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+	<tbody><tr>
+		<td colspan="3">
+			<img src="../qmyx/img/index_2.jpg" width="1000" height="429" alt=""></td>
+	</tr>
+	
+	
+	<tr>
+		<td colspan="3">
+			<img src="../qmyx/img/index_3.jpg" width="1000" height="118" alt=""></td>
+			
+	</tr>
+	
+</tbody>
+
+</table>
+</div>
+<h1 align="center" style="font-size: 60px;">全民经纪人:</h1>
+<h1 align="center"style="font-size: 80px; color: red;"><%=s%></h1>
+
+<h1 align="center" style="font-size: 60px;">你的团购优惠码为:</h1>
+<h1 align="center"style="font-size: 80px; color: red;"><%=s%></h1>
+
+
+	<p align="center" style="font-size: 60px;  ">我的客户状态:</p>
+	 <style>
+        table,table tr th, table tr td {  font-size: 40px; }
+        .tdtd,.td2{border:1px solid #0094ff;}
+        .td2{color: red;}
+        table { width: 800px; min-height: 25px; line-height: 150px; text-align: center; border-collapse: collapse;}
+        .but{width: 700px;height: 90px;min-height: 20px;display: block; background-color: red; 
+        border: 1px solid #3762bc;color: #fff;   padding: 9px 14px; font-size: 50px; border-radius: 5px;margin:auto; }     
+    </style>
+
+    <table align="center" class="tata">
+        <tr><td class="tdtd">已报备</td><td class="tdtd">以签约</td><td class="tdtd">以成交</td><td class="tdtd">以结佣</td></tr>
+        <tr><td class="td2">0</td><td class="td2">0</td><td class="td2">0</td><td class="td2">0</td></tr>
+        
+    </table>
+    <br>
+<div align="center">
+	<form action="/weChatDemo/jsp/khmx.jsp" method="post"  onsubmit="return toVaild()" >
+           <input type='hidden'name='uid'  value=<%=uid %>/>
+           <input type='hidden'name='upwd'  value=<%=upwd %>/>
+            <button class="but" type="submit"  >查看详情</button>  
+     </form> 
+</div>
+<br>
+<h1 align="center" style="color: gray;">*此团购优惠码将与你的身份信息相绑定</h1>
+<h1 align="center" style="color: gray;">*推广页面的同时也请把此团购码一同分享</h1>
+<h1 align="center" style="color: gray;">*请妥善保存好此团购码如有成交此团购码将是你领取佣金的重要凭据</h1>
+
+<br><br><br><br><br><br>
+	<img src="../qmyx/img/fool.png" width="1000" height="118" alt="">
+</body>
+</html>

@@ -1,0 +1,9 @@
+pin=1
+function cs(sl)
+	if(sl>10)then
+	print(sl)
+	end
+end
+do
+cs(20)
+end

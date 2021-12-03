@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "090ef8d8e502b2d49bac5b128a7b168d9987ff2904e39640c19e6e1134bd4f59",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "795e64633e1c3e4d21bd0f767dd071f4",
+                "configURIPath": "file:///d%3A/javalx/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#221a0f"
+}

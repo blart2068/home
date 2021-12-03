@@ -1,0 +1,24 @@
+package tank;
+
+import java.awt.*;
+import javax.swing.JPanel;
+
+public class Guanka extends JPanel implements Runnable{
+	static Image tanka;
+
+	Guanka(){//构造
+		tanka=Toolkit.getDefaultToolkit().getImage(Paint.class.getResource("/Tank.png"));
+	}
+
+	public void paint(Graphics g) {//画板
+		super.paint(g);
+		g.drawImage(tanka, 0, 0, 900,660,this);
+		
+	}
+	public void run(){//线程
+		for(;;){
+			
+		}
+	}
+
+}

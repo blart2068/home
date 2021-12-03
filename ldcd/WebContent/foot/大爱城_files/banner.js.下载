@@ -1,0 +1,9 @@
+$(function(){
+	var bannerswiper = new Swiper('.banner .swiper-container', {
+	    speed:500,
+	    autoplay : 5000,
+	    autoplayDisableOnInteraction : false,
+	    pagination : '.banner .swiper-pagination',
+	    paginationClickable :true,
+	})
+})

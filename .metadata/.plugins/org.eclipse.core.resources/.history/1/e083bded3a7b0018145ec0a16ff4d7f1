@@ -1,0 +1,38 @@
+﻿
+ym=document.domain; 
+if (ym=="www.shfangzhixiao.com") { //document.write(ym)
+	//劲港  www.shfangzhixiao.com
+	 document.getElementById("xm").value = "【劲港（pc）】";  
+}else if(ym=="www.shtrdc.com"){
+	//台仁
+	document.getElementById("xm").value = "【台仁（pc）】";
+}else if(ym=="www.ghbgs.com"){
+	//屏歌
+	document.getElementById("xm").value = "【屏歌（pc）】";
+}else if(ym=="www.lwjkjdsn.com"){
+	//郦湾
+	document.getElementById("xm").value = "【郦湾（pc）】";
+}else if(ym=="www.cshzjdc.com"){
+	//舟津
+	document.getElementById("xm").value = "【舟津（pc）】";
+}
+else if (ym=="wap.shfangzhixiao.com") { //document.write(ym)
+	//劲港  wap.shfangzhixiao.com
+	 document.getElementById("xm").value = "【劲港（移动）】";  
+}else if(ym=="wap.shtrdc.com"){
+	//台仁
+	document.getElementById("xm").value = "【台仁（移动）】";
+}else if(ym=="wap.ghbgs.com"){
+	//屏歌
+	document.getElementById("xm").value = "【屏歌（移动）】";
+}else if(ym=="wap.lwjkjdsn.com"){
+	//郦湾
+	document.getElementById("xm").value = "【郦湾（移动）】";
+}else if(ym=="wap.cshzjdc.com"){
+	//舟津
+	document.getElementById("xm").value = "【舟津（移动）】";
+} else if(ym=="localhost"){
+	document.getElementById("xm").value = "【测试（移动）】";
+}
+
+

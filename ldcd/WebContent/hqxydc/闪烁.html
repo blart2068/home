@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>闪烁的边框</title>
+<meta http-equiv="mrc-Type" mrc="text/html;charset=gb2312">
+</head>
+
+<body>
+	http://www.hndhgf.com/shipin/xmw.mp4
+	<video id="video" width="100%" height="300px" src="http://www.hndhgf.com/shipin/xmw.mp4" controls="controls" poster="../imges/hssg/xmwsp.jpg" ></video>
+	
+	<script type="text/javascript">
+        (function() {
+            var video, output;
+            var scale = 0.8;
+            var initialize = function() {
+                output = document.getElementById("output");
+                video = document.getElementById("video");
+                video.addEventListener('loadeddata', captureImage);
+            };
+            var captureImage = function() {
+                var canvas = document.createElement("canvas");
+                canvas.width = video.videoWidth * scale;
+                canvas.height = video.videoHeight * scale;
+                canvas.getContext('2d').drawImage(video, 0, 0, canvas.width,
+                        canvas.height);
+
+                var img = document.createElement("img");
+                img.src = canvas.toDataURL("image/png");
+                img.width = 400;
+                img.height = 300;
+                output.appendChild(img);
+            };
+            initialize();
+        })();
+    </script>
+	
+     	
+	<div id="id">
+		<a href="../hqxydc/cdsp.html"> <img
+			class="mip-fill-content mip-replaced-content"
+			src="../imges/cdsp/cdsplj.jpg">
+		</a>
+	</div>
+	<script >
+		var oBox = document.getElementById("id"); //要闪烁的div id
+		var timer = null; //定义时间器
+		var i = 0;
+		clearInterval(timer); //先清空时间器
+		oBox.onmouseover = function() { //当鼠标移入div时 清空时间器
+			clearInterval(timer);
+		};
+		timer = setInterval(function() {
+			oBox.style.display = i++ % 2 ? "none" : "block"; // 有规律的控制div的展示与隐藏
+			i > 8 && (clearInterval(timer)) //控制闪烁次数
+		}, 500);
+	</script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+package xsgl;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.sql.*;
+
+import javax.swing.JDialog;
+import javax.swing.JFrame;
+public class Tjwj extends JDialog implements ActionListener {
+
+	Tjwj(String mc,boolean tf){
+		this.setTitle(mc);
+		this.setVisible(true);
+		this.setSize(300, 300);
+		this.setLocation(400, 400);
+		this.setResizable(false);
+		//this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	}
+	public void actionPerformed(ActionEvent e) {//---¼àÌý---
+		
+		
+	}
+
+	
+}

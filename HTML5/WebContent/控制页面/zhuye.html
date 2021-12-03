@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>主页</title>
+<meta name="viewport"
+	content="maximun-scale=1.0,
+    minimum-scale-=1.0,user-scalable=0,
+    width=device-width,initial-scale=1.0">
+    
+    <script language=javascript>
+    	var yhm = sessionStorage.getItem("yhm");
+    	if (yhm=="8888") {
+			
+		}else {
+			document.location.href="denglu.html";
+			
+		}
+			
+		</script>
+    
+</head>
+<style type="text/css">
+a:link, a:visited {
+	text-decoration: none; /*超链接无下划线*/
+}
+
+a:hover {
+	text-decoration: underline; /*鼠标放上去有下划线*/
+}
+body {
+	margin: 5px; /*设置网页顶格*/
+	background: #4A374A;
+	
+}
+
+div#zhuti {
+	width: 100%; /*设置宽度*/
+	height: 600px /*设置高度*/;
+	font-size:200%; 
+}
+div#dk{
+	background: red;
+	width: 50%;
+	height: 20%;
+	line-height:350%;/*垂直居中*/
+	
+	float: left;
+}
+div#kt{
+	background: black;
+	width: 50%;height: 20%;
+	line-height:350%;/*垂直居中*/
+	float: left;
+}
+div#mscl{
+	background: fuchsia;
+	width: 50%;height: 20%;
+	line-height:350%;/*垂直居中*/
+	float: left;
+}
+div#yyxt{
+	background: gray;
+	width: 50%;height: 20%;
+	line-height:350%;/*垂直居中*/
+	float: left;
+}
+div#dycz{
+	background: lime;
+	width: 100%;height: 10%;
+	line-height:200%;/*垂直居中*/
+	clear: both ;
+}
+div#qjms{
+	background: orange;
+	width: 100%;height: 10%;
+	line-height:200%;/*垂直居中*/
+	
+}
+div#footing {
+	width: 100%;height: 10%;
+	line-height:200%;/*垂直居中*/
+	background-color: PaleVioletRed;
+	clear: both; /*恢复默认*/
+}
+</style>
+</head>
+<body>
+
+	<h1 align="center"><font color="DarkMagenta">智能控制系统</font></h1>
+	<div align="center">
+	<a href="yykz.jsp" style="color: red;" ><img alt="" src="tubiao\mic.png"></a>
+	</div>
+	<div id="zhuti">
+		<div id="dk" align="center" ><a href="dengguang.html">灯光系统</a></div>
+		<div id="kt" align="center"><a href="kongtiao.html">空调系统</a></div>
+		<div id="mscl" align="center"><a href="mscl.html">门锁窗帘</a></div>
+		<div id="yyxt" align="center"><a href="yyxt.html">影音系统</a></div>
+		<div id="dycz" align="center"><a href="dycz.html">电源插座</a></div>
+		<div id="qjms" align="center"><a href="qjms.html">情景模式</a></div>
+		<div id="footing" align="center"><a href="denglu.html">退出登录</a></div>
+	</div>
+
+</body>
+</html>
+
+
+
+

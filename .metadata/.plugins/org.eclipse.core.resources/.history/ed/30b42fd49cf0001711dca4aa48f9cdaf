@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0047)hwgw1.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>绿地海湾，杭州湾绿地海湾，宁波杭州湾</title>
+<meta name="Keywords" content="绿地海湾，杭州湾，绿地海湾官网，杭州湾绿地海湾，宁波杭州湾">
+<meta name="description" 
+content="绿地海湾，地处长三角几何中心——宁波杭州湾，位于杭州湾滨海新城启动区的核心区域，与绿地海湾项目南呼北应，
+是绿地集团“南湾北岛战略”的重要布局；项目首期启动地块达800亩，规划5大特色产业小镇、酒店、商务办公、设计师酒店群、
+商业街区等建筑群，可居住、休闲、度假、康养、创业、展博、金融等功能的未来新生态城市，现首期住宅产品
+（涵盖高层 、联排、双拼、叠墅）即将面市，可满足不同家庭需求。">
+<link href="./hwgw1_files/style.css" title="css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./hwgw1_files/jquery-1.8.3.min.js.下载" title="jquery-1.8.3.min.js"></script>
+<style type="text/css">:root .bm.a_c
+{display:none !important;}</style>
+<script type="text/javascript" src="./hwgw1_files/jquery.cycle.js.下载"></script>
+
+</head>
+
+<body id="index" style=""> 
+<div class="head">
+	<div class="container">
+		<div class="logo fl"></div>	
+
+		<div class="fr">  
+			<ul id="topnav">
+				<li class="topmenu fl on"><a href="hwgw1.html" title="index.aspx">首页</a></li>
+				<li class="topmenu fl">
+					<a href="hwgw2.html" title="dssq.htm">总体规划</a>
+					<span style="display: none;">
+						
+						
+					</span>
+				</li>
+				<li class="topmenu  fl">
+					<a href="hwgw3.html">楼盘相册</a>
+					<span style="display: none;">
+						
+						
+						
+						
+					</span>					
+				</li>
+				<li class="topmenu fl">
+					<a href="hwgw4.html" title="qdgh.htm">交通优势</a>
+								
+				</li>
+				<li class="topmenu fl">
+					<a href="hwgw5.html" title="xmgk.htm">在售户型</a>
+										
+				</li>
+				<li class="topmenu fl">
+					<a href="hwgw6.html" title="cdwdshzt.htm">周边配套</a>
+										
+				</li>
+				<li class="topmenu fl">
+					<a href="hwgw7.html" title="sjdld.htm">绿地品牌</a>
+					<span style="display: none;">
+						<a href="hwgw7.html" title="sjdld.htm">世界的绿地</a>
+						<a href="hwgw71.html" title="ldqyln.htm">绿地企业理念</a>
+					</span>						
+				</li>
+				<li class="topmenu fl">
+                    <a href="hwgw8.html" title="lyj.htm">发展状况</a>
+										
+				</li>
+				<li class="yuyue fl "><div><a href="hwgw9.html" title="yydd.aspx">24小时<br>团购报名</a></div></li><li class="fl" style="float:left;wifth:210px;"><div><img src="./hwgw1_files/hangzhouwancall.png" width="210px" height="102px"></div></li>
+			</ul>			
+		</div>	
+	</div>
+</div>   
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#topnav li").hover(function () { //Hover over event on list item
+            $(this).find("span").show(); //Show the subnav
+        }, function () { //on hover out...
+            $(this).find("span").hide(); //Hide the subnav
+        });
+        // 菜单
+
+        // banner
+        $(function () {
+            $('#banner').cycle({
+                fx: 'scrollHorz',
+                next: '#btnright',
+                prev: '#btnleft'
+            });
+            $('#indexnews').cycle({
+                fx: 'scrollHorz',
+                next: '#btnright2',
+                prev: '#btnleft2'
+            });
+        })
+    });
+</script>
+<div class="content center">
+	<div id="banner" style="position: relative; overflow: hidden;">
+		<img src="./hwgw1_files/banner00001.jpg" title="绿地海湾" width="1000px" height="324px" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 4; opacity: 1; width: 1000px; height: 324px;">
+		<img src="./hwgw1_files/banner00006.jpg" title="绿地海湾" width="1000px" height="324px" style="position: absolute; top: 0px; left: -1000px; display: none; z-index: 3; opacity: 1; width: 1000px; height: 324px;">
+		<img src="./hwgw1_files/banner00007.jpg" title="绿地海湾" width="1000px" height="324px" style="position: absolute; top: 0px; left: -1000px; display: none; z-index: 3; opacity: 1; width: 1000px; height: 324px;">
+	</div>
+	<div id="btnleft"></div>
+	<div id="btnright"></div>
+</div>  
+<div class="content2 center"> 
+	<div class="fl" style="width: 508px;"><a href="hwgw2.html" title="dssq.htm"><img src="./hwgw1_files/indexbanner002.jpg" alt=""></a></div>
+	<div class="fr"><img src="./hwgw1_files/indexbanner003.jpg" alt=""></div>
+	<div class="clear"></div> 
+</div>
+<div class="content2 center"> 
+	<div class="fl" style="width:300px;height:332px;">
+		<a href="hwgw7.html" title="ldjjjz.htm"><img src="./hwgw1_files/indexbanner004.jpg" width="300px" height="163px" alt=""></a>
+		<br>
+		<a href="hwgw7.html" title="sjdld.htm"><img src="./hwgw1_files/indexbanner5.jpg" width="300px" height="163px" alt=""></a>
+	</div>
+	<div class="fl news">
+		
+		<!--团购报名-->
+		       <div class="sneirongtt"><div class="sneirongttax">【绿地海湾】</div></div><!--标题 -->
+<div class="sneirongcon">
+        <div class="othersmain newsmain">
+					<div class="other-titles">
+						<span class="baomingtt">24小时团购优惠报名</span>
+ 					</div>
+					<div class="newslist">
+                
+  					
+<div class="baoming">
+<div style="display:none;"><input name="title" type="text" class="yuyueinput" value="【宝琴（pc）】绿地海湾"></div><div class="input_img">
+    	
+        <p class="name">姓名：<input type="text" name="name" placeholder="输入姓名"></p>
+        <p class="name">电话：<input type="text" id="mycall" name="mycall" size="42" onblur="checkTel()" onkeyup="this.value=this.value.replace(/D/g,&#39;&#39;)" onafterpaste="this.value=this.value.replace(/D/g,&#39;&#39;)" placeholder="输入您的11位手机号"></p>
+        
+        <input type="submit" class="sub" value="提    交" onblur="checkTel()" onclick="javascript:return checkTel();">
+
+    </div><table width="100%" align="center" cellpadding="3" cellspacing="1" class="tableborder">
+<form name="feedback" method="post" enctype="multipart/form-data" action=""></form>
+<input name="enews" type="hidden" value="AddFetionhw"> 
+
+
+    
+
+
+</table>
+</div>
+						
+              
+                   </div>
+            </div>
+<!--fangyuanliebiao.end-->
+<p></p>
+             </div>
+		  <!--团购报名-->
+		 <div class="tishiyu" style="width:186px; margin:0 auto;font-weight: 900;font-size:18px; color:#ff0000;">在线预约报名看房<br>最高报销车费300元</div>
+	</div>
+	<div class="fl" style="width:368px;height:332px;">
+		<embed height="275" width="368px" menu="true" loop="true" play="true" scale="ShowAll" wmode="Window" quality="1" src="./hwgw1_files/hzw.swf" type="application/x-shockwave-flash">
+
+		<br><img src="./hwgw1_files/indexbanner6.jpg" width="368px">
+        
+
+        <script type="text/javascript">jQuery('#pic_list460').slide({ mainCell:'ul',autoPlay:true,effect:'leftMarquee',interTime:50,vis:3  });</script>
+
+
+      <map name="Map">
+        <area shape="rect" coords="7,10,251,162" href="http://v.qq.com/page/i/t/l/i01544mmvtl.html" target="_blank">
+        <area shape="rect" coords="5,175,128,246" href="http://v.qq.com/page/l/z/2/l0154m3siz2.html" target="_blank">
+        <area shape="rect" coords="132,172,254,246" href="http://v.qq.com/page/n/f/m/n01549uz1fm.html" target="_blank">
+      </map>	
+	</div>
+	<div class="clear"></div> 
+</div>
+<div class="foot">
+	<div class="toplink">
+		<div class="center">
+			<span style="font-size:14px; "><a href="hwgw1.html">绿地集团</a></span>
+		</div>
+	</div>
+	<div class=" center">
+		<div class="fl">
+			<div class="links">
+				<ul>
+					<li style="font-size:14px">合作企业</li>
+					<li><a href="hwgw1.html">麦肯锡</a></li>
+					<li><a href="hwgw1.html">摩高</a></li>
+					<li><a href="hwgw1.html">UA国际</a></li>
+					<li><a href="hwgw1.html">SASAKI</a></li>
+					<li><a href="hwgw1.html">POPULOUS</a></li>
+					<li><a href="hwgw1.html">天星调良</a></li>
+				</ul>
+				<ul>
+					<li style="font-size:14px">&nbsp; </li>
+					<li><a href="hwgw1.html">HWCD</a></li>
+					<li><a href="hwgw1.html">JWDA</a></li>
+					<li><a href="hwgw1.html">迪利安达</a></li>
+					<li><a href="hwgw1.html">尼克劳斯</a></li>
+					<li><a href="hwgw1.html">EKISTICS</a></li>	
+					<li style="width:124px"><a href="hwgw1.html">NDA恩蒂埃建筑设计</a></li>	
+				</ul>
+				
+			</div>	
+			<div class="copyright">
+				<span style="font-family:&#39;Microsoft YaHei&#39; ;color: #00adc3;font-size: 12px;font-weight: bold;">长岛24小时售楼热线: 
+					<span style="font-size: 20px;">021-5107 9115</span></span>&nbsp; &nbsp; 
+				绿地海湾 <span style="font-family: Verdana, Geneva, sans-serif;">©</span> 版权所有
+			 				 </div>
+		</div>
+		<div class="fr">
+			<img src="./hwgw1_files/weibo.png" title="images/weibo.png" alt="">
+			<img src="./hwgw1_files/weixin.png" title="images/weixin.png" alt="">
+			<img src="./hwgw1_files/erwei.png" title="images/erwei.png" alt="" style="size: 50%;">
+		</div>
+	</div>
+</div>
+<div style="display:none"><script src="./hwgw1_files/stat.php" language="JavaScript"></script><script src="./hwgw1_files/core.php" charset="utf-8" type="text/javascript">
+</script>
+<a href="http://www.cnzz.com/stat/website.php?web_id=1253877531" target="_blank" title="站长统计">站长统计</a></div>
+
+<script src="./hwgw1_files/qq.js.下载" type="text/javascript"></script><div id="qqqq" style="position:fixed;bottom:50px;left:0px;z-index:999;background:url(./hwgw1_files/wx.jpg) no-repeat 0 0;"><table width="196px" height="250px" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="232px" align="center" valign="top"><table width="196" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="font-size:14px;color:#ffffff;padding-top:155px;" align="left"><a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank" 
+href="http://wpa.qq.com/msgrd?v=3&amp;uin=2918894533&amp;site=qq&amp;menu=yes"><img src="./hwgw1_files/zixun1.jpg"></a></td></tr></tbody></table><table width="196px" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="font-size:14px;color:#ffffff;" align="left"><a class="index" style="color:#ffffff;text-decoration:none;outline:none;font-weight: 900;" target="blank"
+ href="hwgw9.html"><img src="./hwgw1_files/zixun2.jpg"></a></td></tr></tbody></table></td></tr></tbody></table></div>
+
+
+</body></html>

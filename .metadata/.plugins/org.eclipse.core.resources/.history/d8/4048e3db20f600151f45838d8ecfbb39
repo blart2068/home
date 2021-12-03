@@ -1,0 +1,17 @@
+package tank;
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+import java.io.*;
+public class Tank1 extends JFrame{
+	public static void main(String[]args){
+		new Tank1();
+	}
+	Tank1(){
+		this.setTitle("Ì¹¿Ë´óÕ½");
+		setSize(500, 400);
+		setLocation(222,222);
+		setVisible(true);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	}
+}

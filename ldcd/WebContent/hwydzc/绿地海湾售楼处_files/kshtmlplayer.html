@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0047)https://ryak66.kuaishang.cn/bs/kshtmlplayer.jsp -->
+<html xmlns:ks="" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript" src="./jquery.min.js.下载"></script><style type="text/css">:root #content > #right > .dose > .dosesingle,
+:root #content > #center > .dose > .dosesingle
+{display:none !important;}</style>
+<script type="text/javascript" src="./jquery.jplayer.min.js.下载"></script>
+<script>
+//如果有空的话，可以把所有的播放相关的都放到这个对象中，那样更容易管理
+var ksPlayer={
+	curPlay:null
+},basePath='https://ryak66.kuaishang.cn:443/bs/';
+//MP3播放或者停止播放
+function playVoice(obj,url){
+	var src=obj.src+'';
+	if(src.substring(src.length-4)=='.gif'){
+		//document.title='stop_id='+obj.id+'&url='+url;
+		obj.src=src.replace(/\/[^/]*?$/,'/voice.jpg');
+		ksPlayer.my_jPlayer.jPlayer("stop");
+		ksPlayer.curPlay=null;
+	}else{
+		if(ksPlayer.curPlay){
+			ksPlayer.my_jPlayer.jPlayer("stop");
+		}
+		obj.src=src.replace(/\/[^/]*?$/,'/voice_wait.gif');
+		ksPlayer.curPlay=obj.id;
+		url = url.replace(/\.amr$/,'.mp3');
+		ksPlayer.my_jPlayer.jPlayer("setMedia", {
+			mp3:url
+		});
+		ksPlayer.my_jPlayer.jPlayer("play");
+	}
+}
+//效果声音鼠标图标--等待播放（这一步基本不会存在，因为语音的缓冲时间基本可以忽略）
+function setPlayWaiting(objId){
+	
+}
+//效果声音鼠标图标--播放中
+function setPlayStart(objId){
+	//console.log('objId:'+objId+' ksPlayer.curPlay:'+ksPlayer.curPlay)
+	if(!objId)objId=ksPlayer.curPlay;
+	var img=parent.document.getElementById(objId);
+	if(img)img.src=img.src.replace(/\/[^/]*?$/,'/voice_play.gif');
+	ksPlayer.curPlay=objId;
+}
+//效果声音鼠标图标--播放停止
+function setPlayStop(objId){
+	if(!objId)objId=ksPlayer.curPlay;
+	var img=parent.document.getElementById(objId);
+	if(img)img.src=img.src.replace(/\/[^/]*?$/,'/voice.jpg');
+	ksPlayer.curPlay=null;
+}
+$(document).ready(function(){
+	ksPlayer = parent.ksPlayer;
+	//初始化mp3播放
+	ksPlayer.my_jPlayer = $("#jquery_jplayer");
+	ksPlayer.my_jPlayer.jPlayer({
+		swfPath: basePath+"js/jquery",
+		ready: function () {
+			if(ksPlayer.curPlay && ksPlayer.curUrl){
+				ksPlayer.my_jPlayer.jPlayer("setMedia", {
+					mp3:ksPlayer.curUrl
+				});
+				ksPlayer.my_jPlayer.jPlayer("play");
+			}
+		},
+		play:function(){
+			setPlayStart();
+			},
+		pause: function(event) {
+			setPlayStop();
+		},
+		ended: function(event) {
+			setPlayStop();
+		}
+	});
+});
+</script>
+  </head>
+  <body style="">
+    <div id="jquery_jplayer" style="width: 0px; height: 0px;"><img id="jp_poster_0" style="width: 0px; height: 0px; display: none;"><audio id="jp_audio_0" preload="metadata"></audio></div>
+   
+
+</body></html>

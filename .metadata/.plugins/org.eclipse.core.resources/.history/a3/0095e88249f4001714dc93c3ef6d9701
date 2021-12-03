@@ -1,0 +1,27 @@
+<%@ page contentType="text/html; charset=gbk" %>
+ 2 
+ 3 
+ 4   
+ 5         <title>login</title>
+ 6    
+ 7   
+ 8         <!-- <p1>test!</p1> -->
+ 9         <h2 align="center">»¶Ó­µÇÂ¼</h2>
+10         <form name=loginForm action="handlelogin.jsp" method=post>
+11         <table align="center">
+12             <tr>
+13                 <td>ÓÃ»§Ãû£º</td><td><input type=text name=username /></td>
+14             </tr>    
+15             <tr>
+16                 <td>ÃÜÂë£º</td><td><input type=password name=pwd /></td>
+17             <tr/>            
+18             <tr>
+19             <td colspan="2",align="center">
+20                 <input type="submit" value="submit" />
+21                 <input type="reset" value="reset" />
+22             </td>
+23             </tr>        
+24         </table>
+25         
+26         </form>
+27    

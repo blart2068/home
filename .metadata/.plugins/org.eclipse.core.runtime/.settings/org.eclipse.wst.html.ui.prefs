@@ -1,0 +1,23 @@
+AbstractTextEditor.Color.Background.SystemDefault=true
+AbstractTextEditor.Color.Foreground.SystemDefault=true
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=true
+autoProposeCode=<\=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVW
+eclipse.preferences.version=1
+html_content_assist_default_page_sort_order=org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000org.eclipse.wst.jsdt.web.ui.ContentAssistProposals\u0000
+html_content_assist_own_page_sort_order=org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000
+newFileTemplateName=\u666E\u901A
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="html_new" deleted\="false" description\="\u624B\u673A\u7248" enabled\="true" name\="html5 \u624B\u673A\u7248">&lt;\!DOCTYPE html&gt;&\#13;\r\n&lt;html&gt;&\#13;\r\n&lt;head&gt;&\#13;\r\n&lt;meta charset\="UTF-8"&gt;&\#13;\r\n&lt;title&gt;\u4E3B\u9875&lt;/title&gt;&\#13;\r\n&lt;meta name\="viewport"&\#13;\r\n\tcontent\="maximun-scale\=1.0,&\#13;\r\n    minimum-scale-\=1.0,user-scalable\=0,&\#13;\r\n    width\=device-width,initial-scale\=1.0"&gt;&\#13;\r\n&lt;/head&gt;&\#13;\r\n&lt;style type\="text/css"&gt;&\#13;\r\n&lt;/style&gt;&\#13;\r\n&lt;/body&gt;&\#13;\r\n&lt;/html&gt;</template><template autoinsert\="true" context\="html_new" deleted\="false" description\="\u666E\u901A\u6837\u5F0F" enabled\="true" name\="\u666E\u901A">&lt;\!DOCTYPE html&gt;&\#13;\r\n&lt;html lang\="zh-cn"&gt;&\#13;\r\n&lt;head&gt;&\#13;\r\n&lt;meta charset\="UTF-8"&gt;&\#13;\r\n&lt;title&gt;HTML&lt;/title&gt;&\#13;\r\n&lt;/head&gt;&\#13;\r\n&lt;body&gt;&\#13;\r\n&\#13;\r\n&lt;/body&gt;&\#13;\r\n&lt;/html&gt;</template><template autoinsert\="true" context\="html_new" deleted\="false" description\="\u5E38\u89C4\u7528" enabled\="true" name\="\u5E38\u89C4">&lt;\!DOCTYPE html&gt;&\#13;\r\n&lt;head lang\="en"&gt;&\#13;\r\n\t&lt;meta charset\="UTF-8"&gt;&\#13;\r\n\t&lt;title&gt;&lt;/title&gt;&\#13;\r\n&lt;/head&gt;&\#13;\r\n&lt;body&gt;&\#13;\r\n&\#13;\r\n&lt;/body&gt;&\#13;\r\n&lt;/html&gt;</template></templates>
+predarkestdark.commentBorder=\#C7DD0C | null | null | false | null | null
+predarkestdark.commentText=\#C7DD0C | null | null | false | null | null
+predarkestdark.declBoder=\#FFFFFF | null | null | null | null | null
+predarkestdark.doctypeExternalId=\#FFFFFF | null | null | null | null | null
+predarkestdark.doctypeExternalPubref=\#FFFFFF | null | null | null | null | null
+predarkestdark.doctypeExtrenalSysref=\#FFFFFF | null | null | null | null | null
+predarkestdark.doctypeName=\#FFFFFF | null | null | null | null | null
+predarkestdark.entityReference=\#8DCBE2 | null | null | null | null | null
+predarkestdark.tagAttributeEquals=\#D8D8D8 | null | null | null | null | null
+predarkestdark.tagAttributeName=\#BED6FF | null | null | null | null | null
+predarkestdark.tagAttributeValue=\#FFC600 | null | null | null | null | null
+predarkestdark.tagBorder=\#79ABFF | null | null | null | null | null
+predarkestdark.tagName=\#BED6FF | null | null | null | null | null
+predarkestdark.xmlContent=\#D8D8D8 | null | null | null | null | null
